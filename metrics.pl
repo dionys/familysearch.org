@@ -39,8 +39,8 @@ for my $h1 (sort keys %$data) {
                 printf("Также %s.\n\n", join(', ', @r));
             }
 
-            for (sort { $a <=> $b} keys %$d) {
-                printf("- %d: ", $_);
+            for (sort keys %$d) {
+                printf("- %s: ", $_);
                 print(join(', ', map { sprintf("[ф. %s, оп. %s, д. %s](%s)", @{$_->{p}}, $_->{u}) } ref($d->{$_}) eq 'ARRAY' ? @{$d->{$_}} : $d->{$_}), "\n");
             }
             print("\n");

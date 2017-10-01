@@ -19,6 +19,10 @@
 - 1912: [ф. 4, оп. 176, д. 1617](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-VQY4)
 - 1916: [ф. Р-1172, оп. 4, д. 189](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-N97K-Q)
 
+#### Акташ
+
+См. [Русский Акташ](#Русский Акташ).
+
 #### Алексеевка
 
 См. [Федотово](#Федотово).
@@ -31,7 +35,74 @@
 
 См. [Федотово](#Федотово).
 
+#### Ашпала
+
+- 1908: [ф. 4, оп. 176, д. 1401](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-XSN9)
+
 #### Бурды
+
+#### Верхний Акташ
+
+- 1900: [ф. 4, оп. 166, д. 186](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-MS1T)
+
+#### Русский Акташ
+
+Также Акташ.
+
+- 1863: [ф. 4, оп. 153, д. 276](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-2WMG)
+- 1864: [ф. 4, оп. 153, д. 279](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-23C7)
+- 1865: [ф. 4, оп. 153, д. 283](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-23ND)
+- 1866: [ф. 4, оп. 153, д. 290](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-Y76W)
+- 1867: [ф. 4, оп. 153, д. 294](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-TQBP), [ф. 4, оп. 153, д. 294](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-W4F9)
+- 1868: [ф. 4, оп. 153, д. 298](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-M8LS)
+- 1869: [ф. 4, оп. 153, д. 305](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-JNPZ)
+- 1870: [ф. 4, оп. 153, д. 309](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-J879)
+- 1872: [ф. 4, оп. 153, д. 338](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-JWMZ)
+- 1873: [ф. 4, оп. 166, д. 3](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-G9NJ)
+- 1874: [ф. 4, оп. 166, д. 10](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-SSNJ), [ф. 4, оп. 166, д. 10](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-VWK9)
+- 1875: [ф. 4, оп. 166, д. 14](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-WKQX)
+- 1876: [ф. 4, оп. 166, д. 19](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-ZS95)
+- 1877: [ф. 4, оп. 166, д. 23](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-PC1)
+- 1878: [ф. 4, оп. 166, д. 29](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-RFTZ), [ф. 4, оп. 166, д. 29](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-Z4MF)
+- 1879: [ф. 4, оп. 166, д. 35](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-G9ZH)
+- 1880: [ф. 4, оп. 166, д. 39](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-GCN)
+- 1881: [ф. 4, оп. 166, д. 45](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-78NJ)
+- 1882: [ф. 4, оп. 166, д. 51](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-LQVV)
+- 1883: [ф. 4, оп. 166, д. 55](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-P7M4)
+- 1884: [ф. 4, оп. 166, д. 68](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-GDVN)
+- 1885: [ф. 4, оп. 166, д. 72](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-SQL8), [ф. 4, оп. 166, д. 72](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-978H)
+- 1886: [ф. 4, оп. 166, д. 77](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-GX8R)
+- 1887: [ф. 4, оп. 166, д. 85](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-C97H)
+- 1888: [ф. 4, оп. 166, д. 93](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-H8NY)
+- 1889: [ф. 4, оп. 166, д. 101](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-445)
+- 1890: [ф. 4, оп. 166, д. 103](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-HJVH)
+- 1891: [ф. 4, оп. 166, д. 114](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-MQKB)
+- 1892: [ф. 4, оп. 166, д. 121](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-Y5PN)
+- 1893: [ф. 4, оп. 166, д. 127](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-W9VN)
+- 1894: [ф. 4, оп. 166, д. 130](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-ZX9Z)
+- 1895: [ф. 4, оп. 166, д. 141](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-5SBT)
+- 1896: [ф. 4, оп. 166, д. 148](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-LH2P)
+- 1897: [ф. 4, оп. 166, д. 156](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-Y6CN)
+- 1898: [ф. 4, оп. 166, д. 169](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-P9LG)
+- 1899: [ф. 4, оп. 166, д. 174](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-3VTC)
+- 1900: [ф. 4, оп. 166, д. 180](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-B9HC)
+- 1901: [ф. 4, оп. 166, д. 193](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-88C), [ф. 4, оп. 166, д. 193](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-SN1V)
+- 1902: [ф. 4, оп. 166, д. 199](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-CKW)
+- 1903: [ф. 4, оп. 166, д. 203](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-3TK3)
+- 1904: [ф. 4, оп. 166, д. 211](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-GX3X)
+- 1905: [ф. 4, оп. 166, д. 221](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-Z5R2)
+- 1906: [ф. 4, оп. 166, д. 228](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-7CXC)
+- 1907: [ф. 4, оп. 166, д. 236](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-W99H)
+- 1908: [ф. 4, оп. 176, д. 1398](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-SQL8)
+- 1909: [ф. 4, оп. 176, д. 1405](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-XFSJ)
+- 1910: [ф. 4, оп. 176, д. 1542](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-DHLV)
+- 1912: [ф. 4, оп. 176, д. 1621](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-6ZJ9)
+- 1913: [ф. 4, оп. 176, д. 1630](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-S4Y3)
+- 1914: [ф. 4, оп. 176, д. 1722](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-88MW)
+- 1915: [ф. 4, оп. 176, д. 1788](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-N9QY-X)
+- 1916: [ф. Р-1172, оп. 4, д. 191](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-NH52)
+- 1918: [ф. Р-1172, оп. 4, д. 241](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-F96K-2)
+- 1919—1920: [ф. Р-1172, оп. 4, д. 241](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-F96K-2)
 
 #### Федотово
 
