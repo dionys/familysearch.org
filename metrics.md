@@ -2,6 +2,23 @@
 
 ### Мензелинский уезд
 
+#### Авлаш
+
+- 1916: [ф. Р-1172, оп. 4, д. 189](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-N9SQ-F)
+
+#### Азибей
+
+- 1904: [ф. 4, оп. 166, д. 218](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-1V3R)
+- 1905: [ф. 4, оп. 166, д. 219](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-M9D4)
+- 1906: [ф. 4, оп. 166, д. 231](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-4NBD)
+- 1907: [ф. 4, оп. 166, д. 234](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-7LJT)
+- 1908: [ф. 4, оп. 176, д. 1404](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-XXQN)
+- 1909: [ф. 4, оп. 176, д. 1408](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-Q8PK)
+- 1910: [ф. 4, оп. 176, д. 1543](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-DWLX)
+- 1911: [ф. 4, оп. 176, д. 1553](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-Z8G5)
+- 1912: [ф. 4, оп. 176, д. 1617](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-VQY4)
+- 1916: [ф. Р-1172, оп. 4, д. 189](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-N97K-Q)
+
 #### Алексеевка
 
 См. [Федотово](#Федотово).

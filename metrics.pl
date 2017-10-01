@@ -43,7 +43,7 @@ for my $h1 (sort keys %$data) {
                 printf("- %d: ", $_);
                 print(join(', ', map { sprintf("[ф. %s, оп. %s, д. %s](%s)", @{$_->{p}}, $_->{u}) } ref($d->{$_}) eq 'ARRAY' ? @{$d->{$_}} : $d->{$_}), "\n");
             }
+            print("\n");
         }
     }
-    print("\n")
 }
