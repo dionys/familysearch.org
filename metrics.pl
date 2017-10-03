@@ -30,7 +30,7 @@ for my $h1 (sort keys %$data) {
                     printf("См. [%s](#%s).\n\n", $d, join('-', split(' ', $d)));
                 }
                 else {
-                    warn("No place link");
+                    warn("No place link for \"" . $p . "\"\n");
                 }
                 next;
             }
