@@ -25,9 +25,11 @@ for my $h1 (sort keys %$data) {
 
             printf("#### %s\n\n", $p);
 
-            if (!ref $d) {
-                if (defined $d) {
-                    printf("См. [%s](#%s).\n\n", $d, join('-', split(' ', $d)));
+            if (!ref $d || ref $d eq 'ARRAY') {
+                my @l = ref $d ? @$d : defined $d ? $d : ();
+
+                if (@l) {
+                    print("См. " . join(", ", map { sprintf("[%s](#%s)", $_, join('-', split(' ', $_))) } sort @l) . ".\n\n");
                 }
                 else {
                     warn("No place link for \"" . $p . "\"\n");
