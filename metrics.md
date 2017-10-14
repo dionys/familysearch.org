@@ -219,6 +219,8 @@
 
 #### Багряж-Никольское
 
+Также Багряж.
+
 - 1837: [ф. 4, оп. 3 доп., д. 8а](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-1DKY)
 - 1838: [ф. 4, оп. 3 доп., д. 8а](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-1D5C)
 - 1839: [ф. 4, оп. 3 доп., д. 8а](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-1631)

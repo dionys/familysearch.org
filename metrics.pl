@@ -37,7 +37,7 @@ for my $h1 (sort keys %$data) {
                 next;
             }
 
-            if (my @r = sort grep { my $v = $d2->{$_}; defined($v) && !ref($v) && $v eq $p } keys %$d2) {
+            if (my @r = sort grep { my $v = $d2->{$_}; defined($v) && (!ref($v) && $v eq $p || ref($v) eq 'ARRAY' && grep { $_ eq $p } @$v) } keys %$d2) {
                 printf("Также %s.\n\n", join(', ', @r));
             }
 
