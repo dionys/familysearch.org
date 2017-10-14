@@ -566,23 +566,246 @@
                 p: [Р-1172, 4, 194]
             1919:
               - u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-4Z4Z
-                p: [Р-1172, 4, 241]
+                p: [Р-1172, 4, 194]
               - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-4C5M
-                p: [Р-1172, 4, 241]
+                p: [Р-1172, 4, 194]
               - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-4CJK
-                p: [Р-1172, 4, 241]
+                p: [Р-1172, 4, 194]
             1920:
                 u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-465X
-                p: [Р-1172, 4, 241]
+                p: [Р-1172, 4, 194]
         Ашпала:
             1908:
                 u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-XSN9
                 p: [4, 176, 1401]
+        Багряж: [Багряж-Никольское, Верхний Багряж]
+        Багряж-Никольское:
+            1837:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-1DKY
+                p: [4, 3 доп., 8а]
+            1838:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-1D5C
+                p: [4, 3 доп., 8а]
+            1839:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-1631
+                p: [4, 3 доп., 8а]
+            1840:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-1WYB
+                p: [4, 3 доп., 8а]
+            1841:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-1HCB
+                p: [4, 3 доп., 8а]
+            1842:
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-4N64
+                p: [4, 3 доп., 8а]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-1HLX
+                p: [4, 3 доп., 8а]
+            1863:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-2C2C
+                p: [4, 153, 276]
+            1864:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-9WFT
+                p: [4, 153, 280]
+            1865:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-VF99
+                p: [4, 153, 286]
+            1866:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-MCFD
+                p: [4, 153, 288]
+            1867:
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-L37W
+                p: [4, 153, 296]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-M8L5
+                p: [4, 153, 296]
+            1868:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-JNT7
+                p: [4, 153, 299]
+            1869:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-7XC9
+                p: [4, 153, 303]
+            1870:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-J8TK
+                p: [4, 153, 308]
+            1871:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-JN6Q
+                p: [4, 153, 330]
+            1872:
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-J4Z8
+                p: [4, 153, 339]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-J6YC
+                p: [4, 153, 339]
+            1873:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-HQCT
+                p: [4, 166, 5]
+            1874:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-37W5
+                p: [4, 166, 8]
+            1875:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-WKCC
+                p: [4, 166, 13]
+            1876:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-CKST
+                p: [4, 166, 18]
+            1877:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-2QRG
+                p: [4, 166, 24]
+            1878:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-RFYX
+                p: [4, 166, 28]
+            1879:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-HHZJ
+                p: [4, 166, 37]
+            1880:
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-1CRV
+                p: [4, 3 доп., 10]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-YJZ
+                p: [4, 166, 38]
+            1881:
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-1CGW
+                p: [4, 3 доп., 10]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-7CF6
+                p: [4, 166, 46]
+            1882:
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-1HGW
+                p: [4, 3 доп., 10]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-L3C4
+                p: [4, 166, 50]
+            1883:
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-14PG
+                p: [4, 3 доп., 10]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-YGB9
+                p: [4, 3 доп., 10]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-LWG1
+                p: [4, 166, 57]
+            1884:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-ZZLW
+                p: [4, 166, 63]
+            1885:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-S7F5
+                p: [4, 166, 70]
+            1886:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-YVVR
+                p: [4, 166, 82]
+            1887:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-39SR-J
+                p: [4, 166, 87]
+            1888:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-HHYY
+                p: [4, 166, 92]
+            1889:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-79QF
+                p: [4, 166, 100]
+            1890:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-L9SM
+                p: [4, 166, 108]
+            1891:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-YZPY
+                p: [4, 166, 110]
+            1892:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-3LFZ
+                p: [4, 166, 116]
+            1893:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-7LV2
+                p: [4, 166, 128]
+            1894:
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-Z8NC
+                p: [4, 166, 130]
+#             - u:
+#               p:
+            1895:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-5XZB
+                p: [4, 166, 144]
+            1896:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-LH1T
+                p: [4, 166, 148]
+            1897:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-S4QM
+                p: [4, 166, 159]
+            1898:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-Z34R
+                p: [4, 166, 165]
+            1899:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-3KLS
+                p: [4, 166, 174]
+            1900:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-M7KF
+                p: [4, 166, 187]
+            1901:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-W6CN
+                p: [4, 166, 195]
+            1902:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-CJHV
+                p: [4, 166, 199]
+            1903:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-HS2W
+                p: [4, 166, 209]
+            1904:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-HFYW
+                p: [4, 166, 217]
+            1905:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-1J1J
+                p: [4, 166, 224]
+            1906:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-HZCC
+                p: [4, 166, 230]
+            1907:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-W4FD
+                p: [4, 166, 237]
+            1908:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-83NM
+                p: [4, 176, 1402]
+            1909:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-DVR4
+                p: [4, 176, 1407]
+            1910:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-Z9WX-3
+                p: [4, 176, 1549]
+#           1911:
+            1912:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-VHMS
+                p: [4, 176, 1616]
+            1913:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-NWDB
+                p: [4, 176, 1626]
+            1914:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-6SMD
+                p: [4, 176, 1728]
+            1915:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-H74
+                p: [4, 176, 1790]
+            1916:
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-NH1F
+                p: [Р-1172, 4, 191]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-46B1
+                p: [Р-1172, 4, 195]
+            1917:
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-46LR
+                p: [Р-1172, 4, 195]
+            1918:
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-46JL
+                p: [Р-1172, 4, 195]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-4631
+                p: [Р-1172, 4, 195]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-462T
+                p: [Р-1172, 4, 195]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-466H
+                p: [Р-1172, 4, 195]
+            1919:
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-46W7
+                p: [Р-1172, 4, 195]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-4D6G
+                p: [Р-1172, 4, 195]
+            1920:
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-4DLS
+                p: [Р-1172, 4, 195]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-46S4
+                p: [Р-1172, 4, 195]
         Бурды:
         Верхний Акташ:
             1900:
                 u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-MS1T
                 p: [4, 166, 186]
+        Верхний Багряж:
         Карамалы: Александровка
         Можарово:
             1863:
