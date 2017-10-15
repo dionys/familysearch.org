@@ -20,6 +20,11 @@ for my $h1 (sort keys %$data) {
 
         printf("### %s\n\n", $h2);
 
+        for (sort keys %$d2) {
+            printf("- [%s](#%s)\n", $_, join('-', split(' ', $_)));
+        }
+        print("\n");
+
         for my $p (sort keys %$d2) {
             my $d = $d2->{$p};
 
