@@ -315,6 +315,39 @@
 
 #### Верхний Багряж
 
+Также Багряж.
+
+- 1888: [ф. 4, оп. 166, д. 91](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-YR5Y)
+- 1889: [ф. 4, оп. 166, д. 99](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-7SS3)
+- 1890: [ф. 4, оп. 166, д. 106](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-P83V)
+- 1891: [ф. 4, оп. 166, д. 113](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-3J2T)
+- 1892: [ф. 4, оп. 166, д. 120](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-L825)
+- 1893: [ф. 4, оп. 166, д. 129](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-WHH)
+- 1894: [ф. 4, оп. 166, д. 134](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-YQXB)
+- 1895: [ф. 4, оп. 166, д. 142](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-592X)
+- 1896: [ф. 4, оп. 166, д. 154](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-SSBK)
+- 1897: [ф. 4, оп. 3 доп., д. 23](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-YLSV), [ф. 4, оп. 166, д. 161](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-GW27)
+- 1898: [ф. 4, оп. 3 доп., д. 23](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-YLWR)
+- 1899: [ф. 4, оп. 3 доп., д. 23](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-YLF1), [ф. 4, оп. 166, д. 177](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-H9F9)
+- 1900: [ф. 4, оп. 3 доп., д. 23](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-YGF1), [ф. 4, оп. 166, д. 181](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-B3MW)
+- 1901: [ф. 4, оп. 166, д. 191](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-MQZM)
+- 1902: [ф. 4, оп. 166, д. 200](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-HKSK)
+- 1903: [ф. 4, оп. 166, д. 210](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-WX2R)
+- 1904: [ф. 4, оп. 166, д. 213](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-1FWW)
+- 1905: [ф. 4, оп. 166, д. 220](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-1V5R)
+- 1906: [ф. 4, оп. 166, д. 228](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-PXBH)
+- 1907: [ф. 4, оп. 166, д. 236](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-WQS9)
+- 1908: [ф. 4, оп. 176, д. 1398](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-S38B)
+- 1909: [ф. 4, оп. 176, д. 1408](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-Q8YR)
+- 1910: [ф. 4, оп. 176, д. 1544](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-DCDF), [ф. 4, оп. 176, д. 1544](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-4B95)
+- 1911: [ф. 4, оп. 176, д. 1619](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-3CFQ), [ф. 4, оп. 176, д. 1619](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-4BG)
+- 1912: [ф. 4, оп. 176, д. 1615](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-JCL1)
+- 1913: [ф. 4, оп. 176, д. 1623](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-Z98K-B)
+- 1914: [ф. 4, оп. 176, д. 1727](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-6Q6H)
+- 1915: [ф. 4, оп. 176, д. 1789](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-N9MN-F)
+- 1916: [ф. Р-1172, оп. 4, д. 187](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-69CG-V), [ф. Р-1172, оп. 4, д. 187](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-89W2-D)
+- 1920: [ф. Р-1172, оп. 4, д. 250](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-CHSG)
+
 #### Карамалы
 
 См. [Александровка](#Александровка).
