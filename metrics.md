@@ -18,6 +18,7 @@
 - [Байсар-Софьино](#Байсар-Софьино)
 - [Байсарово](#Байсарово)
 - [Балчиклы](#Балчиклы)
+- [Баткак](#Баткак)
 - [Бурды](#Бурды)
 - [Верхний Акташ](#Верхний-Акташ)
 - [Верхний Багряж](#Верхний-Багряж)
@@ -371,6 +372,35 @@
 - 1919: [ф. Р-1172, оп. 4, д. 194](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-48J8), [ф. Р-1172, оп. 4, д. 194](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-4Z1C), [ф. Р-1172, оп. 4, д. 194](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-4Z1Z)
 - 1922: [ф. Р-1172, оп. 4, д. 194](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-4ZRT)
 - 1923: [ф. Р-1172, оп. 4, д. 194](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-4Z2J)
+
+#### Баткак
+
+- 1893: [ф. 4, оп. 166, д. 127](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-7L79)
+- 1894: [ф. 4, оп. 166, д. 130](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-Z8WB)
+- 1895: [ф. 4, оп. 166, д. 138](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-9ZDF)
+- 1896: [ф. 4, оп. 166, д. 150](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-ZXV1)
+- 1897: [ф. 4, оп. 166, д. 160](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-G3QK)
+- 1898: [ф. 4, оп. 166, д. 169](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-PSDJ)
+- 1899: [ф. 4, оп. 166, д. 173](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-HWBJ), [ф. 4, оп. 166, д. 173](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-3KM5)
+- 1900: [ф. 4, оп. 166, д. 186](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-MQHC)
+- 1901: [ф. 4, оп. 166, д. 193](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-SXBH)
+- 1902: [ф. 4, оп. 166, д. 198](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-CVRV)
+- 1903: [ф. 4, оп. 166, д. 205](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-QT6Y)
+- 1904: [ф. 4, оп. 166, д. 213](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-1F1M)
+- 1905: [ф. 4, оп. 166, д. 220](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-M3T)
+- 1906: [ф. 4, оп. 166, д. 227](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-78VR)
+- 1907: [ф. 4, оп. 166, д. 233](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-G66P)
+- 1908: [ф. 4, оп. 176, д. 1397](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-642)
+- 1909: [ф. 4, оп. 176, д. 1408](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-7962)
+- 1910: [ф. 4, оп. 176, д. 1544](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-4Y7F)
+- 1911: [ф. 4, оп. 176, д. 1619](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-4WD)
+- 1912: [ф. 4, оп. 176, д. 1615](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-V9CD)
+- 1913: [ф. 4, оп. 176, д. 1625](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-ZLWL)
+- 1914: [ф. 4, оп. 176, д. 1727](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-63K2)
+- 1915: [ф. 4, оп. 176, д. 1791](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-Z9DS-7)
+- 1916: [ф. Р-1172, оп. 4, д. 188](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-89WK-S)
+- 1917: [ф. Р-1172, оп. 4, д. 200](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-4C2S), [ф. Р-1172, оп. 4, д. 200](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-4CFR), [ф. Р-1172, оп. 4, д. 200](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-4CTG)
+- 1918: [ф. Р-1172, оп. 4, д. 200](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-4Z9F), [ф. Р-1172, оп. 4, д. 200](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-4CKQ), [ф. Р-1172, оп. 4, д. 200](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-4C6Q)
 
 #### Бурды
 
