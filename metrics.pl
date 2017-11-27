@@ -8,7 +8,7 @@ use open qw(:std :utf8);
 use YAML ();
 
 
-my $data = YAML::LoadFile('metrics.yaml');
+my $data = YAML::LoadFile($ARGV[0]);
 
 for my $h1 (sort keys %$data) {
     my $d1 = $data->{$h1};
