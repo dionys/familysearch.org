@@ -1023,6 +1023,7 @@
             1923:
               - u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-4Z2J
                 p: [Р-1172, 4, 194]
+        Барский Батрас: Батрас
         Баткак:
             1893:
                 u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-7L79
@@ -1112,7 +1113,56 @@
                 p: [Р-1172, 4, 200]
               - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-4C6Q
                 p: [Р-1172, 4, 200]
+        Батрас:
+            1901:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-W6BN
+                p: [4, 166, 195]
+            1902:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-CJK1
+                p: [4, 166, 199]
+            1903:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-H3LF
+                p: [4, 166, 209]
+            1904:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-HJ9F
+                p: [4, 166, 217]
+            1905:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-1VXN
+                p: [4, 166, 224]
+#           1906:
+            1907:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-SD47
+                p: [4, 166, 238]
+            1908:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-8Q3Q
+                p: [4, 176, 1402]
+            1909:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-DJ25
+                p: [4, 176, 1405]
+            1910:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-Z9QL-4
+                p: [4, 176, 1549]
+#           1911:
+            1912:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-6DNF
+                p: [4, 176, 1621]
+            1913:
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-ZPJQ
+                p: [4, 176, 1626]
+              - u: https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-NWYC
+                p: [4, 176, 1626]
+            1914:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-6S33
+                p: [4, 176, 1728]
+            1915:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-4938-W
+                p: [4, 176, 1790]
+            1916:
+                u: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-N45X
+                p: [Р-1172, 4, 191]
+        Богородское при реке Иныш: Сухарево
         Бурды:
+        Верхний Авлаш: Авлаш
         Верхний Акташ:
             1900:
                 u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-MS1T
@@ -1770,6 +1820,7 @@
             1916:
                 u: https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-89WY-2
                 p: [Р-1172, 4, 188]
+        Сухарево:
         Федотово:
             1863:
                 u: https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-29K9
