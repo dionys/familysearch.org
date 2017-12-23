@@ -21,7 +21,8 @@
 - [Барский Батрас](#Барский-Батрас)
 - [Баткак](#Баткак)
 - [Батрас](#Батрас)
-- [Богородское при реке Иныш](#Богородское-при-реке-Иныш)
+- [Бережные Челны](#Бережные-Челны)
+- [Богородское на реке Иныш](#Богородское-на-реке-Иныш)
 - [Бурды](#Бурды)
 - [Верхний Авлаш](#Верхний-Авлаш)
 - [Верхний Акташ](#Верхний-Акташ)
@@ -29,6 +30,7 @@
 - [Карамалы](#Карамалы)
 - [Круглое Поле](#Круглое-Поле)
 - [Можарово](#Можарово)
+- [Набережные Челны](#Набережные-Челны)
 - [Русские Карамалы](#Русские-Карамалы)
 - [Русский Акташ](#Русский-Акташ)
 - [Старое Байсарово](#Старое-Байсарово)
@@ -433,7 +435,69 @@
 - 1915: [ф. 4, оп. 176, д. 1790](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-4938-W)
 - 1916: [ф. Р-1172, оп. 4, д. 191](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-N45X)
 
-#### Богородское при реке Иныш
+#### Бережные Челны
+
+Также Набережные Челны.
+
+- 1863: [ф. 4, оп. 153, д. 275](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-7NCX)
+- 1864: [ф. 4, оп. 153, д. 282](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-JZFB), [ф. 4, оп. 153, д. 282](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-2SF4)
+- 1865: [ф. 4, оп. 153, д. 285](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-TGS)
+- 1866: [ф. 4, оп. 153, д. 289](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-MH4F)
+- 1867: [ф. 4, оп. 153, д. 297](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-MZM5)
+- 1868: [ф. 4, оп. 153, д. 300](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-J3B6)
+- 1869: [ф. 4, оп. 153, д. 307](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-Q2RP)
+- 1870: [ф. 4, оп. 153, д. 321](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-77PL)
+- 1871: [ф. 4, оп. 153, д. 334](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-JXV5)
+- 1872: [ф. 4, оп. 153, д. 336](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZH-FRG6)
+- 1873: [ф. 4, оп. 166, д. 4](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-35BW)
+- 1874: [ф. 4, оп. 166, д. 9](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-S3TW)
+- 1875: [ф. 4, оп. 166, д. 13](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-4HF3)
+- 1876: [ф. 4, оп. 166, д. 20](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-BSFQ)
+- 1877: [ф. 4, оп. 166, д. 25](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-TQT6)
+- 1878: [ф. 4, оп. 166, д. 31](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-CKS)
+- 1879: [ф. 4, оп. 166, д. 36](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-H8G1)
+- 1880: [ф. 4, оп. 166, д. 41](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-HDTR)
+- 1881: [ф. 4, оп. 166, д. 47](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-4DCR)
+- 1882: [ф. 4, оп. 166, д. 53](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-CHLM)
+- 1883: [ф. 4, оп. 166, д. 59](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-MZKS)
+- 1884: [ф. 4, оп. 166, д. 66](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-MVMB)
+- 1885: [ф. 4, оп. 166, д. 71](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-SSXB)
+- 1886: [ф. 4, оп. 166, д. 81](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-58T)
+- 1887: [ф. 4, оп. 166, д. 89](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-L4N)
+- 1888: [ф. 4, оп. 166, д. 94](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-SYWL)
+- 1889: [ф. 4, оп. 166, д. 97](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-QCMK)
+- 1890: [ф. 4, оп. 166, д. 109](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-RN2Z)
+- 1891: [ф. 4, оп. 166, д. 111](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-Y62K)
+- 1892: [ф. 4, оп. 166, д. 119](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-CN1J)
+- 1893: [ф. 4, оп. 166, д. 126](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-WYP)
+- 1894: [ф. 4, оп. 166, д. 135](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-GDKQ)
+- 1895: [ф. 4, оп. 166, д. 143](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-56B6)
+- 1896: [ф. 4, оп. 166, д. 153](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-S959)
+- 1897: [ф. 4, оп. 166, д. 164](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-ZQBW)
+- 1898: [ф. 4, оп. 166, д. 166](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-Z1S)
+- 1899: [ф. 4, оп. 166, д. 172](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-HH6N)
+- 1900: [ф. 4, оп. 166, д. 185](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-L3FW)
+- 1901: [ф. 4, оп. 166, д. 189](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-BQS4)
+- 1902: [ф. 4, оп. 166, д. 196](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-1SL9)
+- 1903: [ф. 4, оп. 166, д. 206](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-QTQD)
+- 1904: [ф. 4, оп. 166, д. 215](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-P9HJ)
+- 1905: [ф. 4, оп. 166, д. 223](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZH-NYM)
+- 1906: [ф. 4, оп. 166, д. 233](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-GXCG)
+- 1907: [ф. 4, оп. 166, д. 235](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-7K49)
+- 1908: [ф. 4, оп. 176, д. 1400](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-4QH7)
+- 1909: [ф. 4, оп. 176, д. 1406](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-DKR1)
+- 1910: [ф. 4, оп. 176, д. 1545](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-4BZZ)
+- 1911: [ф. 4, оп. 176, д. 1553](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-Z898)
+- 1913: [ф. 4, оп. 176, д. 1628](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-SCY3)
+- 1914: [ф. 4, оп. 176, д. 1729](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-Z9ZN-2)
+- 1915: [ф. 4, оп. 176, д. 1786](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-W9M2-K)
+- 1916: [ф. Р-1172, оп. 4, д. 186](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-6969-P)
+- 1917: [ф. Р-1172, оп. 4, д. 237](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-F9XR-S), [ф. Р-1172, оп. 4, д. 237](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-F9FC-F), [ф. Р-1172, оп. 4, д. 237](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-F9X7-C), [ф. Р-1172, оп. 4, д. 237](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-F9F7-C), [ф. Р-1172, оп. 4, д. 237](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-F98F-V)
+- 1918: [ф. Р-1172, оп. 4, д. 237](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-F988-K), [ф. Р-1172, оп. 4, д. 237](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-F9FQ-S), [ф. Р-1172, оп. 4, д. 237](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-F982-M), [ф. Р-1172, оп. 4, д. 237](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-F988-7)
+- 1919: [ф. Р-1172, оп. 4, д. 249](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-DBZB)
+- 1920: [ф. Р-1172, оп. 4, д. 249](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-CH2D)
+
+#### Богородское на реке Иныш
 
 См. [Сухарево](#Сухарево).
 
@@ -603,6 +667,10 @@
 - 1915: [ф. 4, оп. 176, д. 1787](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-W93V-F)
 - 1916: [ф. Р-1172, оп. 4, д. 189](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-N9Q7-W)
 - 1917: [ф. Р-1172, оп. 4, д. 196](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-4DN4)
+
+#### Набережные Челны
+
+См. [Бережные Челны](#Бережные-Челны).
 
 #### Русские Карамалы
 
