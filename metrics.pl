@@ -46,9 +46,28 @@ for my $h1 (sort keys %$data) {
                 printf("Также %s.\n\n", join(', ', @r));
             }
 
-            for (sort keys %$d) {
-                printf("- %s: ", $_);
-                print(join(', ', map { sprintf("[ф. %s, оп. %s, д. %s](%s)", @{$_->{p}}, $_->{u}) } ref($d->{$_}) eq 'ARRAY' ? @{$d->{$_}} : $d->{$_}), "\n");
+            for my $y (sort keys %$d) {
+                my @l = ref $d->{$y} eq 'ARRAY' ? @{$d->{$y}} : $d->{$y};
+
+                printf("- %s — ", $y);
+                for (0 .. $#l) {
+                    if (ref $l[$_]{u} eq 'ARRAY') {
+                        printf("ф. %s, оп. %s, д. %s: ", @{$l[$_]{p}});
+                        print(join(', ',
+                            map {
+                                sprintf(
+                                    '[#%s[%d—%d]](https://www.familysearch.org/search/film/%s?i=%d)',
+                                    $_->[0], $_->[1] + 1, $_->[2] + 1, $_->[0], $_->[1]
+                                )
+                            } ref $l[$_]{u}[0] ? @{$l[$_]{u}} : $l[$_]{u}
+                        ));
+                    }
+                    else {
+                        printf("[ф. %s, оп. %s, д. %s](%s)", @{$l[$_]{p}}, $l[$_]{u});
+                    }
+                    print('; ') if $_ < $#l;
+                }
+                print("\n");
             }
             print("\n");
         }
