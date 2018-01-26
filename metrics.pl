@@ -55,10 +55,15 @@ for my $h1 (sort keys %$data) {
                         printf("ф. %s, оп. %s, д. %s: ", @{$l[$_]{p}});
                         print(join(', ',
                             map {
-                                sprintf(
-                                    '[#%s[%d—%d]](https://www.familysearch.org/search/film/%s?i=%d)',
-                                    $_->[0], $_->[1] + 1, $_->[2] + 1, $_->[0], $_->[1]
-                                )
+                                defined $_->[2]
+                                    ? sprintf(
+                                        '[#%s[%d—%d]](https://www.familysearch.org/search/film/%s?i=%d)',
+                                        $_->[0], $_->[1] + 1, $_->[2] + 1, $_->[0], $_->[1]
+                                    )
+                                    : sprintf(
+                                        '[#%s[%d]](https://www.familysearch.org/search/film/%s?i=%d)',
+                                        $_->[0], $_->[1] + 1, $_->[0], $_->[1]
+                                    )
                             } ref $l[$_]{u}[0] ? @{$l[$_]{u}} : $l[$_]{u}
                         ));
                     }

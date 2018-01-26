@@ -43,7 +43,12 @@
 
 Также Верхний Авлаш.
 
-- 1916 — [ф. Р-1172, оп. 4, д. 189](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-N9SQ-F)
+- 1915 — ф. 4, оп. 176, д. 1786: [#007438550[439—472]](https://www.familysearch.org/search/film/007438550?i=438); ф. Р-1172, оп. 4, д. 221: [#007440501[515—516]](https://www.familysearch.org/search/film/007440501?i=514), [#007440501[518]](https://www.familysearch.org/search/film/007440501?i=517), [#007440501[520]](https://www.familysearch.org/search/film/007440501?i=519)
+- 1916 — ф. Р-1172, оп. 4, д. 186: [#007440486[552—577]](https://www.familysearch.org/search/film/007440486?i=551); ф. Р-1172, оп. 4, д. 221: [#007440501[532—533]](https://www.familysearch.org/search/film/007440501?i=531), [#007440501[561—562]](https://www.familysearch.org/search/film/007440501?i=560)
+- 1917 — ф. Р-1172, оп. 4, д. 221: [#007440501[480—490]](https://www.familysearch.org/search/film/007440501?i=479), [#007440501[522—527]](https://www.familysearch.org/search/film/007440501?i=521), [#007440501[543—549]](https://www.familysearch.org/search/film/007440501?i=542), [#007440501[560]](https://www.familysearch.org/search/film/007440501?i=559)
+- 1918 — ф. Р-1172, оп. 4, д. 221: [#007440501[490—503]](https://www.familysearch.org/search/film/007440501?i=489), [#007440501[528—531]](https://www.familysearch.org/search/film/007440501?i=527), [#007440501[533—537]](https://www.familysearch.org/search/film/007440501?i=532), [#007440501[550—559]](https://www.familysearch.org/search/film/007440501?i=549)
+- 1919 — ф. Р-1172, оп. 4, д. 221: [#007440501[503—515]](https://www.familysearch.org/search/film/007440501?i=502), [#007440501[538—542]](https://www.familysearch.org/search/film/007440501?i=537), [#007440501[563—571]](https://www.familysearch.org/search/film/007440501?i=562)
+- 1920 — ф. Р-1172, оп. 4, д. 221: [#007440501[516—517]](https://www.familysearch.org/search/film/007440501?i=515), [#007440501[519]](https://www.familysearch.org/search/film/007440501?i=518), [#007440501[521]](https://www.familysearch.org/search/film/007440501?i=520)
 
 #### Азибей
 
