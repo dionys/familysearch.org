@@ -51,25 +51,36 @@ for my $h1 (sort keys %$data) {
 
                 printf("- %s — ", $y);
                 for (0 .. $#l) {
-                    if (ref $l[$_]{u} eq 'ARRAY') {
-                        printf("ф. %s, оп. %s, д. %s: ", @{$l[$_]{p}});
-                        print(join(', ',
-                            map {
-                                defined $_->[2]
-                                    ? sprintf(
-                                        '[#%s[%d—%d]](https://www.familysearch.org/search/film/%s?i=%d)',
-                                        $_->[0], $_->[1] + 1, $_->[2] + 1, $_->[0], $_->[1]
-                                    )
-                                    : sprintf(
-                                        '[#%s[%d]](https://www.familysearch.org/search/film/%s?i=%d)',
-                                        $_->[0], $_->[1] + 1, $_->[0], $_->[1]
-                                    )
-                            } ref $l[$_]{u}[0] ? @{$l[$_]{u}} : $l[$_]{u}
-                        ));
-                    }
-                    else {
+                    unless (ref $l[$_]{u} eq 'ARRAY') {
                         printf("[ф. %s, оп. %s, д. %s](%s)", @{$l[$_]{p}}, $l[$_]{u});
+                        next;
                     }
+
+                    my @m = ref $l[$_]{u}[0] ? @{$l[$_]{u}} : $l[$_]{u};
+                    my $f = '';
+
+                    printf("ф. %s, оп. %s, д. %s: ", @{$l[$_]{p}});
+                    for (0 .. $#m) {
+                        if (!$f || $m[$_][0] ne $f) {
+                            printf('[#%s[', $m[$_][0]);
+                            $f = $m[$_][0];
+                        }
+                        else {
+                            print('[[');
+                        }
+                        if (defined $m[$_][2]) {
+                            printf('%d—%d', $m[$_][1] + 1, $m[$_][2] + 1);
+                        }
+                        else {
+                            printf('%d', $m[$_][1] + 1);
+                        }
+                        printf(']](https://www.familysearch.org/search/film/%s?i=%d)', $m[$_][0], $m[$_][1]);
+                    }
+                    continue {
+                        print(', ') if $_ < $#m;
+                    }
+                }
+                continue {
                     print('; ') if $_ < $#l;
                 }
                 print("\n");

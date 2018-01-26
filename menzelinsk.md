@@ -43,12 +43,12 @@
 
 Также Верхний Авлаш.
 
-- 1915 — ф. 4, оп. 176, д. 1786: [#007438550[439—472]](https://www.familysearch.org/search/film/007438550?i=438); ф. Р-1172, оп. 4, д. 221: [#007440501[515—516]](https://www.familysearch.org/search/film/007440501?i=514), [#007440501[518]](https://www.familysearch.org/search/film/007440501?i=517), [#007440501[520]](https://www.familysearch.org/search/film/007440501?i=519)
-- 1916 — ф. Р-1172, оп. 4, д. 186: [#007440486[552—577]](https://www.familysearch.org/search/film/007440486?i=551); ф. Р-1172, оп. 4, д. 221: [#007440501[532—533]](https://www.familysearch.org/search/film/007440501?i=531), [#007440501[561—562]](https://www.familysearch.org/search/film/007440501?i=560)
-- 1917 — ф. Р-1172, оп. 4, д. 221: [#007440501[480—490]](https://www.familysearch.org/search/film/007440501?i=479), [#007440501[522—527]](https://www.familysearch.org/search/film/007440501?i=521), [#007440501[543—549]](https://www.familysearch.org/search/film/007440501?i=542), [#007440501[560]](https://www.familysearch.org/search/film/007440501?i=559)
-- 1918 — ф. Р-1172, оп. 4, д. 221: [#007440501[490—503]](https://www.familysearch.org/search/film/007440501?i=489), [#007440501[528—531]](https://www.familysearch.org/search/film/007440501?i=527), [#007440501[533—537]](https://www.familysearch.org/search/film/007440501?i=532), [#007440501[550—559]](https://www.familysearch.org/search/film/007440501?i=549)
-- 1919 — ф. Р-1172, оп. 4, д. 221: [#007440501[503—515]](https://www.familysearch.org/search/film/007440501?i=502), [#007440501[538—542]](https://www.familysearch.org/search/film/007440501?i=537), [#007440501[563—571]](https://www.familysearch.org/search/film/007440501?i=562)
-- 1920 — ф. Р-1172, оп. 4, д. 221: [#007440501[516—517]](https://www.familysearch.org/search/film/007440501?i=515), [#007440501[519]](https://www.familysearch.org/search/film/007440501?i=518), [#007440501[521]](https://www.familysearch.org/search/film/007440501?i=520)
+- 1915 — ф. 4, оп. 176, д. 1786: [#007438550[439—472]](https://www.familysearch.org/search/film/007438550?i=438); ф. Р-1172, оп. 4, д. 221: [#007440501[515—516]](https://www.familysearch.org/search/film/007440501?i=514), [[518]](https://www.familysearch.org/search/film/007440501?i=517), [[520]](https://www.familysearch.org/search/film/007440501?i=519)
+- 1916 — ф. Р-1172, оп. 4, д. 186: [#007440486[552—577]](https://www.familysearch.org/search/film/007440486?i=551); ф. Р-1172, оп. 4, д. 221: [#007440501[532—533]](https://www.familysearch.org/search/film/007440501?i=531), [[561—562]](https://www.familysearch.org/search/film/007440501?i=560)
+- 1917 — ф. Р-1172, оп. 4, д. 221: [#007440501[480—490]](https://www.familysearch.org/search/film/007440501?i=479), [[522—527]](https://www.familysearch.org/search/film/007440501?i=521), [[543—549]](https://www.familysearch.org/search/film/007440501?i=542), [[560]](https://www.familysearch.org/search/film/007440501?i=559)
+- 1918 — ф. Р-1172, оп. 4, д. 221: [#007440501[490—503]](https://www.familysearch.org/search/film/007440501?i=489), [[528—531]](https://www.familysearch.org/search/film/007440501?i=527), [[533—537]](https://www.familysearch.org/search/film/007440501?i=532), [[550—559]](https://www.familysearch.org/search/film/007440501?i=549)
+- 1919 — ф. Р-1172, оп. 4, д. 221: [#007440501[503—515]](https://www.familysearch.org/search/film/007440501?i=502), [[538—542]](https://www.familysearch.org/search/film/007440501?i=537), [[563—571]](https://www.familysearch.org/search/film/007440501?i=562)
+- 1920 — ф. Р-1172, оп. 4, д. 221: [#007440501[516—517]](https://www.familysearch.org/search/film/007440501?i=515), [[519]](https://www.familysearch.org/search/film/007440501?i=518), [[521]](https://www.familysearch.org/search/film/007440501?i=520)
 
 #### Азибей
 
@@ -654,8 +654,8 @@
 - 1914 — ф. 4, оп. 176, д. 1729: [#007438618[129—204]](https://www.familysearch.org/search/film/007438618?i=128)
 - 1915 — ф. 4, оп. 176, д. 1786: [#007438547[185—254]](https://www.familysearch.org/search/film/007438547?i=184)
 - 1916 — ф. Р-1172, оп. 4, д. 186: [#007440484[338—401]](https://www.familysearch.org/search/film/007440484?i=337)
-- 1917 — ф. Р-1172, оп. 4, д. 224: [#007440502[58—84]](https://www.familysearch.org/search/film/007440502?i=57), [#007440502[120—132]](https://www.familysearch.org/search/film/007440502?i=119), [#007440502[151—169]](https://www.familysearch.org/search/film/007440502?i=150)
-- 1918 — ф. Р-1172, оп. 4, д. 224: [#007440502[85—119]](https://www.familysearch.org/search/film/007440502?i=84), [#007440502[133—151]](https://www.familysearch.org/search/film/007440502?i=132), [#007440502[170—188]](https://www.familysearch.org/search/film/007440502?i=169)
+- 1917 — ф. Р-1172, оп. 4, д. 224: [#007440502[58—84]](https://www.familysearch.org/search/film/007440502?i=57), [[120—132]](https://www.familysearch.org/search/film/007440502?i=119), [[151—169]](https://www.familysearch.org/search/film/007440502?i=150)
+- 1918 — ф. Р-1172, оп. 4, д. 224: [#007440502[85—119]](https://www.familysearch.org/search/film/007440502?i=84), [[133—151]](https://www.familysearch.org/search/film/007440502?i=132), [[170—188]](https://www.familysearch.org/search/film/007440502?i=169)
 - 1919 — ф. Р-1172, оп. 4, д. 243: [#007440505[558—614]](https://www.familysearch.org/search/film/007440505?i=557)
 
 #### Можарово
