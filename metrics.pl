@@ -21,7 +21,7 @@ for my $h1 (sort keys %$data) {
         printf("### %s\n\n", $h2);
 
         for (sort keys %$d2) {
-            printf("- [%s](#%s)\n", $_, join('-', split(' ', $_)));
+            printf("- [%s](#%s)\n", $_, join('-', split(/[\s,]+/, $_)));
         }
         print("\n");
 
