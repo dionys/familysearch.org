@@ -34,7 +34,7 @@ for my $h1 (sort keys %$data) {
                 my @l = ref $d ? @$d : defined $d ? $d : ();
 
                 if (@l) {
-                    print("См. " . join(", ", map { sprintf("[%s](#%s)", $_, join('-', split(' ', $_))) } sort @l) . ".\n\n");
+                    print("См. " . join(", ", map { sprintf("[%s](#%s)", $_, join('-', split(/[\s,]+/, $_))) } sort @l) . ".\n\n");
                 }
                 else {
                     warn("No place link for \"" . $p . "\"\n");
