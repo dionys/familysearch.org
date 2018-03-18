@@ -7,8 +7,7 @@
 - [Акташ](#Акташ)
 - [Александровка](#Александровка)
 - [Александровская Слобода](#Александровская-Слобода)
-- [Алексеевка](#Алексеевка)
-- [Алексеевка-Федотово](#Алексеевка-Федотово)
+- [Алексеевка, Казанская церковь](#Алексеевка-Казанская-церковь)
 - [Архангельское на реке Зыче](#Архангельское-на-реке-Зыче)
 - [Архангельское на реке Ике](#Архангельское-на-реке-Ике)
 - [Афанасово](#Афанасово)
@@ -24,7 +23,7 @@
 - [Бережные Челны](#Бережные-Челны)
 - [Бишево, Гурьевская церковь](#Бишево-Гурьевская-церковь)
 - [Богородское на реке Иныш](#Богородское-на-реке-Иныш)
-- [Бурды](#Бурды)
+- [Бурды, Спасская церковь](#Бурды-Спасская-церковь)
 - [Верхнее Бишево](#Верхнее-Бишево)
 - [Верхний Авлаш](#Верхний-Авлаш)
 - [Верхний Акташ](#Верхний-Акташ)
@@ -181,17 +180,68 @@
 - 1915 — [ф. 4, оп. 176, д. 1786](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-46L)
 - 1916 — [ф. Р-1172, оп. 4, д. 187](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-69ZS-K)
 
-#### Алексеевка
+#### Алексеевка, Казанская церковь
 
-См. [Федотово](#Федотово).
+Также Архангельское на реке Зыче, Федотово.
 
-#### Алексеевка-Федотово
-
-См. [Федотово](#Федотово).
+- 1863 — ф. 4, оп. 153, д. 278: [#007436483[80—162]](https://www.familysearch.org/search/film/007436483?i=79)
+- 1864 — ф. 4, оп. 153, д. 281: [#007436371[361—433]](https://www.familysearch.org/search/film/007436371?i=360)
+- 1865 — ф. 4, оп. 153, д. 284: [#007436373[411—469]](https://www.familysearch.org/search/film/007436373?i=410)
+- 1866 — ф. 4, оп. 153, д. 291: [#007436378[43—107]](https://www.familysearch.org/search/film/007436378?i=42)
+- 1867 — ф. 4, оп. 153, д. 296: [#007436381[260—330]](https://www.familysearch.org/search/film/007436381?i=259)
+- 1868 — ф. 4, оп. 153, д. 299: [#007436403[559—631]](https://www.familysearch.org/search/film/007436403?i=558)
+- 1869 — ф. 4, оп. 153, д. 303: [#007436400[797—866]](https://www.familysearch.org/search/film/007436400?i=796)
+- 1870 — ф. 4, оп. 153, д. 308: [#007436396[560—638]](https://www.familysearch.org/search/film/007436396?i=559)
+- 1871 — ф. 4, оп. 153, д. 331: [#007436391[636—713]](https://www.familysearch.org/search/film/007436391?i=635)
+- 1872 — ф. 4, оп. 153, д. 337: [#007436388[606—670]](https://www.familysearch.org/search/film/007436388?i=605)
+- 1873 — ф. 4, оп. 166, д. 2: [#007436696[160—215]](https://www.familysearch.org/search/film/007436696?i=159)
+- 1874 — ф. 4, оп. 166, д. 7: [#007436665[7—73]](https://www.familysearch.org/search/film/007436665?i=6)
+- 1875 — ф. 4, оп. 166, д. 12: [#007436684[281—339]](https://www.familysearch.org/search/film/007436684?i=280)
+- 1876 — ф. 4, оп. 166, д. 18: [#007436682[626—704]](https://www.familysearch.org/search/film/007436682?i=625)
+- 1877 — ф. 4, оп. 166, д. 24: [#007436768[888—932]](https://www.familysearch.org/search/film/007436768?i=887), [#007436769[6—38]](https://www.familysearch.org/search/film/007436769?i=5)
+- 1878 — ф. 4, оп. 166, д. 28: [#007436773[339—404]](https://www.familysearch.org/search/film/007436773?i=338)
+- 1879 — ф. 4, оп. 166, д. 34: [#007436776[66—140]](https://www.familysearch.org/search/film/007436776?i=65)
+- 1880 — ф. 4, оп. 166, д. 38: [#007436779[52—137]](https://www.familysearch.org/search/film/007436779?i=51)
+- 1881 — ф. 4, оп. 166, д. 44: [#007436783[690—760]](https://www.familysearch.org/search/film/007436783?i=689)
+- 1882 — ф. 4, оп. 166, д. 49: [#007436786[723—783]](https://www.familysearch.org/search/film/007436786?i=722)
+- 1883 — ф. 4, оп. 166, д. 60: [#007436850[451—530]](https://www.familysearch.org/search/film/007436850?i=450)
+- 1884 — ф. 4, оп. 166, д. 67: [#007436855[13—106]](https://www.familysearch.org/search/film/007436855?i=12)
+- 1885 — ф. 4, оп. 166, д. 75: [#007436860[185—261]](https://www.familysearch.org/search/film/007436860?i=184)
+- 1886 — ф. 4, оп. 166, д. 83: [#007436839[234—303]](https://www.familysearch.org/search/film/007436839?i=233)
+- 1887 — ф. 4, оп. 166, д. 86: [#007436841[342—402]](https://www.familysearch.org/search/film/007436841?i=341)
+- 1888 — ф. 4, оп. 166, д. 91: [#007436845[115—164]](https://www.familysearch.org/search/film/007436845?i=114)
+- 1889 — ф. 4, оп. 166, д. 99: [#007436571[827—876]](https://www.familysearch.org/search/film/007436571?i=826)
+- 1890 — ф. 4, оп. 166, д. 106: [#007437029[670—709]](https://www.familysearch.org/search/film/007437029?i=669)
+- 1891 — ф. 4, оп. 166, д. 113: [#007436592[365—411]](https://www.familysearch.org/search/film/007436592?i=364)
+- 1892 — ф. 4, оп. 166, д. 118: [#007436595[175—230]](https://www.familysearch.org/search/film/007436595?i=174)
+- 1893 — ф. 4, оп. 166, д. 129: [#007436639[740—788]](https://www.familysearch.org/search/film/007436639?i=739)
+- 1894 — ф. 4, оп. 166, д. 134: [#007436891[417—464]](https://www.familysearch.org/search/film/007436891?i=416)
+- 1895 — ф. 4, оп. 166, д. 142: [#007436895[466—513]](https://www.familysearch.org/search/film/007436895?i=465)
+- 1896 — ф. 4, оп. 166, д. 154а: [#007436984[678—729]](https://www.familysearch.org/search/film/007436984?i=677)
+- 1897 — ф. 4, оп. 166, д. 162: [#007436988[435—484]](https://www.familysearch.org/search/film/007436988?i=434)
+- 1898 — ф. 4, оп. 166, д. 170: [#007436992[264—323]](https://www.familysearch.org/search/film/007436992?i=263)
+- 1899 — ф. 4, оп. 166, д. 177: [#007436952[955—960]](https://www.familysearch.org/search/film/007436952?i=954), [#007436953[6—40]](https://www.familysearch.org/search/film/007436953?i=5)
+- 1900 — ф. 4, оп. 166, д. 181: [#007436954[795—850]](https://www.familysearch.org/search/film/007436954?i=794)
+- 1901 — ф. 4, оп. 166, д. 191: [#007436959[810—870]](https://www.familysearch.org/search/film/007436959?i=809)
+- 1902 — ф. 4, оп. 166, д. 200: [#007436999[382—426]](https://www.familysearch.org/search/film/007436999?i=381)
+- 1903 — ф. 4, оп. 166, д. 210: [#007436932[226—275]](https://www.familysearch.org/search/film/007436932?i=225)
+- 1904 — ф. 4, оп. 166, д. 216: [#007436935[598—658]](https://www.familysearch.org/search/film/007436935?i=597)
+- 1905 — ф. 4, оп. 166, д. 222: [#007436939[31—86]](https://www.familysearch.org/search/film/007436939?i=30)
+- 1906 — ф. 4, оп. 166, д. 232: [#007437058[395—452]](https://www.familysearch.org/search/film/007437058?i=394)
+- 1907 — ф. 4, оп. 166, д. 234: [#007437059[806—852]](https://www.familysearch.org/search/film/007437059?i=805)
+- 1908 — ф. 4, оп. 176, д. 1403: [#007438140[377—434]](https://www.familysearch.org/search/film/007438140?i=376)
+- 1909 — ф. 4, оп. 176, д. 1408: [#007438143[835—897]](https://www.familysearch.org/search/film/007438143?i=834), [#007438107[9—10]](https://www.familysearch.org/search/film/007438107?i=8), [[21—22]](https://www.familysearch.org/search/film/007438107?i=20)
+- 1910 — ф. 4, оп. 176, д. 1544: [#007438488[294—350]](https://www.familysearch.org/search/film/007438488?i=293)
+- 1911 — ф. 4, оп. 176, д. 1619: [#007438524[258—309]](https://www.familysearch.org/search/film/007438524?i=257)
+- 1912 — ф. 4, оп. 176, д. 1615: [#007438527[884—950]](https://www.familysearch.org/search/film/007438527?i=883)
+- 1913 — ф. 4, оп. 176, д. 1627: [#007439148[655—720]](https://www.familysearch.org/search/film/007439148?i=654)
+- 1914 — ф. 4, оп. 176, д. 1726: [#007438616[627—683]](https://www.familysearch.org/search/film/007438616?i=626)
+- 1915 — ф. 4, оп. 176, д. 1797: [#007438550[778—827]](https://www.familysearch.org/search/film/007438550?i=777)
+- 1916 — ф. Р-1172, оп. 4, д. 188: [#007440485[396—427]](https://www.familysearch.org/search/film/007440485?i=395)
 
 #### Архангельское на реке Зыче
 
-См. [Федотово](#Федотово).
+См. [Алексеевка, Казанская церковь](#Алексеевка-Казанская-церковь).
 
 #### Архангельское на реке Ике
 
@@ -534,7 +584,37 @@
 
 См. [Сухарево](#Сухарево).
 
-#### Бурды
+#### Бурды, Спасская церковь
+
+- 1887 — ф. 4, оп. 166, д. 86: [#007436841[450—489]](https://www.familysearch.org/search/film/007436841?i=449)
+- 1888 — ф. 4, оп. 166, д. 91: [#007436845[358—397]](https://www.familysearch.org/search/film/007436845?i=357)
+- 1889 — ф. 4, оп. 166, д. 99: [#007436571[929—967]](https://www.familysearch.org/search/film/007436571?i=928)
+- 1890 — ф. 4, оп. 166, д. 105: [#007437029[179—231]](https://www.familysearch.org/search/film/007437029?i=178)
+- 1891 — ф. 4, оп. 166, д. 113: [#007436592[783—826]](https://www.familysearch.org/search/film/007436592?i=782)
+- 1892 — ф. 4, оп. 166, д. 120: [#007436596[233—273]](https://www.familysearch.org/search/film/007436596?i=232)
+- 1893 — ф. 4, оп. 166, д. 129: [#007436889[131—163]](https://www.familysearch.org/search/film/007436889?i=130)
+- 1894 — ф. 4, оп. 166, д. 134: [#007436891[789—832]](https://www.familysearch.org/search/film/007436891?i=788)
+- 1895 — ф. 4, оп. 166, д. 142: [#007436895[841—891]](https://www.familysearch.org/search/film/007436895?i=840)
+- 1896 — ф. 4, оп. 166, д. 154: [#007436984[94—151]](https://www.familysearch.org/search/film/007436984?i=93)
+- 1897 — ф. 4, оп. 166, д. 161: [#007436987[922—964]](https://www.familysearch.org/search/film/007436987?i=921)
+- 1899 — ф. 4, оп. 166, д. 177: [#007436953[319—352]](https://www.familysearch.org/search/film/007436953?i=318)
+- 1900 — ф. 4, оп. 166, д. 181: [#007436955[114—167]](https://www.familysearch.org/search/film/007436955?i=113)
+- 1901 — ф. 4, оп. 166, д. 191: [#007436994[160—208]](https://www.familysearch.org/search/film/007436994?i=159)
+- 1902 — ф. 4, оп. 166, д. 200: [#007436999[627—673]](https://www.familysearch.org/search/film/007436999?i=626)
+- 1903 — ф. 4, оп. 166, д. 210: [#007436932[506—554]](https://www.familysearch.org/search/film/007436932?i=505)
+- 1904 — ф. 4, оп. 166, д. 213: [#007436934[166—222]](https://www.familysearch.org/search/film/007436934?i=165)
+- 1905 — ф. 4, оп. 166, д. 220: [#007436938[36—84]](https://www.familysearch.org/search/film/007436938?i=35)
+- 1906 — ф. 4, оп. 166, д. 227: [#007437054[506—563]](https://www.familysearch.org/search/film/007437054?i=505)
+- 1907 — ф. 4, оп. 166, д. 233: [#007437059[577—633]](https://www.familysearch.org/search/film/007437059?i=576)
+- 1908 — ф. 4, оп. 176, д. 1397: [#007438136[599—651]](https://www.familysearch.org/search/film/007438136?i=598)
+- 1909 — ф. 4, оп. 176, д. 1410: [#007438107[814—873]](https://www.familysearch.org/search/film/007438107?i=813)
+- 1910 — ф. 4, оп. 176, д. 1548: [#007438486[299—357]](https://www.familysearch.org/search/film/007438486?i=298)
+- 1911 — ф. 4, оп. 176, д. 1556: [#007438457[781—829]](https://www.familysearch.org/search/film/007438457?i=780)
+- 1912 — ф. 4, оп. 176, д. 1620: [#007439157[717—769]](https://www.familysearch.org/search/film/007439157?i=716)
+- 1913 — ф. 4, оп. 176, д. 1629: [#007439143[505—574]](https://www.familysearch.org/search/film/007439143?i=504)
+- 1914 — ф. 4, оп. 176, д. 1729: [#007438618[205—262]](https://www.familysearch.org/search/film/007438618?i=204)
+- 1915 — ф. 4, оп. 176, д. 1786: [#007438547[255—304]](https://www.familysearch.org/search/film/007438547?i=254)
+- 1916 — ф. Р-1172, оп. 4, д. 186: [#007440484[402—450]](https://www.familysearch.org/search/film/007440484?i=401)
 
 #### Верхнее Бишево
 
@@ -597,6 +677,7 @@
 - 1886 — ф. 4, оп. 166, д. 83: [#007436839[443—482]](https://www.familysearch.org/search/film/007436839?i=442)
 - 1887 — ф. 4, оп. 166, д. 86: [#007436841[401—449]](https://www.familysearch.org/search/film/007436841?i=400); ф. 4, оп. 3 доп., д. 25: [#007437389[482—484]](https://www.familysearch.org/search/film/007437389?i=481)
 - 1888 — ф. 4, оп. 166, д. 91: [#007436845[304—357]](https://www.familysearch.org/search/film/007436845?i=303)
+- 1889 — ф. 4, оп. 166, д. 99: [#007436571[877—928]](https://www.familysearch.org/search/film/007436571?i=876)
 
 #### Карамалы
 
@@ -843,60 +924,5 @@
 
 #### Федотово
 
-Также Алексеевка, Алексеевка-Федотово, Архангельское на реке Зыче.
-
-- 1863 — [ф. 4, оп. 153, д. 278](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-29K9)
-- 1864 — [ф. 4, оп. 153, д. 281](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-JCWR)
-- 1865 — [ф. 4, оп. 153, д. 284](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-WS84)
-- 1866 — [ф. 4, оп. 153, д. 291](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-VZCR)
-- 1867 — [ф. 4, оп. 153, д. 296](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-L42D)
-- 1868 — [ф. 4, оп. 153, д. 299](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-QQ1H)
-- 1869 — [ф. 4, оп. 153, д. 303](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-W76S)
-- 1870 — [ф. 4, оп. 153, д. 308](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-QL39)
-- 1871 — [ф. 4, оп. 153, д. 331](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-JXRF)
-- 1872 — [ф. 4, оп. 153, д. 337](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZH-FYRJ)
-- 1873 — [ф. 4, оп. 166, д. 2](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-LNRT)
-- 1874 — [ф. 4, оп. 166, д. 7](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-3QWK)
-- 1875 — [ф. 4, оп. 166, д. 12](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-44SP)
-- 1876 — [ф. 4, оп. 166, д. 18](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-CVJG)
-- 1877 — [ф. 4, оп. 166, д. 24](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-P9RB); [ф. 4, оп. 166, д. 24](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-2ST6)
-- 1878 — [ф. 4, оп. 166, д. 28](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-T9KB)
-- 1879 — [ф. 4, оп. 166, д. 34](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-LNKZ)
-- 1880 — [ф. 4, оп. 166, д. 38](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-GS8D)
-- 1881 — [ф. 4, оп. 166, д. 44](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-3T2L)
-- 1882 — [ф. 4, оп. 166, д. 49](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-4N44)
-- 1883 — [ф. 4, оп. 166, д. 60](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-MDWX)
-- 1884 — [ф. 4, оп. 166, д. 67](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-GZY6)
-- 1885 — [ф. 4, оп. 166, д. 75](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-4X7Q)
-- 1886 — [ф. 4, оп. 166, д. 83](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-W6QW)
-- 1887 — [ф. 4, оп. 166, д. 86](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-39SC-9)
-- 1888 — [ф. 4, оп. 166, д. 91](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-BBZ)
-- 1889 — [ф. 4, оп. 166, д. 99](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-3RMY)
-- 1890 — [ф. 4, оп. 166, д. 106](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-PD6Y)
-- 1891 — [ф. 4, оп. 166, д. 113](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-3F41)
-- 1892 — [ф. 4, оп. 166, д. 118](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-CJV6)
-- 1893 — [ф. 4, оп. 166, д. 129](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-W95T)
-- 1894 — [ф. 4, оп. 166, д. 134](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-Y7CF)
-- 1895 — [ф. 4, оп. 166, д. 142](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-5S6R)
-- 1896 — [ф. 4, оп. 166, д. 154а](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-4S7C)
-- 1897 — [ф. 4, оп. 166, д. 162](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-Q3K8)
-- 1898 — [ф. 4, оп. 166, д. 170](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-7G9K)
-- 1899 — [ф. 4, оп. 166, д. 177](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-PWMV); [ф. 4, оп. 166, д. 177](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-HSVF)
-- 1900 — [ф. 4, оп. 166, д. 181](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-B3Q8)
-- 1901 — [ф. 4, оп. 166, д. 191](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-MQR6)
-- 1902 — [ф. 4, оп. 166, д. 200](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-HK36)
-- 1903 — [ф. 4, оп. 166, д. 210](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-WXP6)
-- 1904 — [ф. 4, оп. 166, д. 216](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-PQQJ)
-- 1905 — [ф. 4, оп. 166, д. 222](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZH-N9C8)
-- 1906 — [ф. 4, оп. 166, д. 232](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-HVP)
-- 1907 — [ф. 4, оп. 166, д. 234](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-P93N)
-- 1908 — [ф. 4, оп. 176, д. 1403](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-8WXK)
-- 1909 — [ф. 4, оп. 176, д. 1408](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-QXFX)
-- 1910 — [ф. 4, оп. 176, д. 1544](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-41TT)
-- 1911 — [ф. 4, оп. 176, д. 1619](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-W992-G)
-- 1912 — [ф. 4, оп. 176, д. 1615](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-VFH)
-- 1913 — [ф. 4, оп. 176, д. 1627](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-N46B)
-- 1914 — [ф. 4, оп. 176, д. 1726](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-V9CS)
-- 1915 — [ф. 4, оп. 176, д. 1797](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-Z9ZB-V)
-- 1916 — [ф. Р-1172, оп. 4, д. 188](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-89HD-K)
+См. [Алексеевка, Казанская церковь](#Алексеевка-Казанская-церковь).
 
