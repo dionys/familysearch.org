@@ -612,7 +612,7 @@
 - 1911 — ф. 4, оп. 176, д. 1556: [#007438457[781—829]](https://www.familysearch.org/search/film/007438457?i=780)
 - 1912 — ф. 4, оп. 176, д. 1620: [#007439157[717—769]](https://www.familysearch.org/search/film/007439157?i=716)
 - 1913 — ф. 4, оп. 176, д. 1629: [#007439143[505—574]](https://www.familysearch.org/search/film/007439143?i=504)
-- 1914 — ф. 4, оп. 176, д. 1729: [#007438618[205—262]](https://www.familysearch.org/search/film/007438618?i=204)
+- 1914 — ф. 4, оп. 176, д. 1729: [#007438618[204—262]](https://www.familysearch.org/search/film/007438618?i=203)
 - 1915 — ф. 4, оп. 176, д. 1786: [#007438547[255—304]](https://www.familysearch.org/search/film/007438547?i=254)
 - 1916 — ф. Р-1172, оп. 4, д. 186: [#007440484[402—450]](https://www.familysearch.org/search/film/007440484?i=401)
 
