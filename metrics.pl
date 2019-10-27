@@ -52,14 +52,16 @@ for my $h1 (sort keys %$data) {
                 printf("- %s — ", $y);
                 for (0 .. $#l) {
                     unless (ref $l[$_]{u} eq 'ARRAY') {
-                        printf("[ф. %s, оп. %s, д. %s](%s)", @{$l[$_]{p}}, $l[$_]{u});
+                        unshift(@{$l[$_]{p}}, 'НАРТ') if @{$l[$_]{p}} < 4;
+                        printf("[%s, ф. %s, оп. %s, д. %s](%s)", @{$l[$_]{p}}, $l[$_]{u});
                         next;
                     }
 
                     my @m = ref $l[$_]{u}[0] ? @{$l[$_]{u}} : $l[$_]{u};
                     my $f = '';
 
-                    printf("ф. %s, оп. %s, д. %s: ", @{$l[$_]{p}});
+                    unshift(@{$l[$_]{p}}, 'НАРТ') if @{$l[$_]{p}} < 4;
+                    printf("%s, ф. %s, оп. %s, д. %s: ", @{$l[$_]{p}});
                     for (0 .. $#m) {
                         if (!$f || $m[$_][0] ne $f) {
                             printf('[#%s[', $m[$_][0]);
