@@ -940,7 +940,10 @@
 - 1875 — НАРТ, ф. 4, оп. 166, д. 12: [#007436684[340—382]](https://www.familysearch.org/search/film/007436684?i=339)
 - 1876 — НАРТ, ф. 4, оп. 166, д. 17: [#007436682[365—414]](https://www.familysearch.org/search/film/007436682?i=364)
 - 1877 — НАРТ, ф. 4, оп. 166, д. 23: [#007436768[830—882]](https://www.familysearch.org/search/film/007436768?i=829)
-- 1878 — НАРТ, ф. 4, оп. 166, д. 34: [#007436773[405—457]](https://www.familysearch.org/search/film/007436773?i=404)
+- 1878 — НАРТ, ф. 4, оп. 166, д. 28: [#007436773[405—457]](https://www.familysearch.org/search/film/007436773?i=404)
+- 1879 — НАРТ, ф. 4, оп. 166, д. 34: [#007436776[6—65]](https://www.familysearch.org/search/film/007436776?i=5)
+- 1880 — НАРТ, ф. 4, оп. 166, д. 38: [#007436778[857—867]](https://www.familysearch.org/search/film/007436778?i=856), [#007436779[6—51]](https://www.familysearch.org/search/film/007436779?i=5)
+- 1881 — НАРТ, ф. 4, оп. 166, д. 44: [#007436783[484—536]](https://www.familysearch.org/search/film/007436783?i=483)
 
 #### Федотово
 
