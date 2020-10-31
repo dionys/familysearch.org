@@ -1,13 +1,11 @@
-## Уфимская губерния
-
 ### Мензелинский уезд
 
-- [Авлаш, Свято-Троицкая церковь](#Авлаш-Свято-Троицкая-церковь)
-- [Азибей, Богородицкая церковь](#Азибей-Богородицкая-церковь)
+- [Авлаш](#Авлаш)
+- [Азибей](#Азибей)
 - [Акташ](#Акташ)
 - [Александровка](#Александровка)
 - [Александровская Слобода](#Александровская-Слобода)
-- [Алексеевка, Казанская церковь](#Алексеевка-Казанская-церковь)
+- [Алексеевка](#Алексеевка)
 - [Архангельское на реке Зыче](#Архангельское-на-реке-Зыче)
 - [Архангельское на реке Ике](#Архангельское-на-реке-Ике)
 - [Афанасово](#Афанасово)
@@ -21,18 +19,18 @@
 - [Баткак](#Баткак)
 - [Батрас](#Батрас)
 - [Бережные Челны](#Бережные-Челны)
-- [Бишево, Гурьевская церковь](#Бишево-Гурьевская-церковь)
+- [Бишево](#Бишево)
 - [Богородское на реке Иныш](#Богородское-на-реке-Иныш)
-- [Бурды, Спасская церковь](#Бурды-Спасская-церковь)
+- [Бурды](#Бурды)
 - [Верхнее Бишево](#Верхнее-Бишево)
 - [Верхний Авлаш](#Верхний-Авлаш)
 - [Верхний Акташ](#Верхний-Акташ)
 - [Верхний Багряж](#Верхний-Багряж)
 - [Верхний Мелекес](#Верхний-Мелекес)
-- [Кабан-Бастрык, Михаило-Архангельская церковь](#Кабан-Бастрык-Михаило-Архангельская-церковь)
+- [Кабан-Бастрык](#Кабан-Бастрык)
 - [Карамалы](#Карамалы)
 - [Круглое Поле](#Круглое-Поле)
-- [Мелекес, Вознесенская церковь](#Мелекес-Вознесенская-церковь)
+- [Мелекес](#Мелекес)
 - [Можарово](#Можарово)
 - [Набережные Челны](#Набережные-Челны)
 - [Пуст-Ашит](#Пуст-Ашит)
@@ -40,12 +38,14 @@
 - [Русский Акташ](#Русский-Акташ)
 - [Старое Байсарово](#Старое-Байсарово)
 - [Сухарево](#Сухарево)
-- [Токмак, Троицкая церковь](#Токмак-Троицкая-церковь)
+- [Токмак](#Токмак)
 - [Федотово](#Федотово)
 
-#### Авлаш, Свято-Троицкая церковь
+#### Авлаш
 
 Также Верхний Авлаш.
+
+##### Свято-Троицкая церковь
 
 - 1915 — НАРТ, ф. 4, оп. 176, д. 1786: [#007438550[439—472]](https://www.familysearch.org/search/film/007438550?i=438); НАРТ, ф. Р-1172, оп. 4, д. 221: [#007440501[515—516]](https://www.familysearch.org/search/film/007440501?i=514), [[518]](https://www.familysearch.org/search/film/007440501?i=517), [[520]](https://www.familysearch.org/search/film/007440501?i=519)
 - 1916 — НАРТ, ф. Р-1172, оп. 4, д. 186: [#007440486[552—577]](https://www.familysearch.org/search/film/007440486?i=551); НАРТ, ф. Р-1172, оп. 4, д. 221: [#007440501[532—533]](https://www.familysearch.org/search/film/007440501?i=531), [[561—562]](https://www.familysearch.org/search/film/007440501?i=560)
@@ -54,7 +54,9 @@
 - 1919 — НАРТ, ф. Р-1172, оп. 4, д. 221: [#007440501[503—515]](https://www.familysearch.org/search/film/007440501?i=502), [[538—542]](https://www.familysearch.org/search/film/007440501?i=537), [[563—571]](https://www.familysearch.org/search/film/007440501?i=562)
 - 1920 — НАРТ, ф. Р-1172, оп. 4, д. 221: [#007440501[516—517]](https://www.familysearch.org/search/film/007440501?i=515), [[519]](https://www.familysearch.org/search/film/007440501?i=518), [[521]](https://www.familysearch.org/search/film/007440501?i=520)
 
-#### Азибей, Богородицкая церковь
+#### Азибей
+
+##### Богородицкая церковь
 
 - 1904 — [НАРТ, ф. 4, оп. 166, д. 218](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-1V3R)
 - 1905 — [НАРТ, ф. 4, оп. 166, д. 219](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-M9D4)
@@ -75,16 +77,21 @@
 
 Также Карамалы, Русские Карамалы.
 
+##### церковь
+
 - 1863 — [НАРТ, ф. 4, оп. 153, д. 277](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-53SF)
 - 1864 — [НАРТ, ф. 4, оп. 153, д. 279](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-977Y)
 - 1865 — [НАРТ, ф. 4, оп. 153, д. 283](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-2W73); [НАРТ, ф. 4, оп. 153, д. 283](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-WQV4)
+- 1866 — 
 - 1867 — [НАРТ, ф. 4, оп. 153, д. 294](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-W72T)
 - 1868 — [НАРТ, ф. 4, оп. 153, д. 298](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-Q7DP)
 - 1869 — [НАРТ, ф. 4, оп. 153, д. 305](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-JX21); [НАРТ, ф. 4, оп. 153, д. 305](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-WZ1R)
 - 1870 — [НАРТ, ф. 4, оп. 153, д. 309](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-J6Z7)
+- 1871 — 
 - 1872 — [НАРТ, ф. 4, оп. 153, д. 338](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-JQN4)
 - 1873 — [НАРТ, ф. 4, оп. 166, д. 2](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-QG32)
 - 1874 — [НАРТ, ф. 4, оп. 166, д. 10](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-V78G)
+- 1875 — 
 - 1876 — [НАРТ, ф. 4, оп. 166, д. 17](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-C29W)
 - 1877 — [НАРТ, ф. 4, оп. 166, д. 24](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-27L9)
 - 1878 — [НАРТ, ф. 4, оп. 166, д. 30](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-Z3ZV)
@@ -103,6 +110,7 @@
 - 1891 — [НАРТ, ф. 4, оп. 166, д. 114](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-M7TD)
 - 1892 — [НАРТ, ф. 4, оп. 166, д. 121](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-LZYG)
 - 1893 — [НАРТ, ф. 4, оп. 166, д. 127](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-7LZ3)
+- 1894 — 
 - 1895 — [НАРТ, ф. 4, оп. 166, д. 141](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-578C)
 - 1896 — [НАРТ, ф. 4, оп. 166, д. 147](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-LHCW)
 - 1897 — [НАРТ, ф. 4, оп. 166, д. 160](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-G73R)
@@ -121,11 +129,14 @@
 - 1910 — [НАРТ, ф. 4, оп. 176, д. 1550](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-Z9HC-M)
 - 1911 — [НАРТ, ф. 4, оп. 176, д. 1552](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-Z3GN)
 - 1912 — [НАРТ, ф. 4, оп. 176, д. 1622](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-6ZWQ)
+- 1913 — 
 - 1914 — [НАРТ, ф. 4, оп. 176, д. 1724](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-8GW7)
 - 1915 — [НАРТ, ф. 4, оп. 176, д. 1787](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-W99L-2)
 - 1916 — [НАРТ, ф. Р-1172, оп. 4, д. 189](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-N934-G)
 
 #### Александровская Слобода
+
+##### церковь
 
 - 1863 — [НАРТ, ф. 4, оп. 153, д. 274](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-7V3K)
 - 1864 — [НАРТ, ф. 4, оп. 153, д. 279](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-93SZ)
@@ -175,15 +186,18 @@
 - 1908 — [НАРТ, ф. 4, оп. 176, д. 1398](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-S3V7)
 - 1909 — [НАРТ, ф. 4, оп. 176, д. 1405](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-DVVM)
 - 1910 — [НАРТ, ф. 4, оп. 176, д. 1543](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-D4XP)
+- 1911 — 
 - 1912 — [НАРТ, ф. 4, оп. 176, д. 1621](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-681V)
 - 1913 — [НАРТ, ф. 4, оп. 176, д. 1623](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-Z9DM-2)
 - 1914 — [НАРТ, ф. 4, оп. 176, д. 1727](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-67H)
 - 1915 — [НАРТ, ф. 4, оп. 176, д. 1786](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-46L)
 - 1916 — [НАРТ, ф. Р-1172, оп. 4, д. 187](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-69ZS-K)
 
-#### Алексеевка, Казанская церковь
+#### Алексеевка
 
 Также Архангельское на реке Зыче, Федотово.
+
+##### Казанская церковь
 
 - 1863 — НАРТ, ф. 4, оп. 153, д. 278: [#007436483[80—162]](https://www.familysearch.org/search/film/007436483?i=79)
 - 1864 — НАРТ, ф. 4, оп. 153, д. 281: [#007436371[361—433]](https://www.familysearch.org/search/film/007436371?i=360)
@@ -242,13 +256,15 @@
 
 #### Архангельское на реке Зыче
 
-См. [Алексеевка, Казанская церковь](#Алексеевка-Казанская-церковь).
+См. [Алексеевка](#Алексеевка).
 
 #### Архангельское на реке Ике
 
 См. [Можарово](#Можарово).
 
 #### Афанасово
+
+##### церковь
 
 - 1863 — [НАРТ, ф. 4, оп. 153, д. 278](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-2QNC)
 - 1864 — [НАРТ, ф. 4, оп. 153, д. 281](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-JD45)
@@ -299,6 +315,7 @@
 - 1909 — [НАРТ, ф. 4, оп. 176, д. 1406](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-DJWL)
 - 1910 — [НАРТ, ф. 4, оп. 176, д. 1545](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-49MH-J)
 - 1911 — [НАРТ, ф. 4, оп. 176, д. 1555](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-C9MR-S)
+- 1912 — 
 - 1913 — [НАРТ, ф. 4, оп. 176, д. 1627](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-NHRB)
 - 1914 — [НАРТ, ф. 4, оп. 176, д. 1725](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-VFQ)
 - 1915 — [НАРТ, ф. 4, оп. 176, д. 1791](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-Z98H-J)
@@ -310,6 +327,8 @@
 
 #### Ашпала
 
+##### церковь
+
 - 1908 — [НАРТ, ф. 4, оп. 176, д. 1401](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-XSN9)
 
 #### Багряж
@@ -319,6 +338,8 @@
 #### Багряж-Никольское
 
 Также Багряж.
+
+##### церковь
 
 - 1837 — [НАРТ, ф. 4, оп. 3 доп., д. 8а](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-1DKY)
 - 1838 — [НАРТ, ф. 4, оп. 3 доп., д. 8а](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-1D5C)
@@ -374,6 +395,7 @@
 - 1908 — [НАРТ, ф. 4, оп. 176, д. 1402](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-83NM)
 - 1909 — [НАРТ, ф. 4, оп. 176, д. 1407](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-DVR4)
 - 1910 — [НАРТ, ф. 4, оп. 176, д. 1549](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-Z9WX-3)
+- 1911 — 
 - 1912 — [НАРТ, ф. 4, оп. 176, д. 1616](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-VHMS)
 - 1913 — [НАРТ, ф. 4, оп. 176, д. 1626](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-NWDB)
 - 1914 — [НАРТ, ф. 4, оп. 176, д. 1728](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-6SMD)
@@ -393,6 +415,8 @@
 См. [Старое Байсарово](#Старое-Байсарово).
 
 #### Балчиклы
+
+##### церковь
 
 - 1872 — [НАРТ, ф. 4, оп. 3 доп., д. 9](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-1DVX); [НАРТ, ф. 4, оп. 3 доп., д. 9](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-18YP)
 - 1873 — [НАРТ, ф. 4, оп. 3 доп., д. 9](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-1DVP); [НАРТ, ф. 4, оп. 3 доп., д. 9](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-18YP)
@@ -451,6 +475,8 @@
 
 #### Баткак
 
+##### церковь
+
 - 1893 — [НАРТ, ф. 4, оп. 166, д. 127](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-7L79)
 - 1894 — [НАРТ, ф. 4, оп. 166, д. 130](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-Z8WB)
 - 1895 — [НАРТ, ф. 4, оп. 166, д. 138](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-9ZDF)
@@ -482,15 +508,19 @@
 
 Также Барский Батрас.
 
+##### церковь
+
 - 1901 — [НАРТ, ф. 4, оп. 166, д. 195](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-W6BN)
 - 1902 — [НАРТ, ф. 4, оп. 166, д. 199](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-CJK1)
 - 1903 — [НАРТ, ф. 4, оп. 166, д. 209](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-H3LF)
 - 1904 — [НАРТ, ф. 4, оп. 166, д. 217](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-HJ9F)
 - 1905 — [НАРТ, ф. 4, оп. 166, д. 224](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-1VXN)
+- 1906 — 
 - 1907 — [НАРТ, ф. 4, оп. 166, д. 238](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-SD47)
 - 1908 — [НАРТ, ф. 4, оп. 176, д. 1402](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-8Q3Q)
 - 1909 — [НАРТ, ф. 4, оп. 176, д. 1405](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-DJ25)
 - 1910 — [НАРТ, ф. 4, оп. 176, д. 1549](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-Z9QL-4)
+- 1911 — 
 - 1912 — [НАРТ, ф. 4, оп. 176, д. 1621](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-6DNF)
 - 1913 — [НАРТ, ф. 4, оп. 176, д. 1626](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-ZPJQ); [НАРТ, ф. 4, оп. 176, д. 1626](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-NWYC)
 - 1914 — [НАРТ, ф. 4, оп. 176, д. 1728](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-6S33)
@@ -500,6 +530,8 @@
 #### Бережные Челны
 
 Также Набережные Челны.
+
+##### Николаевская церковь
 
 - 1863 — [НАРТ, ф. 4, оп. 153, д. 275](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-7NCX)
 - 1864 — [НАРТ, ф. 4, оп. 153, д. 282](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-JZFB); [НАРТ, ф. 4, оп. 153, д. 282](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-2SF4)
@@ -550,6 +582,7 @@
 - 1909 — [НАРТ, ф. 4, оп. 176, д. 1406](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-DKR1)
 - 1910 — [НАРТ, ф. 4, оп. 176, д. 1545](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-4BZZ)
 - 1911 — [НАРТ, ф. 4, оп. 176, д. 1553](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-Z898)
+- 1912 — 
 - 1913 — [НАРТ, ф. 4, оп. 176, д. 1628](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-SCY3)
 - 1914 — [НАРТ, ф. 4, оп. 176, д. 1729](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-Z9ZN-2)
 - 1915 — [НАРТ, ф. 4, оп. 176, д. 1786](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-W9M2-K)
@@ -559,9 +592,11 @@
 - 1919 — [НАРТ, ф. Р-1172, оп. 4, д. 249](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-DBZB)
 - 1920 — [НАРТ, ф. Р-1172, оп. 4, д. 249](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-CH2D)
 
-#### Бишево, Гурьевская церковь
+#### Бишево
 
 Также Верхнее Бишево, Пуст-Ашит.
+
+##### Гурьевская церковь
 
 - 1904 — НАРТ, ф. 4, оп. 166, д. 213: [#007436934[150—165]](https://www.familysearch.org/search/film/007436934?i=149)
 - 1905 — НАРТ, ф. 4, оп. 166, д. 220: [#007436937[967—969]](https://www.familysearch.org/search/film/007436937?i=966), [#007436938[6—35]](https://www.familysearch.org/search/film/007436938?i=5)
@@ -585,7 +620,9 @@
 
 См. [Сухарево](#Сухарево).
 
-#### Бурды, Спасская церковь
+#### Бурды
+
+##### Спасская церковь
 
 - 1887 — НАРТ, ф. 4, оп. 166, д. 86: [#007436841[450—489]](https://www.familysearch.org/search/film/007436841?i=449)
 - 1888 — НАРТ, ф. 4, оп. 166, д. 91: [#007436845[358—397]](https://www.familysearch.org/search/film/007436845?i=357)
@@ -598,6 +635,7 @@
 - 1895 — НАРТ, ф. 4, оп. 166, д. 142: [#007436895[841—891]](https://www.familysearch.org/search/film/007436895?i=840)
 - 1896 — НАРТ, ф. 4, оп. 166, д. 154: [#007436984[94—151]](https://www.familysearch.org/search/film/007436984?i=93)
 - 1897 — НАРТ, ф. 4, оп. 166, д. 161: [#007436987[922—964]](https://www.familysearch.org/search/film/007436987?i=921)
+- 1898 — 
 - 1899 — НАРТ, ф. 4, оп. 166, д. 177: [#007436953[319—352]](https://www.familysearch.org/search/film/007436953?i=318)
 - 1900 — НАРТ, ф. 4, оп. 166, д. 181: [#007436955[114—167]](https://www.familysearch.org/search/film/007436955?i=113)
 - 1901 — НАРТ, ф. 4, оп. 166, д. 191: [#007436994[160—208]](https://www.familysearch.org/search/film/007436994?i=159)
@@ -619,19 +657,23 @@
 
 #### Верхнее Бишево
 
-См. [Бишево, Гурьевская церковь](#Бишево-Гурьевская-церковь).
+См. [Бишево](#Бишево).
 
 #### Верхний Авлаш
 
-См. [Авлаш, Свято-Троицкая церковь](#Авлаш-Свято-Троицкая-церковь).
+См. [Авлаш](#Авлаш).
 
 #### Верхний Акташ
+
+##### церковь
 
 - 1900 — [НАРТ, ф. 4, оп. 166, д. 186](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-MS1T)
 
 #### Верхний Багряж
 
 Также Багряж.
+
+##### церковь
 
 - 1888 — [НАРТ, ф. 4, оп. 166, д. 91](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-YR5Y)
 - 1889 — [НАРТ, ф. 4, оп. 166, д. 99](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-7SS3)
@@ -662,13 +704,18 @@
 - 1914 — [НАРТ, ф. 4, оп. 176, д. 1727](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-6Q6H)
 - 1915 — [НАРТ, ф. 4, оп. 176, д. 1789](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-N9MN-F)
 - 1916 — [НАРТ, ф. Р-1172, оп. 4, д. 187](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-69CG-V); [НАРТ, ф. Р-1172, оп. 4, д. 187](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-89W2-D)
+- 1917 — 
+- 1918 — 
+- 1919 — 
 - 1920 — [НАРТ, ф. Р-1172, оп. 4, д. 250](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-CHSG)
 
 #### Верхний Мелекес
 
-См. [Мелекес, Вознесенская церковь](#Мелекес-Вознесенская-церковь).
+См. [Мелекес](#Мелекес).
 
-#### Кабан-Бастрык, Михаило-Архангельская церковь
+#### Кабан-Бастрык
+
+##### Михаило-Архангельская церковь
 
 - 1881 — НАРТ, ф. 4, оп. 166, д. 44: [#007436783[761—795]](https://www.familysearch.org/search/film/007436783?i=760)
 - 1882 — НАРТ, ф. 4, оп. 166, д. 49: [#007436786[531—583]](https://www.familysearch.org/search/film/007436786?i=530)
@@ -686,23 +733,25 @@
 
 #### Круглое Поле
 
-- 1863 — [НАРТ, ф. 4, оп. 153, д. 275](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-7NYX)
-- 1864 — [НАРТ, ф. 4, оп. 153, д. 282](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-J89N)
-- 1865 — [НАРТ, ф. 4, оп. 153, д. 285](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-T9G7)
-- 1866 — [НАРТ, ф. 4, оп. 153, д. 289](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-MHFP)
-- 1867 — [НАРТ, ф. 4, оп. 153, д. 295](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-L4JF)
-- 1868 — [НАРТ, ф. 4, оп. 153, д. 300](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-JNZ)
-- 1869 — [НАРТ, ф. 4, оп. 153, д. 306](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-WZ89); [НАРТ, ф. 4, оп. 153, д. 306](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-Q22M)
-- 1870 — [НАРТ, ф. 4, оп. 153, д. 319](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-V6YP)
-- 1871 — [НАРТ, ф. 4, оп. 153, д. 334](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-JF3K)
-- 1872 — [НАРТ, ф. 4, оп. 153, д. 336](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZH-FT2J)
-- 1873 — [НАРТ, ф. 4, оп. 166, д. 4](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-3RC9)
-- 1874 — [НАРТ, ф. 4, оп. 166, д. 9](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-SQLF)
-- 1875 — [НАРТ, ф. 4, оп. 166, д. 16](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-591P)
-- 1876 — [НАРТ, ф. 4, оп. 166, д. 20](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-B9D2)
-- 1877 — [НАРТ, ф. 4, оп. 166, д. 25](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-T7WZ)
-- 1878 — [НАРТ, ф. 4, оп. 166, д. 27](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-24YJ)
-- 1879 — [НАРТ, ф. 4, оп. 166, д. 36](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-H8NC)
+##### Богоявленская церковь
+
+- 1863 — НАРТ, ф. 4, оп. 153, д. 275: [#007436480[719—811]](https://www.familysearch.org/search/film/007436480?i=718)
+- 1864 — НАРТ, ф. 4, оп. 153, д. 282: [#007436371[843—914]](https://www.familysearch.org/search/film/007436371?i=842)
+- 1865 — НАРТ, ф. 4, оп. 153, д. 285: [#007436374[6—77]](https://www.familysearch.org/search/film/007436374?i=5)
+- 1866 — НАРТ, ф. 4, оп. 153, д. 289: [#007436376[475—538]](https://www.familysearch.org/search/film/007436376?i=474)
+- 1867 — НАРТ, ф. 4, оп. 153, д. 295: [#007436381[176—254]](https://www.familysearch.org/search/film/007436381?i=175)
+- 1868 — НАРТ, ф. 4, оп. 153, д. 300: [#007436401[519—597]](https://www.familysearch.org/search/film/007436401?i=518)
+- 1869 — НАРТ, ф. 4, оп. 153, д. 306: [#007436397[847—910]](https://www.familysearch.org/search/film/007436397?i=846), [#007436396[5—40]](https://www.familysearch.org/search/film/007436396?i=4)
+- 1870 — НАРТ, ф. 4, оп. 153, д. 319: [#007436393[762—855]](https://www.familysearch.org/search/film/007436393?i=761)
+- 1871 — НАРТ, ф. 4, оп. 153, д. 334: [#007436390[571—653]](https://www.familysearch.org/search/film/007436390?i=570)
+- 1872 — НАРТ, ф. 4, оп. 153, д. 336: [#007436388[6—80]](https://www.familysearch.org/search/film/007436388?i=5)
+- 1873 — НАРТ, ф. 4, оп. 166, д. 4: [#007436686[494—577]](https://www.familysearch.org/search/film/007436686?i=493)
+- 1874 — НАРТ, ф. 4, оп. 166, д. 9: [#007436687[333—406]](https://www.familysearch.org/search/film/007436687?i=332)
+- 1875 — НАРТ, ф. 4, оп. 166, д. 16: [#007436670[706—771]](https://www.familysearch.org/search/film/007436670?i=705)
+- 1876 — НАРТ, ф. 4, оп. 166, д. 20: [#007436766[336—410]](https://www.familysearch.org/search/film/007436766?i=335)
+- 1877 — НАРТ, ф. 4, оп. 166, д. 25: [#007436770[609—685]](https://www.familysearch.org/search/film/007436770?i=608)
+- 1878 — НАРТ, ф. 4, оп. 166, д. 27: [#007436771[723—800]](https://www.familysearch.org/search/film/007436771?i=722)
+- 1879 — НАРТ, ф. 4, оп. 166, д. 36: [#007436777[183—257]](https://www.familysearch.org/search/film/007436777?i=182)
 - 1880 — [НАРТ, ф. 4, оп. 166, д. 41](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-HDNH)
 - 1881 — [НАРТ, ф. 4, оп. 166, д. 47](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-4DSD)
 - 1882 — [НАРТ, ф. 4, оп. 166, д. 53](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-CCZN)
@@ -735,6 +784,7 @@
 - 1909 — [НАРТ, ф. 4, оп. 176, д. 1406](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-DF1Y)
 - 1910 — [НАРТ, ф. 4, оп. 176, д. 1545](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-413Q)
 - 1911 — [НАРТ, ф. 4, оп. 176, д. 1556](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-DWHS)
+- 1912 — 
 - 1913 — [НАРТ, ф. 4, оп. 176, д. 1627](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-N4N9)
 - 1914 — [НАРТ, ф. 4, оп. 176, д. 1725](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-JZNR)
 - 1915 — [НАРТ, ф. 4, оп. 176, д. 1789](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-N99S-D)
@@ -744,9 +794,11 @@
 - 1919 — [НАРТ, ф. Р-1172, оп. 4, д. 216](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-Z4R2); [НАРТ, ф. Р-1172, оп. 4, д. 216](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-Z4TS); [НАРТ, ф. Р-1172, оп. 4, д. 216](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-Z4C3)
 - 1920 — [НАРТ, ф. Р-1172, оп. 4, д. 216](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-Z41S); [НАРТ, ф. Р-1172, оп. 4, д. 216](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-N9SM-K)
 
-#### Мелекес, Вознесенская церковь
+#### Мелекес
 
 Также Верхний Мелекес.
+
+##### Вознесенская церковь
 
 - 1888 — НАРТ, ф. 4, оп. 166, д. 91: [#007436845[398—418]](https://www.familysearch.org/search/film/007436845?i=397)
 - 1889 — НАРТ, ф. 4, оп. 166, д. 99: [#007436571[966—1007]](https://www.familysearch.org/search/film/007436571?i=965), [#007436570[6—35]](https://www.familysearch.org/search/film/007436570?i=5)
@@ -785,6 +837,8 @@
 
 Также Архангельское на реке Ике.
 
+##### церковь
+
 - 1863 — [НАРТ, ф. 4, оп. 153, д. 277](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-5QCK)
 - 1864 — [НАРТ, ф. 4, оп. 153, д. 293](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-T4M5)
 - 1865 — [НАРТ, ф. 4, оп. 153, д. 287](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-K4Z)
@@ -803,6 +857,7 @@
 - 1878 — [НАРТ, ф. 4, оп. 166, д. 30](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-C3SD)
 - 1879 — [НАРТ, ф. 4, оп. 166, д. 33](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-CDRK)
 - 1880 — [НАРТ, ф. 4, оп. 166, д. 40](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-GZCM)
+- 1881 — 
 - 1882 — [НАРТ, ф. 4, оп. 166, д. 51](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-YXQL)
 - 1883 — [НАРТ, ф. 4, оп. 166, д. 62](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-SHKQ)
 - 1884 — [НАРТ, ф. 4, оп. 166, д. 64](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-4DP8)
@@ -834,6 +889,7 @@
 - 1910 — [НАРТ, ф. 4, оп. 176, д. 1550](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-Z9HY-1)
 - 1911 — [НАРТ, ф. 4, оп. 176, д. 1552](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-ZC5)
 - 1912 — [НАРТ, ф. 4, оп. 176, д. 1622](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-683J)
+- 1913 — 
 - 1914 — [НАРТ, ф. 4, оп. 176, д. 1724](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-858Z)
 - 1915 — [НАРТ, ф. 4, оп. 176, д. 1787](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-W93V-F)
 - 1916 — [НАРТ, ф. Р-1172, оп. 4, д. 189](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-N9Q7-W)
@@ -845,7 +901,7 @@
 
 #### Пуст-Ашит
 
-См. [Бишево, Гурьевская церковь](#Бишево-Гурьевская-церковь).
+См. [Бишево](#Бишево).
 
 #### Русские Карамалы
 
@@ -855,6 +911,8 @@
 
 Также Акташ.
 
+##### церковь
+
 - 1863 — [НАРТ, ф. 4, оп. 153, д. 276](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-2WMG)
 - 1864 — [НАРТ, ф. 4, оп. 153, д. 279](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-23C7)
 - 1865 — [НАРТ, ф. 4, оп. 153, д. 283](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-23ND)
@@ -863,6 +921,7 @@
 - 1868 — [НАРТ, ф. 4, оп. 153, д. 298](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-M8LS)
 - 1869 — [НАРТ, ф. 4, оп. 153, д. 305](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-JNPZ)
 - 1870 — [НАРТ, ф. 4, оп. 153, д. 309](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-J879)
+- 1871 — 
 - 1872 — [НАРТ, ф. 4, оп. 153, д. 338](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-JWMZ)
 - 1873 — [НАРТ, ф. 4, оп. 166, д. 3](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-G9NJ)
 - 1874 — [НАРТ, ф. 4, оп. 166, д. 10](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-SSNJ); [НАРТ, ф. 4, оп. 166, д. 10](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-VWK9)
@@ -902,11 +961,13 @@
 - 1908 — [НАРТ, ф. 4, оп. 176, д. 1398](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-SQL8)
 - 1909 — [НАРТ, ф. 4, оп. 176, д. 1405](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-XFSJ)
 - 1910 — [НАРТ, ф. 4, оп. 176, д. 1542](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-DHLV)
+- 1911 — 
 - 1912 — [НАРТ, ф. 4, оп. 176, д. 1621](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-6ZJ9)
 - 1913 — [НАРТ, ф. 4, оп. 176, д. 1630](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-S4Y3)
 - 1914 — [НАРТ, ф. 4, оп. 176, д. 1722](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-88MW)
 - 1915 — [НАРТ, ф. 4, оп. 176, д. 1788](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-N9QY-X)
 - 1916 — [НАРТ, ф. Р-1172, оп. 4, д. 191](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-NH52)
+- 1917 — 
 - 1918 — [НАРТ, ф. Р-1172, оп. 4, д. 241](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-F96K-2)
 - 1919—1920 — [НАРТ, ф. Р-1172, оп. 4, д. 241](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-F96K-2)
 
@@ -914,7 +975,10 @@
 
 Также Байсар-Софьино, Байсарово.
 
+##### церковь
+
 - 1910 — [НАРТ, ф. 4, оп. 176, д. 1543](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-D4LK)
+- 1911 — 
 - 1912 — [НАРТ, ф. 4, оп. 176, д. 1621](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-6DSD)
 - 1913 — [НАРТ, ф. 4, оп. 176, д. 1623](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-Z9ZK-X)
 - 1914 — [НАРТ, ф. 4, оп. 176, д. 1725](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-V9TT)
@@ -923,7 +987,9 @@
 
 #### Сухарево
 
-#### Токмак, Троицкая церковь
+#### Токмак
+
+##### Троицкая церковь
 
 - 1863 — НАРТ, ф. 4, оп. 153, д. 278: [#007436483[163—210]](https://www.familysearch.org/search/film/007436483?i=162)
 - 1864 — НАРТ, ф. 4, оп. 153, д. 281: [#007436371[434—483]](https://www.familysearch.org/search/film/007436371?i=433)
@@ -944,8 +1010,11 @@
 - 1879 — НАРТ, ф. 4, оп. 166, д. 34: [#007436776[6—65]](https://www.familysearch.org/search/film/007436776?i=5)
 - 1880 — НАРТ, ф. 4, оп. 166, д. 38: [#007436778[857—867]](https://www.familysearch.org/search/film/007436778?i=856), [#007436779[6—51]](https://www.familysearch.org/search/film/007436779?i=5)
 - 1881 — НАРТ, ф. 4, оп. 166, д. 44: [#007436783[484—536]](https://www.familysearch.org/search/film/007436783?i=483)
+- 1882 — НАРТ, ф. 4, оп. 166, д. 49: [#007436786[784—845]](https://www.familysearch.org/search/film/007436786?i=783)
+- 1883 — НАРТ, ф. 4, оп. 166, д. 60: [#007436850[386—450]](https://www.familysearch.org/search/film/007436850?i=385)
+- 1884 — НАРТ, ф. 4, оп. 166, д. 67: [#007436854[818—876]](https://www.familysearch.org/search/film/007436854?i=817), [#007436855[6—12]](https://www.familysearch.org/search/film/007436855?i=5)
 
 #### Федотово
 
-См. [Алексеевка, Казанская церковь](#Алексеевка-Казанская-церковь).
+См. [Алексеевка](#Алексеевка).
 
