@@ -761,11 +761,11 @@
 - 1886 — НАРТ, ф. 4, оп. 166, д. 81: [#007437048[702—770]](https://www.familysearch.org/search/film/007437048?i=701)
 - 1887 — НАРТ, ф. 4, оп. 166, д. 89: [#007436843[543—621]](https://www.familysearch.org/search/film/007436843?i=542)
 - 1888 — НАРТ, ф. 4, оп. 166, д. 94: [#007436572[387—460]](https://www.familysearch.org/search/film/007436572?i=386)
-- 1889 — [НАРТ, ф. 4, оп. 166, д. 97](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-QHY3)
-- 1890 — [НАРТ, ф. 4, оп. 166, д. 109](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-RFCT)
-- 1891 — [НАРТ, ф. 4, оп. 166, д. 111](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-YDV6)
-- 1892 — [НАРТ, ф. 4, оп. 166, д. 119](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-CF5R)
-- 1893 — [НАРТ, ф. 4, оп. 166, д. 126](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-W7Z)
+- 1889 — НАРТ, ф. 4, оп. 166, д. 97: [#007437028[439—480]](https://www.familysearch.org/search/film/007437028?i=438)
+- 1890 — НАРТ, ф. 4, оп. 166, д. 109: [#007437030[406—458]](https://www.familysearch.org/search/film/007437030?i=405)
+- 1891 — НАРТ, ф. 4, оп. 166, д. 111: [#007436590[755—798]](https://www.familysearch.org/search/film/007436590?i=754)
+- 1892 — НАРТ, ф. 4, оп. 166, д. 119: [#007436595[560—602]](https://www.familysearch.org/search/film/007436595?i=559)
+- 1893 — НАРТ, ф. 4, оп. 166, д. 126: [#007436606[328—367]](https://www.familysearch.org/search/film/007436606?i=327)
 - 1894 — [НАРТ, ф. 4, оп. 166, д. 135](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-GZL5)
 - 1895 — [НАРТ, ф. 4, оп. 166, д. 143](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-5JP9)
 - 1896 — [НАРТ, ф. 4, оп. 166, д. 153](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-SW9J)
@@ -1017,6 +1017,11 @@
 - 1886 — НАРТ, ф. 4, оп. 166, д. 83: [#007436839[178—233]](https://www.familysearch.org/search/film/007436839?i=177)
 - 1887 — НАРТ, ф. 4, оп. 166, д. 86: [#007436841[265—341]](https://www.familysearch.org/search/film/007436841?i=264)
 - 1888 — НАРТ, ф. 4, оп. 166, д. 91: [#007436845[48—114]](https://www.familysearch.org/search/film/007436845?i=47)
+- 1889 — НАРТ, ф. 4, оп. 166, д. 99: [#007436571[654—706]](https://www.familysearch.org/search/film/007436571?i=653)
+- 1890 — НАРТ, ф. 4, оп. 166, д. 106: [#007437029[607—669]](https://www.familysearch.org/search/film/007437029?i=606)
+- 1891 — НАРТ, ф. 4, оп. 166, д. 113: [#007436592[308—366]](https://www.familysearch.org/search/film/007436592?i=307)
+- 1892 — НАРТ, ф. 4, оп. 166, д. 118: [#007436595[98—176]](https://www.familysearch.org/search/film/007436595?i=97)
+- 1893 — НАРТ, ф. 4, оп. 166, д. 129: [#007436639[676—739]](https://www.familysearch.org/search/film/007436639?i=675)
 
 #### Федотово
 
