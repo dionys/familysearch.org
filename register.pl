@@ -8,22 +8,28 @@ use open qw(:std :utf8);
 use YAML ();
 
 
-my $data = YAML::LoadFile($ARGV[0]);
+my ($meta, $data) = YAML::LoadFile($ARGV[0]);
+my $films = YAML::LoadFile('films.yaml');
 
-for my $h2 (sort keys %$data) {
-    my $d2 = $data->{$h2};
+unless ($data) {
+    $data = $meta;
+    $meta = undef;
+}
 
-    printf("### %s\n\n", $h2);
+if ($meta) {
+    printf("### %s\n\n", $meta->{title});
+}
 
-    for (sort keys %$d2) {
-        printf("- [%s](#%s)\n", $_, join('-', split(/[\s,]+/, $_)));
+if (%$data) {
+    foreach my $place ( sort keys %$data ) {
+        printf("- [%s](#%s)\n", $place, join('-', split(/[\s,]+/, $place)));
     }
     print("\n");
 
-    for my $p (sort keys %$d2) {
-        my $dp = $d2->{$p};
+    foreach my $place ( sort keys %$data ) {
+        my $dp = $data->{$place};
 
-        printf("#### %s\n\n", $p);
+        printf("#### %s\n\n", $place);
 
         if (!ref $dp || ref $dp eq 'ARRAY') {
             my @l = ref $dp ? @$dp : defined $dp ? $dp : ();
@@ -32,12 +38,12 @@ for my $h2 (sort keys %$data) {
                 print("См. " . join(", ", map { sprintf("[%s](#%s)", $_, join('-', split(/[\s,]+/, $_))) } sort @l) . ".\n\n");
             }
             else {
-                warn("No place link for \"" . $p . "\"\n");
+                warn("No place link for \"" . $place . "\"\n");
             }
             next;
         }
 
-        if (my @r = sort grep { my $v = $d2->{$_}; defined($v) && (!ref($v) && $v eq $p || ref($v) eq 'ARRAY' && grep { $_ eq $p } @$v) } keys %$d2) {
+        if (my @r = sort grep { my $v = $data->{$_}; defined($v) && (!ref($v) && $v eq $place || ref($v) eq 'ARRAY' && grep { $_ eq $place } @$v) } keys %$data) {
             printf("Также %s.\n\n", join(', ', @r));
         }
 
@@ -67,7 +73,7 @@ for my $h2 (sort keys %$data) {
                     printf("%s, ф. %s, оп. %s, д. %s: ", @{$l[$_]{p}});
                     for (0 .. $#m) {
                         if (!$f || $m[$_][0] ne $f) {
-                            printf('[#%s[', $m[$_][0]);
+                            printf('[#%s[', $films->{$m[$_][0]} // '{' . $m[$_][0] . '}');
                             $f = $m[$_][0];
                         }
                         else {

@@ -3,15 +3,15 @@
 ### Казанская губерния
 
 * [Лаишевский уезд](laishev.md)
-* [Свияжский уезд](sviyazhsk-metrics.md)
-* [Спасский уезд](spassk.md)
+* [Свияжский уезд](sviyazhsk-register.md)
+* [Спасский уезд](spassk-register.md)
 * [Тетюшский уезд](tetyushi.md)
 
 ### Самарская губерния
 
 ### Уфимская губерния
 
-* [Мензелинский уезд](menzelinsk-metrics.md)
+* [Мензелинский уезд](menzelinsk-register.md)
 
 ### Черниговская губерния
 
