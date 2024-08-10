@@ -55,7 +55,7 @@ for my $h2 (sort keys %$data) {
                     next unless defined $l[$_];
 
                     unless (ref $l[$_]{u} eq 'ARRAY') {
-                        unshift(@{$l[$_]{p}}, 'НАРТ') if @{$l[$_]{p}} < 4;
+                        unshift(@{$l[$_]{p}}, 'ГАРТ') if @{$l[$_]{p}} < 4;
                         printf("[%s, ф. %s, оп. %s, д. %s](%s)", @{$l[$_]{p}}, $l[$_]{u});
                         next;
                     }
@@ -63,7 +63,7 @@ for my $h2 (sort keys %$data) {
                     my @m = ref $l[$_]{u}[0] ? @{$l[$_]{u}} : $l[$_]{u};
                     my $f = '';
 
-                    unshift(@{$l[$_]{p}}, 'НАРТ') if @{$l[$_]{p}} < 4;
+                    unshift(@{$l[$_]{p}}, 'ГАРТ') if @{$l[$_]{p}} < 4;
                     printf("%s, ф. %s, оп. %s, д. %s: ", @{$l[$_]{p}});
                     for (0 .. $#m) {
                         if (!$f || $m[$_][0] ne $f) {
