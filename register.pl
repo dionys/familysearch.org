@@ -60,35 +60,52 @@ if (%$data) {
                 for (0 .. $#l) {
                     next unless defined $l[$_];
 
-                    unless (ref $l[$_]{u} eq 'ARRAY') {
-                        unshift(@{$l[$_]{p}}, 'ГАРТ') if @{$l[$_]{p}} < 4;
-                        printf("[%s, ф. %s, оп. %s, д. %s](%s)", @{$l[$_]{p}}, $l[$_]{u});
+                    my $cite = $l[$_]{p};
+                    my $link = $l[$_]{u};
+
+                    # Old format.
+                    unless (ref $link eq 'ARRAY') {
+                        if ( @$cite == 3 ) {
+                            unshift(@$cite, $meta && $meta->{archive} || 'ГАРТ');
+                        }
+                        printf('[%s, ф. %s, оп. %s, д. %s](%s)', @$cite, $link);
                         next;
                     }
 
-                    my @m = ref $l[$_]{u}[0] ? @{$l[$_]{u}} : $l[$_]{u};
+                    if ( @$cite == 3 || @$cite == 5 ) {
+                        unshift(@$cite, $meta && $meta->{archive} || 'ГАРТ');
+                    }
+                    if ( @$cite == 4 ) {
+                        printf('%s, ф. %s, оп. %s, д. %s: ', @$cite);
+                    }
+                    elsif ( @$cite == 6 ) {
+                        printf('%s, ф. %s, оп. %s, д. %s, лл. %s—%s: ', @$cite);
+                    }
+                    else {
+                        die('Wrong data');
+                    }
+
+                    my @links = ref $link->[0] ? @$link : $link;
                     my $f = '';
 
-                    unshift(@{$l[$_]{p}}, 'ГАРТ') if @{$l[$_]{p}} < 4;
-                    printf("%s, ф. %s, оп. %s, д. %s: ", @{$l[$_]{p}});
-                    for (0 .. $#m) {
-                        if (!$f || $m[$_][0] ne $f) {
-                            printf('[#%s[', $films->{$m[$_][0]} // '{' . $m[$_][0] . '}');
-                            $f = $m[$_][0];
+                    foreach ( 0 .. $#links ) {
+                        if ( !$f || $links[$_][0] ne $f ) {
+                            printf('[%s[', $films->{$links[$_][0]} // '#' . $links[$_][0]);
+                            $f = $links[$_][0];
                         }
                         else {
                             print('[[');
                         }
-                        if (defined $m[$_][2]) {
-                            printf('%d—%d', $m[$_][1] + 1, $m[$_][2] + 1);
+                        if (defined $links[$_][2]) {
+                            printf('%d—%d', $links[$_][1] + 1, $links[$_][2] + 1);
                         }
                         else {
-                            printf('%d', $m[$_][1] + 1);
+                            printf('%d', $links[$_][1] + 1);
                         }
-                        printf(']](https://www.familysearch.org/search/film/%s?i=%d)', $m[$_][0], $m[$_][1]);
+                        printf(']](https://www.familysearch.org/search/film/%s?i=%d)', $links[$_][0], $links[$_][1]);
                     }
                     continue {
-                        print(', ') if $_ < $#m;
+                        print(', ') if $_ < $#links;
                     }
                 }
                 continue {
