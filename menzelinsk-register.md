@@ -78,6 +78,7 @@
 - [Савалеево](#Савалеево)
 - [Сиренькино](#Сиренькино)
 - [Соболеково](#Соболеково)
+- [Старая Ашпала](#Старая-Ашпала)
 - [Старая Елань](#Старая-Елань)
 - [Старая Матвеевка](#Старая-Матвеевка)
 - [Старое Байсарово](#Старое-Байсарово)
@@ -98,12 +99,12 @@
 
 ##### Свято-Троицкая церковь
 
-- 1915 — ГАРТ, ф. 4, оп. 176, д. 1786: [#2268097[439—472]](https://www.familysearch.org/search/film/007438550?i=438); ГАРТ, ф. Р-1172, оп. 4, д. 221: [#2386241[515—516]](https://www.familysearch.org/search/film/007440501?i=514), [[518]](https://www.familysearch.org/search/film/007440501?i=517), [[520]](https://www.familysearch.org/search/film/007440501?i=519)
-- 1916 — ГАРТ, ф. Р-1172, оп. 4, д. 186: [#007440486[552—577]](https://www.familysearch.org/search/film/007440486?i=551); ГАРТ, ф. Р-1172, оп. 4, д. 221: [#2386241[532—533]](https://www.familysearch.org/search/film/007440501?i=531), [[561—562]](https://www.familysearch.org/search/film/007440501?i=560)
-- 1917 — ГАРТ, ф. Р-1172, оп. 4, д. 221: [#2386241[480—490]](https://www.familysearch.org/search/film/007440501?i=479), [[522—527]](https://www.familysearch.org/search/film/007440501?i=521), [[543—549]](https://www.familysearch.org/search/film/007440501?i=542), [[560]](https://www.familysearch.org/search/film/007440501?i=559)
-- 1918 — ГАРТ, ф. Р-1172, оп. 4, д. 221: [#2386241[490—503]](https://www.familysearch.org/search/film/007440501?i=489), [[528—531]](https://www.familysearch.org/search/film/007440501?i=527), [[533—537]](https://www.familysearch.org/search/film/007440501?i=532), [[550—559]](https://www.familysearch.org/search/film/007440501?i=549)
-- 1919 — ГАРТ, ф. Р-1172, оп. 4, д. 221: [#2386241[503—515]](https://www.familysearch.org/search/film/007440501?i=502), [[538—542]](https://www.familysearch.org/search/film/007440501?i=537), [[563—571]](https://www.familysearch.org/search/film/007440501?i=562)
-- 1920 — ГАРТ, ф. Р-1172, оп. 4, д. 221: [#2386241[516—517]](https://www.familysearch.org/search/film/007440501?i=515), [[519]](https://www.familysearch.org/search/film/007440501?i=518), [[521]](https://www.familysearch.org/search/film/007440501?i=520)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1786: [#007438550[439—472]](https://www.familysearch.org/search/film/007438550?i=438); ГАРТ, ф. Р-1172, оп. 4, д. 221: [#007440501[515—516]](https://www.familysearch.org/search/film/007440501?i=514), [[518]](https://www.familysearch.org/search/film/007440501?i=517), [[520]](https://www.familysearch.org/search/film/007440501?i=519)
+- 1916 — ГАРТ, ф. Р-1172, оп. 4, д. 186: [#007440486[552—577]](https://www.familysearch.org/search/film/007440486?i=551); ГАРТ, ф. Р-1172, оп. 4, д. 221: [#007440501[532—533]](https://www.familysearch.org/search/film/007440501?i=531), [[561—562]](https://www.familysearch.org/search/film/007440501?i=560)
+- 1917 — ГАРТ, ф. Р-1172, оп. 4, д. 221: [#007440501[480—490]](https://www.familysearch.org/search/film/007440501?i=479), [[522—527]](https://www.familysearch.org/search/film/007440501?i=521), [[543—549]](https://www.familysearch.org/search/film/007440501?i=542), [[560]](https://www.familysearch.org/search/film/007440501?i=559)
+- 1918 — ГАРТ, ф. Р-1172, оп. 4, д. 221: [#007440501[490—503]](https://www.familysearch.org/search/film/007440501?i=489), [[528—531]](https://www.familysearch.org/search/film/007440501?i=527), [[533—537]](https://www.familysearch.org/search/film/007440501?i=532), [[550—559]](https://www.familysearch.org/search/film/007440501?i=549)
+- 1919 — ГАРТ, ф. Р-1172, оп. 4, д. 221: [#007440501[503—515]](https://www.familysearch.org/search/film/007440501?i=502), [[538—542]](https://www.familysearch.org/search/film/007440501?i=537), [[563—571]](https://www.familysearch.org/search/film/007440501?i=562)
+- 1920 — ГАРТ, ф. Р-1172, оп. 4, д. 221: [#007440501[516—517]](https://www.familysearch.org/search/film/007440501?i=515), [[519]](https://www.familysearch.org/search/film/007440501?i=518), [[521]](https://www.familysearch.org/search/film/007440501?i=520)
 
 #### Азибей
 
@@ -114,7 +115,7 @@
 - 1906 — [ГАРТ, ф. 4, оп. 166, д. 231](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-4NBD)
 - 1907 — [ГАРТ, ф. 4, оп. 166, д. 234](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-7LJT)
 - 1908 — [ГАРТ, ф. 4, оп. 176, д. 1404](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-XXQN)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#2212366[429—458]](https://www.familysearch.org/search/film/007438143?i=428)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#007438143[429—458]](https://www.familysearch.org/search/film/007438143?i=428)
 - 1910 — [ГАРТ, ф. 4, оп. 176, д. 1543](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-DWLX)
 - 1911 — [ГАРТ, ф. 4, оп. 176, д. 1553](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-Z8G5)
 - 1912 — [ГАРТ, ф. 4, оп. 176, д. 1617](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-VQY4)
@@ -124,7 +125,7 @@
 
 ##### церковь
 
-- 1864 — ГАРТ, ф. 4, оп. 153, д. 279: [#2038504[641—808]](https://www.familysearch.org/search/film/007436483?i=640)
+- 1864 — ГАРТ, ф. 4, оп. 153, д. 279: [#007436483[641—808]](https://www.familysearch.org/search/film/007436483?i=640)
 
 #### Александровка
 
@@ -161,9 +162,9 @@
 - 1889 — [ГАРТ, ф. 4, оп. 166, д. 101](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-49NF)
 - 1890 — [ГАРТ, ф. 4, оп. 166, д. 103](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-HK53)
 - 1891 — [ГАРТ, ф. 4, оп. 166, д. 114](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-M7TD)
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 121: [#2061072[820—877]](https://www.familysearch.org/search/film/007436596?i=819)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 121: [#007436596[820—877]](https://www.familysearch.org/search/film/007436596?i=819)
 - 1893 — [ГАРТ, ф. 4, оп. 166, д. 127](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-7LZ3)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#2083279[653—717]](https://www.familysearch.org/search/film/007436889?i=652)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#007436889[653—717]](https://www.familysearch.org/search/film/007436889?i=652)
 - 1895 — [ГАРТ, ф. 4, оп. 166, д. 141](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-578C)
 - 1896 — [ГАРТ, ф. 4, оп. 166, д. 147](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-LHCW)
 - 1897 — [ГАРТ, ф. 4, оп. 166, д. 160](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-G73R)
@@ -216,14 +217,14 @@
 - 1885 — [ГАРТ, ф. 4, оп. 166, д. 70](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-9PXP)
 - 1886 — [ГАРТ, ф. 4, оп. 166, д. 82](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-YF63)
 - 1887 — [ГАРТ, ф. 4, оп. 166, д. 87](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-9K6Y)
-- 1888 — ГАРТ, ф. 4, оп. 166, д. 92: [#2064502[842—894]](https://www.familysearch.org/search/film/007436845?i=841), [#2061053[6—17]](https://www.familysearch.org/search/film/007436573?i=5)
+- 1888 — ГАРТ, ф. 4, оп. 166, д. 92: [#007436845[842—894]](https://www.familysearch.org/search/film/007436845?i=841), [#007436573[6—17]](https://www.familysearch.org/search/film/007436573?i=5)
 - 1889 — [ГАРТ, ф. 4, оп. 166, д. 100](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-73J6)
 - 1890 — [ГАРТ, ф. 4, оп. 166, д. 108](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-RJXW)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 114: [#2061067[885—940]](https://www.familysearch.org/search/film/007436592?i=884)
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#2061072[496—546]](https://www.familysearch.org/search/film/007436596?i=495)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 114: [#007436592[885—940]](https://www.familysearch.org/search/film/007436592?i=884)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#007436596[496—546]](https://www.familysearch.org/search/film/007436596?i=495)
 - 1893 — [ГАРТ, ф. 4, оп. 166, д. 128](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-72WB)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#2083279[395—468]](https://www.familysearch.org/search/film/007436889?i=394); ГАРТ, ф. 4, оп. 166, д. 137: [#2083283[458—477]](https://www.familysearch.org/search/film/007436893?i=457)
-- 1895 — ГАРТ, ф. 4, оп. 166, д. 138: [#2083283[665—708]](https://www.familysearch.org/search/film/007436893?i=664)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#007436889[395—468]](https://www.familysearch.org/search/film/007436889?i=394); ГАРТ, ф. 4, оп. 166, д. 137: [#007436893[458—477]](https://www.familysearch.org/search/film/007436893?i=457)
+- 1895 — ГАРТ, ф. 4, оп. 166, д. 138: [#007436893[665—708]](https://www.familysearch.org/search/film/007436893?i=664)
 - 1896 — [ГАРТ, ф. 4, оп. 166, д. 147](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-L8S5)
 - 1897 — [ГАРТ, ф. 4, оп. 166, д. 160](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-GSFH)
 - 1898 — [ГАРТ, ф. 4, оп. 166, д. 169](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-PQ31)
@@ -252,60 +253,60 @@
 
 ##### Казанская церковь
 
-- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#2038504[80—162]](https://www.familysearch.org/search/film/007436483?i=79)
-- 1864 — ГАРТ, ф. 4, оп. 153, д. 281: [#2040368[361—433]](https://www.familysearch.org/search/film/007436371?i=360)
-- 1865 — ГАРТ, ф. 4, оп. 153, д. 284: [#2040370[411—469]](https://www.familysearch.org/search/film/007436373?i=410)
-- 1866 — ГАРТ, ф. 4, оп. 153, д. 291: [#2040375[43—107]](https://www.familysearch.org/search/film/007436378?i=42)
-- 1867 — ГАРТ, ф. 4, оп. 153, д. 296: [#2040378[260—330]](https://www.familysearch.org/search/film/007436381?i=259)
-- 1868 — ГАРТ, ф. 4, оп. 153, д. 299: [#2040380[559—631]](https://www.familysearch.org/search/film/007436403?i=558)
-- 1869 — ГАРТ, ф. 4, оп. 153, д. 303: [#2040383[797—866]](https://www.familysearch.org/search/film/007436400?i=796)
-- 1870 — ГАРТ, ф. 4, оп. 153, д. 308: [#2040387[560—638]](https://www.familysearch.org/search/film/007436396?i=559)
-- 1871 — ГАРТ, ф. 4, оп. 153, д. 331: [#2040392[636—713]](https://www.familysearch.org/search/film/007436391?i=635)
-- 1872 — ГАРТ, ф. 4, оп. 153, д. 337: [#2040395[606—670]](https://www.familysearch.org/search/film/007436388?i=605)
-- 1873 — ГАРТ, ф. 4, оп. 166, д. 2: [#2061800[160—215]](https://www.familysearch.org/search/film/007436696?i=159)
-- 1874 — ГАРТ, ф. 4, оп. 166, д. 7: [#2061803[7—73]](https://www.familysearch.org/search/film/007436665?i=6)
-- 1875 — ГАРТ, ф. 4, оп. 166, д. 12: [#2061806[281—339]](https://www.familysearch.org/search/film/007436684?i=280)
-- 1876 — ГАРТ, ф. 4, оп. 166, д. 18: [#2063278[626—704]](https://www.familysearch.org/search/film/007436682?i=625)
-- 1877 — ГАРТ, ф. 4, оп. 166, д. 24: [#2063282[888—932]](https://www.familysearch.org/search/film/007436768?i=887), [#2063283[6—38]](https://www.familysearch.org/search/film/007436769?i=5)
-- 1878 — ГАРТ, ф. 4, оп. 166, д. 28: [#2063286[339—404]](https://www.familysearch.org/search/film/007436773?i=338)
-- 1879 — ГАРТ, ф. 4, оп. 166, д. 34: [#2063290[66—140]](https://www.familysearch.org/search/film/007436776?i=65)
-- 1880 — ГАРТ, ф. 4, оп. 166, д. 38: [#2063293[52—137]](https://www.familysearch.org/search/film/007436779?i=51)
-- 1881 — ГАРТ, ф. 4, оп. 166, д. 44: [#2063297[690—760]](https://www.familysearch.org/search/film/007436783?i=689)
+- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#007436483[80—162]](https://www.familysearch.org/search/film/007436483?i=79)
+- 1864 — ГАРТ, ф. 4, оп. 153, д. 281: [#007436371[361—433]](https://www.familysearch.org/search/film/007436371?i=360)
+- 1865 — ГАРТ, ф. 4, оп. 153, д. 284: [#007436373[411—469]](https://www.familysearch.org/search/film/007436373?i=410)
+- 1866 — ГАРТ, ф. 4, оп. 153, д. 291: [#007436378[43—107]](https://www.familysearch.org/search/film/007436378?i=42)
+- 1867 — ГАРТ, ф. 4, оп. 153, д. 296: [#007436381[260—330]](https://www.familysearch.org/search/film/007436381?i=259)
+- 1868 — ГАРТ, ф. 4, оп. 153, д. 299: [#007436403[559—631]](https://www.familysearch.org/search/film/007436403?i=558)
+- 1869 — ГАРТ, ф. 4, оп. 153, д. 303: [#007436400[797—866]](https://www.familysearch.org/search/film/007436400?i=796)
+- 1870 — ГАРТ, ф. 4, оп. 153, д. 308: [#007436396[560—638]](https://www.familysearch.org/search/film/007436396?i=559)
+- 1871 — ГАРТ, ф. 4, оп. 153, д. 331: [#007436391[636—713]](https://www.familysearch.org/search/film/007436391?i=635)
+- 1872 — ГАРТ, ф. 4, оп. 153, д. 337: [#007436388[606—670]](https://www.familysearch.org/search/film/007436388?i=605)
+- 1873 — ГАРТ, ф. 4, оп. 166, д. 2: [#007436696[160—215]](https://www.familysearch.org/search/film/007436696?i=159)
+- 1874 — ГАРТ, ф. 4, оп. 166, д. 7: [#007436665[7—73]](https://www.familysearch.org/search/film/007436665?i=6)
+- 1875 — ГАРТ, ф. 4, оп. 166, д. 12: [#007436684[281—339]](https://www.familysearch.org/search/film/007436684?i=280)
+- 1876 — ГАРТ, ф. 4, оп. 166, д. 18: [#007436682[626—704]](https://www.familysearch.org/search/film/007436682?i=625)
+- 1877 — ГАРТ, ф. 4, оп. 166, д. 24: [#007436768[888—932]](https://www.familysearch.org/search/film/007436768?i=887), [#007436769[6—38]](https://www.familysearch.org/search/film/007436769?i=5)
+- 1878 — ГАРТ, ф. 4, оп. 166, д. 28: [#007436773[339—404]](https://www.familysearch.org/search/film/007436773?i=338)
+- 1879 — ГАРТ, ф. 4, оп. 166, д. 34: [#007436776[66—140]](https://www.familysearch.org/search/film/007436776?i=65)
+- 1880 — ГАРТ, ф. 4, оп. 166, д. 38: [#007436779[52—137]](https://www.familysearch.org/search/film/007436779?i=51)
+- 1881 — ГАРТ, ф. 4, оп. 166, д. 44: [#007436783[690—760]](https://www.familysearch.org/search/film/007436783?i=689)
 - 1882 — ГАРТ, ф. 4, оп. 166, д. 49: [#007436786[723—783]](https://www.familysearch.org/search/film/007436786?i=722)
-- 1883 — ГАРТ, ф. 4, оп. 166, д. 60: [#2064544[451—530]](https://www.familysearch.org/search/film/007436850?i=450)
-- 1884 — ГАРТ, ф. 4, оп. 166, д. 67: [#2064549[13—106]](https://www.familysearch.org/search/film/007436855?i=12)
-- 1885 — ГАРТ, ф. 4, оп. 166, д. 75: [#2064554[185—261]](https://www.familysearch.org/search/film/007436860?i=184)
-- 1886 — ГАРТ, ф. 4, оп. 166, д. 83: [#2064496[234—303]](https://www.familysearch.org/search/film/007436839?i=233)
-- 1887 — ГАРТ, ф. 4, оп. 166, д. 86: [#2064498[342—402]](https://www.familysearch.org/search/film/007436841?i=341)
-- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#2064502[115—164]](https://www.familysearch.org/search/film/007436845?i=114)
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 99: [#2061057[827—876]](https://www.familysearch.org/search/film/007436571?i=826)
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#2061062[670—709]](https://www.familysearch.org/search/film/007437029?i=669)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#2061067[365—411]](https://www.familysearch.org/search/film/007436592?i=364)
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 118: [#2061071[175—230]](https://www.familysearch.org/search/film/007436595?i=174)
-- 1893 — ГАРТ, ф. 4, оп. 166, д. 129: [#2061077[740—788]](https://www.familysearch.org/search/film/007436639?i=739)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 134: [#2083281[417—464]](https://www.familysearch.org/search/film/007436891?i=416)
-- 1895 — ГАРТ, ф. 4, оп. 166, д. 142: [#2083285[466—513]](https://www.familysearch.org/search/film/007436895?i=465)
-- 1896 — ГАРТ, ф. 4, оп. 166, д. 154а: [#2085918[678—729]](https://www.familysearch.org/search/film/007436984?i=677)
-- 1897 — ГАРТ, ф. 4, оп. 166, д. 162: [#2085922[435—484]](https://www.familysearch.org/search/film/007436988?i=434)
-- 1898 — ГАРТ, ф. 4, оп. 166, д. 170: [#2085926[264—323]](https://www.familysearch.org/search/film/007436992?i=263)
-- 1899 — ГАРТ, ф. 4, оп. 166, д. 177: [#2085713[955—960]](https://www.familysearch.org/search/film/007436952?i=954), [#2085714[6—40]](https://www.familysearch.org/search/film/007436953?i=5)
-- 1900 — ГАРТ, ф. 4, оп. 166, д. 181: [#2085715[795—850]](https://www.familysearch.org/search/film/007436954?i=794)
-- 1901 — ГАРТ, ф. 4, оп. 166, д. 191: [#2085720[810—870]](https://www.familysearch.org/search/film/007436959?i=809)
-- 1902 — ГАРТ, ф. 4, оп. 166, д. 200: [#2085933[382—426]](https://www.familysearch.org/search/film/007436999?i=381)
-- 1903 — ГАРТ, ф. 4, оп. 166, д. 210: [#2085379[226—275]](https://www.familysearch.org/search/film/007436932?i=225)
-- 1904 — ГАРТ, ф. 4, оп. 166, д. 216: [#2085382[598—658]](https://www.familysearch.org/search/film/007436935?i=597)
-- 1905 — ГАРТ, ф. 4, оп. 166, д. 222: [#2085386[31—86]](https://www.familysearch.org/search/film/007436939?i=30)
-- 1906 — ГАРТ, ф. 4, оп. 166, д. 232: [#2086640[395—452]](https://www.familysearch.org/search/film/007437058?i=394)
-- 1907 — ГАРТ, ф. 4, оп. 166, д. 234: [#2086641[806—852]](https://www.familysearch.org/search/film/007437059?i=805)
-- 1908 — ГАРТ, ф. 4, оп. 176, д. 1403: [#2212363[377—434]](https://www.familysearch.org/search/film/007438140?i=376)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#2212366[835—897]](https://www.familysearch.org/search/film/007438143?i=834), [#2212367[9—10]](https://www.familysearch.org/search/film/007438107?i=8), [[21—22]](https://www.familysearch.org/search/film/007438107?i=20)
-- 1910 — ГАРТ, ф. 4, оп. 176, д. 1544: [#2236765[294—350]](https://www.familysearch.org/search/film/007438488?i=293)
-- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#2256877[258—309]](https://www.familysearch.org/search/film/007438524?i=257)
-- 1912 — ГАРТ, ф. 4, оп. 176, д. 1615: [#2256874[884—950]](https://www.familysearch.org/search/film/007438527?i=883)
-- 1913 — ГАРТ, ф. 4, оп. 176, д. 1627: [#2272150[655—720]](https://www.familysearch.org/search/film/007439148?i=654)
-- 1914 — ГАРТ, ф. 4, оп. 176, д. 1726: [#2270787[627—683]](https://www.familysearch.org/search/film/007438616?i=626)
-- 1915 — ГАРТ, ф. 4, оп. 176, д. 1797: [#2268097[778—827]](https://www.familysearch.org/search/film/007438550?i=777)
-- 1916 — ГАРТ, ф. Р-1172, оп. 4, д. 188: [#2381790[396—427]](https://www.familysearch.org/search/film/007440485?i=395)
+- 1883 — ГАРТ, ф. 4, оп. 166, д. 60: [#007436850[451—530]](https://www.familysearch.org/search/film/007436850?i=450)
+- 1884 — ГАРТ, ф. 4, оп. 166, д. 67: [#007436855[13—106]](https://www.familysearch.org/search/film/007436855?i=12)
+- 1885 — ГАРТ, ф. 4, оп. 166, д. 75: [#007436860[185—261]](https://www.familysearch.org/search/film/007436860?i=184)
+- 1886 — ГАРТ, ф. 4, оп. 166, д. 83: [#007436839[234—303]](https://www.familysearch.org/search/film/007436839?i=233)
+- 1887 — ГАРТ, ф. 4, оп. 166, д. 86: [#007436841[342—402]](https://www.familysearch.org/search/film/007436841?i=341)
+- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#007436845[115—164]](https://www.familysearch.org/search/film/007436845?i=114)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 99: [#007436571[827—876]](https://www.familysearch.org/search/film/007436571?i=826)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#007437029[670—709]](https://www.familysearch.org/search/film/007437029?i=669)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#007436592[365—411]](https://www.familysearch.org/search/film/007436592?i=364)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 118: [#007436595[175—230]](https://www.familysearch.org/search/film/007436595?i=174)
+- 1893 — ГАРТ, ф. 4, оп. 166, д. 129: [#007436639[740—788]](https://www.familysearch.org/search/film/007436639?i=739)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 134: [#007436891[417—464]](https://www.familysearch.org/search/film/007436891?i=416)
+- 1895 — ГАРТ, ф. 4, оп. 166, д. 142: [#007436895[466—513]](https://www.familysearch.org/search/film/007436895?i=465)
+- 1896 — ГАРТ, ф. 4, оп. 166, д. 154а: [#007436984[678—729]](https://www.familysearch.org/search/film/007436984?i=677)
+- 1897 — ГАРТ, ф. 4, оп. 166, д. 162: [#007436988[435—484]](https://www.familysearch.org/search/film/007436988?i=434)
+- 1898 — ГАРТ, ф. 4, оп. 166, д. 170: [#007436992[264—323]](https://www.familysearch.org/search/film/007436992?i=263)
+- 1899 — ГАРТ, ф. 4, оп. 166, д. 177: [#007436952[955—960]](https://www.familysearch.org/search/film/007436952?i=954), [#007436953[6—40]](https://www.familysearch.org/search/film/007436953?i=5)
+- 1900 — ГАРТ, ф. 4, оп. 166, д. 181: [#007436954[795—850]](https://www.familysearch.org/search/film/007436954?i=794)
+- 1901 — ГАРТ, ф. 4, оп. 166, д. 191: [#007436959[810—870]](https://www.familysearch.org/search/film/007436959?i=809)
+- 1902 — ГАРТ, ф. 4, оп. 166, д. 200: [#007436999[382—426]](https://www.familysearch.org/search/film/007436999?i=381)
+- 1903 — ГАРТ, ф. 4, оп. 166, д. 210: [#007436932[226—275]](https://www.familysearch.org/search/film/007436932?i=225)
+- 1904 — ГАРТ, ф. 4, оп. 166, д. 216: [#007436935[598—658]](https://www.familysearch.org/search/film/007436935?i=597)
+- 1905 — ГАРТ, ф. 4, оп. 166, д. 222: [#007436939[31—86]](https://www.familysearch.org/search/film/007436939?i=30)
+- 1906 — ГАРТ, ф. 4, оп. 166, д. 232: [#007437058[395—452]](https://www.familysearch.org/search/film/007437058?i=394)
+- 1907 — ГАРТ, ф. 4, оп. 166, д. 234: [#007437059[806—852]](https://www.familysearch.org/search/film/007437059?i=805)
+- 1908 — ГАРТ, ф. 4, оп. 176, д. 1403: [#007438140[377—434]](https://www.familysearch.org/search/film/007438140?i=376)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#007438143[835—897]](https://www.familysearch.org/search/film/007438143?i=834), [#007438107[9—10]](https://www.familysearch.org/search/film/007438107?i=8), [[21—22]](https://www.familysearch.org/search/film/007438107?i=20)
+- 1910 — ГАРТ, ф. 4, оп. 176, д. 1544: [#007438488[294—350]](https://www.familysearch.org/search/film/007438488?i=293)
+- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#007438524[258—309]](https://www.familysearch.org/search/film/007438524?i=257)
+- 1912 — ГАРТ, ф. 4, оп. 176, д. 1615: [#007438527[884—950]](https://www.familysearch.org/search/film/007438527?i=883)
+- 1913 — ГАРТ, ф. 4, оп. 176, д. 1627: [#007439148[655—720]](https://www.familysearch.org/search/film/007439148?i=654)
+- 1914 — ГАРТ, ф. 4, оп. 176, д. 1726: [#007438616[627—683]](https://www.familysearch.org/search/film/007438616?i=626)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1797: [#007438550[778—827]](https://www.familysearch.org/search/film/007438550?i=777)
+- 1916 — ГАРТ, ф. Р-1172, оп. 4, д. 188: [#007440485[396—427]](https://www.familysearch.org/search/film/007440485?i=395)
 
 #### Архангельское
 
@@ -339,7 +340,7 @@
 - 1886 — [ГАРТ, ф. 4, оп. 166, д. 79](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-1F3Z)
 - 1887 — [ГАРТ, ф. 4, оп. 166, д. 88](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-24DC)
 - 1888 — [ГАРТ, ф. 4, оп. 166, д. 90](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-RNH3)
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 98: [#2061057[323—378]](https://www.familysearch.org/search/film/007436571?i=322)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 98: [#007436571[323—378]](https://www.familysearch.org/search/film/007436571?i=322)
 - 1890 — [ГАРТ, ф. 4, оп. 166, д. 105](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-7JXZ)
 - 1891 — [ГАРТ, ф. 4, оп. 166, д. 112](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-RCV9)
 - 1892 — [ГАРТ, ф. 4, оп. 166, д. 116](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-3LD3)
@@ -387,7 +388,7 @@
 
 ##### Покровская церковь
 
-- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#2038504[431—531]](https://www.familysearch.org/search/film/007436483?i=430)
+- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#007436483[431—531]](https://www.familysearch.org/search/film/007436483?i=430)
 - 1864 — [ГАРТ, ф. 4, оп. 153, д. 281](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-JD45)
 - 1865 — [ГАРТ, ф. 4, оп. 153, д. 284](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-W7XT)
 - 1866 — [ГАРТ, ф. 4, оп. 153, д. 291](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-VH1F)
@@ -430,7 +431,7 @@
 - 1903 — [ГАРТ, ф. 4, оп. 166, д. 206](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-P41X)
 - 1904 — [ГАРТ, ф. 4, оп. 166, д. 215](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-1X9K); [ГАРТ, ф. 4, оп. 166, д. 215](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-P3L1)
 - 1905 — [ГАРТ, ф. 4, оп. 166, д. 223](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZH-NSGL)
-- 1906 — [ГАРТ, ф. 4, оп. 166, д. 233](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-H95Z); ГАРТ, ф. 4, оп. 166, д. 233: [#2086641[6—54]](https://www.familysearch.org/search/film/007437059?i=5)
+- 1906 — [ГАРТ, ф. 4, оп. 166, д. 233](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-H95Z); ГАРТ, ф. 4, оп. 166, д. 233: [#007437059[6—54]](https://www.familysearch.org/search/film/007437059?i=5)
 - 1907 — [ГАРТ, ф. 4, оп. 166, д. 235](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-72RW)
 - 1908 — [ГАРТ, ф. 4, оп. 176, д. 1400](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-47JQ)
 - 1909 — [ГАРТ, ф. 4, оп. 176, д. 1406](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-DJWL)
@@ -448,10 +449,7 @@
 
 #### Ашпала
 
-##### Покровская церковь
-
-- 1908 — [ГАРТ, ф. 4, оп. 176, д. 1401](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-XSN9)
-- 1912 — ГАРТ, ф. 4, оп. 176, д. 1620: [#2256877[883—926]](https://www.familysearch.org/search/film/007438524?i=882)
+См. [Старая Ашпала](#Старая-Ашпала).
 
 #### Багряж
 
@@ -489,7 +487,7 @@
 - 1880 — [ГАРТ, ф. 4, оп. 3 доп., д. 10](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-1CRV); [ГАРТ, ф. 4, оп. 166, д. 38](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-YJZ)
 - 1881 — [ГАРТ, ф. 4, оп. 3 доп., д. 10](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-1CGW); [ГАРТ, ф. 4, оп. 166, д. 46](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-7CF6)
 - 1882 — [ГАРТ, ф. 4, оп. 3 доп., д. 10](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-1HGW); [ГАРТ, ф. 4, оп. 166, д. 50](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-L3C4)
-- 1883 — [ГАРТ, ф. 4, оп. 3 доп., д. 10](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-14PG); ГАРТ, ф. 4, оп. 3 доп., д. 10: [#2142695[6—40]](https://www.familysearch.org/search/film/007437389?i=5); [ГАРТ, ф. 4, оп. 166, д. 57](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-LWG1)
+- 1883 — [ГАРТ, ф. 4, оп. 3 доп., д. 10](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-14PG); ГАРТ, ф. 4, оп. 3 доп., д. 10: [#007437389[6—40]](https://www.familysearch.org/search/film/007437389?i=5); [ГАРТ, ф. 4, оп. 166, д. 57](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-LWG1)
 - 1884 — [ГАРТ, ф. 4, оп. 166, д. 63](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-ZZLW)
 - 1885 — [ГАРТ, ф. 4, оп. 166, д. 70](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-S7F5)
 - 1886 — [ГАРТ, ф. 4, оп. 166, д. 82](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-YVVR)
@@ -500,7 +498,7 @@
 - 1891 — [ГАРТ, ф. 4, оп. 166, д. 110](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-YZPY)
 - 1892 — [ГАРТ, ф. 4, оп. 166, д. 116](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-3LFZ)
 - 1893 — [ГАРТ, ф. 4, оп. 166, д. 128](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-7LV2)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#2083279[313—344]](https://www.familysearch.org/search/film/007436889?i=312); ГАРТ, ф. 4, оп. 166, д. 137: [#2083283[279—292]](https://www.familysearch.org/search/film/007436893?i=278)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#007436889[313—344]](https://www.familysearch.org/search/film/007436889?i=312); ГАРТ, ф. 4, оп. 166, д. 137: [#007436893[279—292]](https://www.familysearch.org/search/film/007436893?i=278)
 - 1895 — [ГАРТ, ф. 4, оп. 166, д. 144](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-5XZB)
 - 1896 — [ГАРТ, ф. 4, оп. 166, д. 148](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-LH1T)
 - 1897 — [ГАРТ, ф. 4, оп. 166, д. 159](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-S4QM)
@@ -527,6 +525,10 @@
 - 1918 — [ГАРТ, ф. Р-1172, оп. 4, д. 195](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-46JL); [ГАРТ, ф. Р-1172, оп. 4, д. 195](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-4631); [ГАРТ, ф. Р-1172, оп. 4, д. 195](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-462T); [ГАРТ, ф. Р-1172, оп. 4, д. 195](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-466H)
 - 1919 — [ГАРТ, ф. Р-1172, оп. 4, д. 195](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-46W7); [ГАРТ, ф. Р-1172, оп. 4, д. 195](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-4D6G)
 - 1920 — [ГАРТ, ф. Р-1172, оп. 4, д. 195](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-4DLS); [ГАРТ, ф. Р-1172, оп. 4, д. 195](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-46S4)
+
+##### Свято-Ключинская церковь
+
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1789, лл. 324—330об: [#007438548[845—852]](https://www.familysearch.org/search/film/007438548?i=844)
 
 #### Байсар-Софьино
 
@@ -558,7 +560,7 @@
 - 1885 — [ГАРТ, ф. 4, оп. 3 доп., д. 9](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-1D9T); [ГАРТ, ф. 4, оп. 3 доп., д. 9](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-1825)
 - 1886 — [ГАРТ, ф. 4, оп. 3 доп., д. 9](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-18KJ); [ГАРТ, ф. 4, оп. 3 доп., д. 9](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-18F7)
 - 1887 — [ГАРТ, ф. 4, оп. 3 доп., д. 9](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-18S6); [ГАРТ, ф. 4, оп. 3 доп., д. 9](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-18S6)
-- 1888 — [ГАРТ, ф. 4, оп. 3 доп., д. 9](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-1ZB6); ГАРТ, ф. 4, оп. 166, д. 91: [#2064502[419—485]](https://www.familysearch.org/search/film/007436845?i=418)
+- 1888 — [ГАРТ, ф. 4, оп. 3 доп., д. 9](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-1ZB6); ГАРТ, ф. 4, оп. 166, д. 91: [#007436845[419—485]](https://www.familysearch.org/search/film/007436845?i=418)
 - 1889 — [ГАРТ, ф. 4, оп. 3 доп., д. 9](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-1879); [ГАРТ, ф. 4, оп. 166, д. 99](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-73D6)
 - 1890 — [ГАРТ, ф. 4, оп. 3 доп., д. 9](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-18J5); [ГАРТ, ф. 4, оп. 166, д. 109](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-T9RC)
 - 1891 — [ГАРТ, ф. 4, оп. 166, д. 111](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-RCH1)
@@ -602,8 +604,8 @@
 ##### Михаило-Архангельская церковь
 
 - 1893 — [ГАРТ, ф. 4, оп. 166, д. 127](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-7L79)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#2083279[345—372]](https://www.familysearch.org/search/film/007436889?i=344)
-- 1895 — ГАРТ, ф. 4, оп. 166, д. 138: [#2083283[879—907]](https://www.familysearch.org/search/film/007436893?i=878)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#007436889[345—372]](https://www.familysearch.org/search/film/007436889?i=344)
+- 1895 — ГАРТ, ф. 4, оп. 166, д. 138: [#007436893[879—907]](https://www.familysearch.org/search/film/007436893?i=878)
 - 1896 — [ГАРТ, ф. 4, оп. 166, д. 150](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-ZXV1)
 - 1897 — [ГАРТ, ф. 4, оп. 166, д. 160](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-G3QK)
 - 1898 — [ГАРТ, ф. 4, оп. 166, д. 169](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZM-PSDJ)
@@ -615,11 +617,11 @@
 - 1904 — [ГАРТ, ф. 4, оп. 166, д. 213](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-1F1M)
 - 1905 — [ГАРТ, ф. 4, оп. 166, д. 220](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-M3T)
 - 1906 — [ГАРТ, ф. 4, оп. 166, д. 227](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-78VR)
-- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#2086641[438—469]](https://www.familysearch.org/search/film/007437059?i=437)
+- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#007437059[438—469]](https://www.familysearch.org/search/film/007437059?i=437)
 - 1908 — [ГАРТ, ф. 4, оп. 176, д. 1397](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-642)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#2212366[628—662]](https://www.familysearch.org/search/film/007438143?i=627)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#007438143[628—662]](https://www.familysearch.org/search/film/007438143?i=627)
 - 1910 — [ГАРТ, ф. 4, оп. 176, д. 1544](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-4Y7F)
-- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#2256877[74—104]](https://www.familysearch.org/search/film/007438524?i=73)
+- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#007438524[74—104]](https://www.familysearch.org/search/film/007438524?i=73)
 - 1912 — [ГАРТ, ф. 4, оп. 176, д. 1615](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-V9CD)
 - 1913 — [ГАРТ, ф. 4, оп. 176, д. 1625](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-ZLWL)
 - 1914 — [ГАРТ, ф. 4, оп. 176, д. 1727](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-63K2)
@@ -700,7 +702,7 @@
 - 1903 — [ГАРТ, ф. 4, оп. 166, д. 206](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-QTQD)
 - 1904 — [ГАРТ, ф. 4, оп. 166, д. 215](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-P9HJ)
 - 1905 — [ГАРТ, ф. 4, оп. 166, д. 223](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZH-NYM)
-- 1906 — ГАРТ, ф. 4, оп. 166, д. 233: [#2086641[307—387]](https://www.familysearch.org/search/film/007437059?i=306)
+- 1906 — ГАРТ, ф. 4, оп. 166, д. 233: [#007437059[307—387]](https://www.familysearch.org/search/film/007437059?i=306)
 - 1907 — [ГАРТ, ф. 4, оп. 166, д. 235](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-7K49)
 - 1908 — [ГАРТ, ф. 4, оп. 176, д. 1400](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-4QH7)
 - 1909 — [ГАРТ, ф. 4, оп. 176, д. 1406](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-DKR1)
@@ -720,8 +722,8 @@
 
 ##### Богородицкая церковь
 
-- 1863 — ГАРТ, ф. 4, оп. 153, д. 275: [#2038501[628—718]](https://www.familysearch.org/search/film/007436480?i=627)
-- 1906 — ГАРТ, ф. 4, оп. 166, д. 233: [#2086641[199—264]](https://www.familysearch.org/search/film/007437059?i=198)
+- 1863 — ГАРТ, ф. 4, оп. 153, д. 275: [#007436480[628—718]](https://www.familysearch.org/search/film/007436480?i=627)
+- 1906 — ГАРТ, ф. 4, оп. 166, д. 233: [#007437059[199—264]](https://www.familysearch.org/search/film/007437059?i=198)
 
 #### Бишево
 
@@ -729,19 +731,19 @@
 
 ##### Гурьевская церковь
 
-- 1904 — ГАРТ, ф. 4, оп. 166, д. 213: [#2085381[150—165]](https://www.familysearch.org/search/film/007436934?i=149)
-- 1905 — ГАРТ, ф. 4, оп. 166, д. 220: [#2085384[966—968]](https://www.familysearch.org/search/film/007436937?i=965), [#2085385[6—35]](https://www.familysearch.org/search/film/007436938?i=5)
-- 1906 — ГАРТ, ф. 4, оп. 166, д. 227: [#2086637[473—507]](https://www.familysearch.org/search/film/007437054?i=472)
+- 1904 — ГАРТ, ф. 4, оп. 166, д. 213: [#007436934[150—165]](https://www.familysearch.org/search/film/007436934?i=149)
+- 1905 — ГАРТ, ф. 4, оп. 166, д. 220: [#007436937[966—968]](https://www.familysearch.org/search/film/007436937?i=965), [#007436938[6—35]](https://www.familysearch.org/search/film/007436938?i=5)
+- 1906 — ГАРТ, ф. 4, оп. 166, д. 227: [#007437054[473—507]](https://www.familysearch.org/search/film/007437054?i=472)
 - 1907 — ГАРТ, ф. 4, оп. 166, д. 236: [#007437061[757—777]](https://www.familysearch.org/search/film/007437061?i=756)
 - 1908 — ГАРТ, ф. 4, оп. 176, д. 1398: [#007438137[638—672]](https://www.familysearch.org/search/film/007438137?i=637)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#2212367[23—57]](https://www.familysearch.org/search/film/007438107?i=22), [[11—15]](https://www.familysearch.org/search/film/007438107?i=10)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#007438107[23—57]](https://www.familysearch.org/search/film/007438107?i=22), [[11—15]](https://www.familysearch.org/search/film/007438107?i=10)
 - 1910 — ГАРТ, ф. 4, оп. 176, д. 1544: [#004738488[351—384]](https://www.familysearch.org/search/film/004738488?i=350)
-- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#2256877[310—339]](https://www.familysearch.org/search/film/007438524?i=309)
-- 1912 — ГАРТ, ф. 4, оп. 176, д. 1615: [#2256874[951—975]](https://www.familysearch.org/search/film/007438527?i=950)
-- 1913 — ГАРТ, ф. 4, оп. 176, д. 1623: [#2272148[474—511]](https://www.familysearch.org/search/film/007439141?i=473)
+- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#007438524[310—339]](https://www.familysearch.org/search/film/007438524?i=309)
+- 1912 — ГАРТ, ф. 4, оп. 176, д. 1615: [#007438527[951—975]](https://www.familysearch.org/search/film/007438527?i=950)
+- 1913 — ГАРТ, ф. 4, оп. 176, д. 1623: [#007439141[474—511]](https://www.familysearch.org/search/film/007439141?i=473)
 - 1914 — ГАРТ, ф. 4, оп. 176, д. 1727: [#007438617[262—294]](https://www.familysearch.org/search/film/007438617?i=261)
-- 1915 — ГАРТ, ф. 4, оп. 176, д. 1789: [#2268095[570—600]](https://www.familysearch.org/search/film/007438548?i=569)
-- 1916 — ГАРТ, ф. Р-1172, оп. 4, д. 187: [#2381790[66—92]](https://www.familysearch.org/search/film/007440485?i=65)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1789, лл. 52—81: [#007438548[570—600]](https://www.familysearch.org/search/film/007438548?i=569)
+- 1916 — ГАРТ, ф. Р-1172, оп. 4, д. 187: [#007440485[66—92]](https://www.familysearch.org/search/film/007440485?i=65)
 - 1917 — ГАРТ, ф. Р-1172, оп. 4, д. 201: [#007440534[399—409]](https://www.familysearch.org/search/film/007440534?i=398), [[423—428]](https://www.familysearch.org/search/film/007440534?i=422), [[435—446]](https://www.familysearch.org/search/film/007440534?i=434)
 - 1918 — ГАРТ, ф. Р-1172, оп. 4, д. 201: [#007440534[410—420]](https://www.familysearch.org/search/film/007440534?i=409), [[429—433]](https://www.familysearch.org/search/film/007440534?i=428), [[447—454]](https://www.familysearch.org/search/film/007440534?i=446)
 - 1919 — ГАРТ, ф. Р-1172, оп. 4, д. 201: [#007440534[421—423]](https://www.familysearch.org/search/film/007440534?i=420), [[434]](https://www.familysearch.org/search/film/007440534?i=433), [[454—455]](https://www.familysearch.org/search/film/007440534?i=453)
@@ -757,11 +759,11 @@
 
 ##### Покровская церковь
 
-- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#2064502[551—611]](https://www.familysearch.org/search/film/007436845?i=550)
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#2061062[381—429]](https://www.familysearch.org/search/film/007437029?i=380)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#2061067[53—129]](https://www.familysearch.org/search/film/007436592?i=52)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#2212366[775—836]](https://www.familysearch.org/search/film/007438143?i=774)
-- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#2256877[204—257]](https://www.familysearch.org/search/film/007438524?i=203)
+- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#007436845[551—611]](https://www.familysearch.org/search/film/007436845?i=550)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#007437029[381—429]](https://www.familysearch.org/search/film/007437029?i=380)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#007436592[53—129]](https://www.familysearch.org/search/film/007436592?i=52)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#007438143[775—836]](https://www.familysearch.org/search/film/007438143?i=774)
+- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#007438524[204—257]](https://www.familysearch.org/search/film/007438524?i=203)
 
 #### Большое Афанасово
 
@@ -771,48 +773,49 @@
 
 ##### Андреевская церковь
 
-- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#2064502[486—509]](https://www.familysearch.org/search/film/007436845?i=485)
+- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#007436845[486—509]](https://www.familysearch.org/search/film/007436845?i=485)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1789, лл. 331—382: [#007438548[852—904]](https://www.familysearch.org/search/film/007438548?i=851)
 
 #### Бурды
 
 ##### Спасская церковь
 
-- 1887 — ГАРТ, ф. 4, оп. 166, д. 86: [#2064498[450—489]](https://www.familysearch.org/search/film/007436841?i=449)
-- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#2064502[358—397]](https://www.familysearch.org/search/film/007436845?i=357)
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 99: [#2061057[929—967]](https://www.familysearch.org/search/film/007436571?i=928)
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 105: [#2061062[179—231]](https://www.familysearch.org/search/film/007437029?i=178)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#2061067[783—826]](https://www.familysearch.org/search/film/007436592?i=782)
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#2061072[233—273]](https://www.familysearch.org/search/film/007436596?i=232)
-- 1893 — ГАРТ, ф. 4, оп. 166, д. 129: [#2083279[131—163]](https://www.familysearch.org/search/film/007436889?i=130)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 134: [#2083281[789—832]](https://www.familysearch.org/search/film/007436891?i=788)
-- 1895 — ГАРТ, ф. 4, оп. 166, д. 142: [#2083285[841—891]](https://www.familysearch.org/search/film/007436895?i=840)
-- 1896 — ГАРТ, ф. 4, оп. 166, д. 154: [#2085918[94—151]](https://www.familysearch.org/search/film/007436984?i=93)
-- 1897 — ГАРТ, ф. 4, оп. 166, д. 161: [#2085921[922—964]](https://www.familysearch.org/search/film/007436987?i=921)
+- 1887 — ГАРТ, ф. 4, оп. 166, д. 86: [#007436841[450—489]](https://www.familysearch.org/search/film/007436841?i=449)
+- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#007436845[358—397]](https://www.familysearch.org/search/film/007436845?i=357)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 99: [#007436571[929—967]](https://www.familysearch.org/search/film/007436571?i=928)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 105: [#007437029[179—231]](https://www.familysearch.org/search/film/007437029?i=178)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#007436592[783—826]](https://www.familysearch.org/search/film/007436592?i=782)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#007436596[233—273]](https://www.familysearch.org/search/film/007436596?i=232)
+- 1893 — ГАРТ, ф. 4, оп. 166, д. 129: [#007436889[131—163]](https://www.familysearch.org/search/film/007436889?i=130)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 134: [#007436891[789—832]](https://www.familysearch.org/search/film/007436891?i=788)
+- 1895 — ГАРТ, ф. 4, оп. 166, д. 142: [#007436895[841—891]](https://www.familysearch.org/search/film/007436895?i=840)
+- 1896 — ГАРТ, ф. 4, оп. 166, д. 154: [#007436984[94—151]](https://www.familysearch.org/search/film/007436984?i=93)
+- 1897 — ГАРТ, ф. 4, оп. 166, д. 161: [#007436987[922—964]](https://www.familysearch.org/search/film/007436987?i=921)
 - 1898 — 
-- 1899 — ГАРТ, ф. 4, оп. 166, д. 177: [#2085714[319—352]](https://www.familysearch.org/search/film/007436953?i=318)
-- 1900 — ГАРТ, ф. 4, оп. 166, д. 181: [#2085716[114—167]](https://www.familysearch.org/search/film/007436955?i=113)
-- 1901 — ГАРТ, ф. 4, оп. 166, д. 191: [#2085928[160—208]](https://www.familysearch.org/search/film/007436994?i=159)
-- 1902 — ГАРТ, ф. 4, оп. 166, д. 200: [#2085933[627—673]](https://www.familysearch.org/search/film/007436999?i=626)
-- 1903 — ГАРТ, ф. 4, оп. 166, д. 210: [#2085379[506—554]](https://www.familysearch.org/search/film/007436932?i=505)
-- 1904 — ГАРТ, ф. 4, оп. 166, д. 213: [#2085381[166—222]](https://www.familysearch.org/search/film/007436934?i=165)
-- 1905 — ГАРТ, ф. 4, оп. 166, д. 220: [#2085385[36—84]](https://www.familysearch.org/search/film/007436938?i=35)
-- 1906 — ГАРТ, ф. 4, оп. 166, д. 227: [#2086637[506—563]](https://www.familysearch.org/search/film/007437054?i=505)
-- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#2086641[577—633]](https://www.familysearch.org/search/film/007437059?i=576)
-- 1908 — ГАРТ, ф. 4, оп. 176, д. 1397: [#2212359[599—651]](https://www.familysearch.org/search/film/007438136?i=598)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1410: [#2212367[814—873]](https://www.familysearch.org/search/film/007438107?i=813)
-- 1910 — ГАРТ, ф. 4, оп. 176, д. 1548: [#2236767[299—357]](https://www.familysearch.org/search/film/007438486?i=298)
-- 1911 — ГАРТ, ф. 4, оп. 176, д. 1556: [#2233340[781—829]](https://www.familysearch.org/search/film/007438457?i=780)
-- 1912 — ГАРТ, ф. 4, оп. 176, д. 1620: [#2256877[717—769]](https://www.familysearch.org/search/film/007438524?i=716)
-- 1913 — ГАРТ, ф. 4, оп. 176, д. 1629: [#2272151[507—574]](https://www.familysearch.org/search/film/007439143?i=506)
-- 1914 — ГАРТ, ф. 4, оп. 176, д. 1729: [#2270789[204—262]](https://www.familysearch.org/search/film/007438618?i=203)
-- 1915 — ГАРТ, ф. 4, оп. 176, д. 1786: [#2268094[255—304]](https://www.familysearch.org/search/film/007438547?i=254)
-- 1916 — ГАРТ, ф. Р-1172, оп. 4, д. 186: [#2381789[402—450]](https://www.familysearch.org/search/film/007440484?i=401)
+- 1899 — ГАРТ, ф. 4, оп. 166, д. 177: [#007436953[319—352]](https://www.familysearch.org/search/film/007436953?i=318)
+- 1900 — ГАРТ, ф. 4, оп. 166, д. 181: [#007436955[114—167]](https://www.familysearch.org/search/film/007436955?i=113)
+- 1901 — ГАРТ, ф. 4, оп. 166, д. 191: [#007436994[160—208]](https://www.familysearch.org/search/film/007436994?i=159)
+- 1902 — ГАРТ, ф. 4, оп. 166, д. 200: [#007436999[627—673]](https://www.familysearch.org/search/film/007436999?i=626)
+- 1903 — ГАРТ, ф. 4, оп. 166, д. 210: [#007436932[506—554]](https://www.familysearch.org/search/film/007436932?i=505)
+- 1904 — ГАРТ, ф. 4, оп. 166, д. 213: [#007436934[166—222]](https://www.familysearch.org/search/film/007436934?i=165)
+- 1905 — ГАРТ, ф. 4, оп. 166, д. 220: [#007436938[36—84]](https://www.familysearch.org/search/film/007436938?i=35)
+- 1906 — ГАРТ, ф. 4, оп. 166, д. 227: [#007437054[506—563]](https://www.familysearch.org/search/film/007437054?i=505)
+- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#007437059[577—633]](https://www.familysearch.org/search/film/007437059?i=576)
+- 1908 — ГАРТ, ф. 4, оп. 176, д. 1397: [#007438136[599—651]](https://www.familysearch.org/search/film/007438136?i=598)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1410: [#007438107[814—873]](https://www.familysearch.org/search/film/007438107?i=813)
+- 1910 — ГАРТ, ф. 4, оп. 176, д. 1548: [#007438486[299—357]](https://www.familysearch.org/search/film/007438486?i=298)
+- 1911 — ГАРТ, ф. 4, оп. 176, д. 1556: [#007438457[781—829]](https://www.familysearch.org/search/film/007438457?i=780)
+- 1912 — ГАРТ, ф. 4, оп. 176, д. 1620: [#007438524[717—769]](https://www.familysearch.org/search/film/007438524?i=716)
+- 1913 — ГАРТ, ф. 4, оп. 176, д. 1629: [#007439143[507—574]](https://www.familysearch.org/search/film/007439143?i=506)
+- 1914 — ГАРТ, ф. 4, оп. 176, д. 1729: [#007438618[204—262]](https://www.familysearch.org/search/film/007438618?i=203)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1786: [#007438547[255—304]](https://www.familysearch.org/search/film/007438547?i=254)
+- 1916 — ГАРТ, ф. Р-1172, оп. 4, д. 186: [#007440484[402—450]](https://www.familysearch.org/search/film/007440484?i=401)
 
 #### Бута
 
 ##### церковь
 
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#2083283[6—69]](https://www.familysearch.org/search/film/007436893?i=5)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#007436893[6—69]](https://www.familysearch.org/search/film/007436893?i=5)
 
 #### Верхнее Бишево
 
@@ -826,9 +829,9 @@
 
 ##### Никольская церковь
 
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#2083279[557—601]](https://www.familysearch.org/search/film/007436889?i=556), [[751—767]](https://www.familysearch.org/search/film/007436889?i=750)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#007436889[557—601]](https://www.familysearch.org/search/film/007436889?i=556), [[751—767]](https://www.familysearch.org/search/film/007436889?i=750)
 - 1900 — [ГАРТ, ф. 4, оп. 166, д. 186](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-MS1T)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1407: [#2212365[844—893]](https://www.familysearch.org/search/film/007438142?i=843), [#2212366[6—40]](https://www.familysearch.org/search/film/007438143?i=5)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1407: [#007438142[844—893]](https://www.familysearch.org/search/film/007438142?i=843), [#007438143[6—40]](https://www.familysearch.org/search/film/007438143?i=5)
 
 #### Верхний Багряж
 
@@ -836,19 +839,19 @@
 
 ##### Троицкая церковь
 
-- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#2064502[508—552]](https://www.familysearch.org/search/film/007436845?i=507)
+- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#007436845[508—552]](https://www.familysearch.org/search/film/007436845?i=507)
 - 1889 — [ГАРТ, ф. 4, оп. 166, д. 99](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-7SS3)
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#2061062[842—901]](https://www.familysearch.org/search/film/007437029?i=841)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#2061067[542—607]](https://www.familysearch.org/search/film/007436592?i=541)
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#2061072[7—65]](https://www.familysearch.org/search/film/007436596?i=6)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#007437029[842—901]](https://www.familysearch.org/search/film/007437029?i=841)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#007436592[542—607]](https://www.familysearch.org/search/film/007436592?i=541)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#007436596[7—65]](https://www.familysearch.org/search/film/007436596?i=6)
 - 1893 — [ГАРТ, ф. 4, оп. 166, д. 129](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-WHH)
 - 1894 — [ГАРТ, ф. 4, оп. 166, д. 134](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-YQXB)
 - 1895 — [ГАРТ, ф. 4, оп. 166, д. 142](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-592X)
 - 1896 — [ГАРТ, ф. 4, оп. 166, д. 154](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-SSBK)
-- 1897 — ГАРТ, ф. 4, оп. 3 доп., д. 23: [#2142695[216—276]](https://www.familysearch.org/search/film/007437389?i=215); [ГАРТ, ф. 4, оп. 166, д. 161](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-GW27)
-- 1898 — ГАРТ, ф. 4, оп. 3 доп., д. 23: [#2142695[160—216]](https://www.familysearch.org/search/film/007437389?i=159)
-- 1899 — ГАРТ, ф. 4, оп. 3 доп., д. 23: [#2142695[109—160]](https://www.familysearch.org/search/film/007437389?i=108); [ГАРТ, ф. 4, оп. 166, д. 177](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-H9F9)
-- 1900 — ГАРТ, ф. 4, оп. 3 доп., д. 23: [#2142695[44—108]](https://www.familysearch.org/search/film/007437389?i=43); [ГАРТ, ф. 4, оп. 166, д. 181](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-B3MW)
+- 1897 — ГАРТ, ф. 4, оп. 3 доп., д. 23: [#007437389[216—276]](https://www.familysearch.org/search/film/007437389?i=215); [ГАРТ, ф. 4, оп. 166, д. 161](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZM-GW27)
+- 1898 — ГАРТ, ф. 4, оп. 3 доп., д. 23: [#007437389[160—216]](https://www.familysearch.org/search/film/007437389?i=159)
+- 1899 — ГАРТ, ф. 4, оп. 3 доп., д. 23: [#007437389[109—160]](https://www.familysearch.org/search/film/007437389?i=108); [ГАРТ, ф. 4, оп. 166, д. 177](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-H9F9)
+- 1900 — ГАРТ, ф. 4, оп. 3 доп., д. 23: [#007437389[44—108]](https://www.familysearch.org/search/film/007437389?i=43); [ГАРТ, ф. 4, оп. 166, д. 181](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-B3MW)
 - 1901 — [ГАРТ, ф. 4, оп. 166, д. 191](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-MQZM)
 - 1902 — [ГАРТ, ф. 4, оп. 166, д. 200](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-HKSK)
 - 1903 — [ГАРТ, ф. 4, оп. 166, д. 210](https://www.familysearch.org/ark:/61903/3:1:3QS7-99Z9-WX2R)
@@ -857,13 +860,13 @@
 - 1906 — [ГАРТ, ф. 4, оп. 166, д. 228](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZM-PXBH)
 - 1907 — [ГАРТ, ф. 4, оп. 166, д. 236](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-WQS9)
 - 1908 — [ГАРТ, ф. 4, оп. 176, д. 1398](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-S38B)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#2212366[514—582]](https://www.familysearch.org/search/film/007438143?i=513)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#007438143[514—582]](https://www.familysearch.org/search/film/007438143?i=513)
 - 1910 — [ГАРТ, ф. 4, оп. 176, д. 1544](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-DCDF); [ГАРТ, ф. 4, оп. 176, д. 1544](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-4B95)
-- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#2256876[908—939]](https://www.familysearch.org/search/film/007438525?i=907), [#2256877[6—35]](https://www.familysearch.org/search/film/007438524?i=5)
+- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#007438525[908—939]](https://www.familysearch.org/search/film/007438525?i=907), [#007438524[6—35]](https://www.familysearch.org/search/film/007438524?i=5)
 - 1912 — [ГАРТ, ф. 4, оп. 176, д. 1615](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-JCL1)
 - 1913 — [ГАРТ, ф. 4, оп. 176, д. 1623](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9ZS-Z98K-B)
 - 1914 — [ГАРТ, ф. 4, оп. 176, д. 1727](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-6Q6H)
-- 1915 — [ГАРТ, ф. 4, оп. 176, д. 1789](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZS-N9MN-F)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1789, лл. 3—51: [#007438548[520—569]](https://www.familysearch.org/search/film/007438548?i=519)
 - 1916 — [ГАРТ, ф. Р-1172, оп. 4, д. 187](https://www.familysearch.org/ark:/61903/3:1:3QS7-89ZS-69CG-V); [ГАРТ, ф. Р-1172, оп. 4, д. 187](https://www.familysearch.org/ark:/61903/3:1:3QS7-99ZS-89W2-D)
 - 1917 — 
 - 1918 — 
@@ -882,23 +885,23 @@
 
 ##### Космо-Дамиановская церковь
 
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 115: [#2061069[192—243]](https://www.familysearch.org/search/film/007436594?i=191)
-- 1912 — ГАРТ, ф. 4, оп. 176, д. 1620: [#2256877[849—882]](https://www.familysearch.org/search/film/007438524?i=848)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 115: [#007436594[192—243]](https://www.familysearch.org/search/film/007436594?i=191)
+- 1912 — ГАРТ, ф. 4, оп. 176, д. 1620: [#007438524[849—882]](https://www.familysearch.org/search/film/007438524?i=848)
 
 #### Драгун-Бикметево
 
 ##### Петропавловская церковь
 
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 121: [#2061072[783—819]](https://www.familysearch.org/search/film/007436596?i=782)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#2083279[613—652]](https://www.familysearch.org/search/film/007436889?i=612)
-- 1895 — ГАРТ, ф. 4, оп. 166, д. 138: [#2083283[906—953]](https://www.familysearch.org/search/film/007436893?i=905)
-- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#2086641[691—724]](https://www.familysearch.org/search/film/007437059?i=690)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 121: [#007436596[783—819]](https://www.familysearch.org/search/film/007436596?i=782)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#007436889[613—652]](https://www.familysearch.org/search/film/007436889?i=612)
+- 1895 — ГАРТ, ф. 4, оп. 166, д. 138: [#007436893[906—953]](https://www.familysearch.org/search/film/007436893?i=905)
+- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#007437059[691—724]](https://www.familysearch.org/search/film/007437059?i=690)
 
 #### Екатериновка
 
 ##### Михаило-Архангельская церковь
 
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1407: [#2212366[348—389]](https://www.familysearch.org/search/film/007438143?i=347)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1407: [#007438143[348—389]](https://www.familysearch.org/search/film/007438143?i=347)
 
 #### Елань
 
@@ -908,51 +911,52 @@
 
 ##### Богородицкая церковь
 
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#2083283[212—216]](https://www.familysearch.org/search/film/007436893?i=211)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1407: [#2212366[41—79]](https://www.familysearch.org/search/film/007438143?i=40)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#007436893[212—216]](https://www.familysearch.org/search/film/007436893?i=211)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1407: [#007438143[41—79]](https://www.familysearch.org/search/film/007438143?i=40)
 
 #### Заинск
 
 ##### Крестовоздвиженская церковь
 
-- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#2064502[165—305]](https://www.familysearch.org/search/film/007436845?i=164)
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 99: [#2061057[707—826]](https://www.familysearch.org/search/film/007436571?i=706)
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#2061062[710—844]](https://www.familysearch.org/search/film/007437029?i=709)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#2061067[412—543]](https://www.familysearch.org/search/film/007436592?i=411)
-- 1898 — ГАРТ, ф. 4, оп. 3 доп., д. 41: [#2142695[557—621]](https://www.familysearch.org/search/film/007437389?i=556)
-- 1899 — ГАРТ, ф. 4, оп. 3 доп., д. 41: [#2142695[621—672]](https://www.familysearch.org/search/film/007437389?i=620)
-- 1900 — ГАРТ, ф. 4, оп. 3 доп., д. 41: [#2142695[672—749]](https://www.familysearch.org/search/film/007437389?i=671)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1407: [#2212366[223—347]](https://www.familysearch.org/search/film/007438143?i=222)
+- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#007436845[165—305]](https://www.familysearch.org/search/film/007436845?i=164)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 99: [#007436571[707—826]](https://www.familysearch.org/search/film/007436571?i=706)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#007437029[710—844]](https://www.familysearch.org/search/film/007437029?i=709)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#007436592[412—543]](https://www.familysearch.org/search/film/007436592?i=411)
+- 1898 — ГАРТ, ф. 4, оп. 3 доп., д. 41: [#007437389[557—621]](https://www.familysearch.org/search/film/007437389?i=556)
+- 1899 — ГАРТ, ф. 4, оп. 3 доп., д. 41: [#007437389[621—672]](https://www.familysearch.org/search/film/007437389?i=620)
+- 1900 — ГАРТ, ф. 4, оп. 3 доп., д. 41: [#007437389[672—749]](https://www.familysearch.org/search/film/007437389?i=671)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1407: [#007438143[223—347]](https://www.familysearch.org/search/film/007438143?i=222)
 
 #### Игим
 
 ##### Петро-Павловская церковь
 
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#2212366[395—428]](https://www.familysearch.org/search/film/007438143?i=394)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#007438143[395—428]](https://www.familysearch.org/search/film/007438143?i=394)
 
 #### Кабан-Бастрык
 
 ##### Михаило-Архангельская церковь
 
-- 1881 — ГАРТ, ф. 4, оп. 166, д. 44: [#2063297[761—795]](https://www.familysearch.org/search/film/007436783?i=760)
+- 1881 — ГАРТ, ф. 4, оп. 166, д. 44: [#007436783[761—795]](https://www.familysearch.org/search/film/007436783?i=760)
 - 1882 — ГАРТ, ф. 4, оп. 166, д. 49: [#007436786[531—583]](https://www.familysearch.org/search/film/007436786?i=530)
-- 1883 — ГАРТ, ф. 4, оп. 166, д. 60: [#2064544[689—746]](https://www.familysearch.org/search/film/007436850?i=688)
-- 1884 — ГАРТ, ф. 4, оп. 166, д. 67: [#2064549[271—340]](https://www.familysearch.org/search/film/007436855?i=270)
+- 1883 — ГАРТ, ф. 4, оп. 166, д. 60: [#007436850[689—746]](https://www.familysearch.org/search/film/007436850?i=688)
+- 1884 — ГАРТ, ф. 4, оп. 166, д. 67: [#007436855[271—340]](https://www.familysearch.org/search/film/007436855?i=270)
 - 1885 — ГАРТ, ф. 4, оп. 166, д. 74: [#007436859[573—620]](https://www.familysearch.org/search/film/007436859?i=572)
-- 1886 — ГАРТ, ф. 4, оп. 166, д. 83: [#2064496[443—482]](https://www.familysearch.org/search/film/007436839?i=442)
-- 1887 — ГАРТ, ф. 4, оп. 166, д. 86: [#2064498[401—449]](https://www.familysearch.org/search/film/007436841?i=400); ГАРТ, ф. 4, оп. 3 доп., д. 25: [#2142695[482—484]](https://www.familysearch.org/search/film/007437389?i=481)
-- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#2064502[304—357]](https://www.familysearch.org/search/film/007436845?i=303); ГАРТ, ф. 4, оп. 3 доп., д. 25: [#2142695[484—484]](https://www.familysearch.org/search/film/007437389?i=483)
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 99: [#2061057[877—928]](https://www.familysearch.org/search/film/007436571?i=876)
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 105: [#2061062[129—178]](https://www.familysearch.org/search/film/007437029?i=128)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#2061067[726—782]](https://www.familysearch.org/search/film/007436592?i=725)
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#2061072[176—232]](https://www.familysearch.org/search/film/007436596?i=175)
-- 1893 — ГАРТ, ф. 4, оп. 166, д. 129: [#2083279[82—130]](https://www.familysearch.org/search/film/007436889?i=81)
-- 1897 — ГАРТ, ф. 4, оп. 3 доп., д. 25: [#2142695[422—480]](https://www.familysearch.org/search/film/007437389?i=421)
-- 1898 — ГАРТ, ф. 4, оп. 3 доп., д. 25: [#2142695[370—422]](https://www.familysearch.org/search/film/007437389?i=369)
-- 1899 — ГАРТ, ф. 4, оп. 3 доп., д. 25: [#2142695[327—370]](https://www.familysearch.org/search/film/007437389?i=326)
-- 1900 — ГАРТ, ф. 4, оп. 3 доп., д. 25: [#2142695[280—326]](https://www.familysearch.org/search/film/007437389?i=279)
-- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#2086641[518—578]](https://www.familysearch.org/search/film/007437059?i=517)
-- 1912 — ГАРТ, ф. 4, оп. 176, д. 1620: [#2256877[672—716]](https://www.familysearch.org/search/film/007438524?i=671)
+- 1886 — ГАРТ, ф. 4, оп. 166, д. 83: [#007436839[443—482]](https://www.familysearch.org/search/film/007436839?i=442)
+- 1887 — ГАРТ, ф. 4, оп. 166, д. 86: [#007436841[401—449]](https://www.familysearch.org/search/film/007436841?i=400); ГАРТ, ф. 4, оп. 3 доп., д. 25: [#007437389[482—484]](https://www.familysearch.org/search/film/007437389?i=481)
+- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#007436845[304—357]](https://www.familysearch.org/search/film/007436845?i=303); ГАРТ, ф. 4, оп. 3 доп., д. 25: [#007437389[484—484]](https://www.familysearch.org/search/film/007437389?i=483)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 99: [#007436571[877—928]](https://www.familysearch.org/search/film/007436571?i=876)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 105: [#007437029[129—178]](https://www.familysearch.org/search/film/007437029?i=128)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#007436592[726—782]](https://www.familysearch.org/search/film/007436592?i=725)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#007436596[176—232]](https://www.familysearch.org/search/film/007436596?i=175)
+- 1893 — ГАРТ, ф. 4, оп. 166, д. 129: [#007436889[82—130]](https://www.familysearch.org/search/film/007436889?i=81)
+- 1897 — ГАРТ, ф. 4, оп. 3 доп., д. 25: [#007437389[422—480]](https://www.familysearch.org/search/film/007437389?i=421)
+- 1898 — ГАРТ, ф. 4, оп. 3 доп., д. 25: [#007437389[370—422]](https://www.familysearch.org/search/film/007437389?i=369)
+- 1899 — ГАРТ, ф. 4, оп. 3 доп., д. 25: [#007437389[327—370]](https://www.familysearch.org/search/film/007437389?i=326)
+- 1900 — ГАРТ, ф. 4, оп. 3 доп., д. 25: [#007437389[280—326]](https://www.familysearch.org/search/film/007437389?i=279)
+- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#007437059[518—578]](https://www.familysearch.org/search/film/007437059?i=517)
+- 1912 — ГАРТ, ф. 4, оп. 176, д. 1620: [#007438524[672—716]](https://www.familysearch.org/search/film/007438524?i=671)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1789, лл. 82—118: [#007438548[601—639]](https://www.familysearch.org/search/film/007438548?i=600)
 
 #### Кара-Елга
 
@@ -960,10 +964,10 @@
 
 ##### Вознесенская церковь
 
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#2061072[387—445]](https://www.familysearch.org/search/film/007436596?i=386)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#2083283[428—457]](https://www.familysearch.org/search/film/007436893?i=427); ГАРТ, ф. 4, оп. 166, д. 130: [#2083279[372—389]](https://www.familysearch.org/search/film/007436889?i=371)
-- 1895 — ГАРТ, ф. 4, оп. 166, д. 138: [#2083283[554—619]](https://www.familysearch.org/search/film/007436893?i=553)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1407: [#2212366[166—222]](https://www.familysearch.org/search/film/007438143?i=165)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#007436596[387—445]](https://www.familysearch.org/search/film/007436596?i=386)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#007436893[428—457]](https://www.familysearch.org/search/film/007436893?i=427); ГАРТ, ф. 4, оп. 166, д. 130: [#007436889[372—389]](https://www.familysearch.org/search/film/007436889?i=371)
+- 1895 — ГАРТ, ф. 4, оп. 166, д. 138: [#007436893[554—619]](https://www.familysearch.org/search/film/007436893?i=553)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1407: [#007438143[166—222]](https://www.familysearch.org/search/film/007438143?i=165)
 
 #### Караилга
 
@@ -977,70 +981,70 @@
 
 ##### Богоявленская церковь
 
-- 1863 — ГАРТ, ф. 4, оп. 153, д. 275: [#2038501[719—811]](https://www.familysearch.org/search/film/007436480?i=718)
-- 1864 — ГАРТ, ф. 4, оп. 153, д. 282: [#2040368[843—914]](https://www.familysearch.org/search/film/007436371?i=842)
-- 1865 — ГАРТ, ф. 4, оп. 153, д. 285: [#2040371[6—77]](https://www.familysearch.org/search/film/007436374?i=5)
-- 1866 — ГАРТ, ф. 4, оп. 153, д. 289: [#2040373[475—538]](https://www.familysearch.org/search/film/007436376?i=474)
-- 1867 — ГАРТ, ф. 4, оп. 153, д. 295: [#2040378[176—254]](https://www.familysearch.org/search/film/007436381?i=175)
-- 1868 — ГАРТ, ф. 4, оп. 153, д. 300: [#2040382[519—597]](https://www.familysearch.org/search/film/007436401?i=518)
-- 1869 — ГАРТ, ф. 4, оп. 153, д. 306: [#2040386[847—910]](https://www.familysearch.org/search/film/007436397?i=846), [#2040387[5—40]](https://www.familysearch.org/search/film/007436396?i=4)
-- 1870 — ГАРТ, ф. 4, оп. 153, д. 319: [#2040390[762—855]](https://www.familysearch.org/search/film/007436393?i=761)
-- 1871 — ГАРТ, ф. 4, оп. 153, д. 334: [#2040393[571—653]](https://www.familysearch.org/search/film/007436390?i=570)
-- 1872 — ГАРТ, ф. 4, оп. 153, д. 336: [#2040395[6—80]](https://www.familysearch.org/search/film/007436388?i=5)
-- 1873 — ГАРТ, ф. 4, оп. 166, д. 4: [#2061801[494—577]](https://www.familysearch.org/search/film/007436686?i=493)
-- 1874 — ГАРТ, ф. 4, оп. 166, д. 9: [#2061804[333—406]](https://www.familysearch.org/search/film/007436687?i=332)
-- 1875 — ГАРТ, ф. 4, оп. 166, д. 16: [#2061809[706—771]](https://www.familysearch.org/search/film/007436670?i=705)
-- 1876 — ГАРТ, ф. 4, оп. 166, д. 20: [#2063280[336—410]](https://www.familysearch.org/search/film/007436766?i=335)
-- 1877 — ГАРТ, ф. 4, оп. 166, д. 25: [#2063284[609—685]](https://www.familysearch.org/search/film/007436770?i=608)
-- 1878 — ГАРТ, ф. 4, оп. 166, д. 27: [#2063285[723—800]](https://www.familysearch.org/search/film/007436771?i=722)
-- 1879 — ГАРТ, ф. 4, оп. 166, д. 36: [#2063291[183—257]](https://www.familysearch.org/search/film/007436777?i=182)
-- 1880 — ГАРТ, ф. 4, оп. 166, д. 41: [#2063295[183—259]](https://www.familysearch.org/search/film/007436781?i=182)
-- 1881 — ГАРТ, ф. 4, оп. 166, д. 47: [#2063299[294—361]](https://www.familysearch.org/search/film/007436785?i=293)
-- 1882 — ГАРТ, ф. 4, оп. 166, д. 53: [#2064540[455—537]](https://www.familysearch.org/search/film/007436846?i=454)
-- 1883 — ГАРТ, ф. 4, оп. 166, д. 59: [#2064544[98—178]](https://www.familysearch.org/search/film/007436850?i=97)
-- 1884 — ГАРТ, ф. 4, оп. 166, д. 66: [#2064548[163—233]](https://www.familysearch.org/search/film/007436854?i=162)
-- 1885 — ГАРТ, ф. 4, оп. 166, д. 71: [#2064551[413—486]](https://www.familysearch.org/search/film/007436857?i=412)
-- 1886 — ГАРТ, ф. 4, оп. 166, д. 81: [#2086630[702—770]](https://www.familysearch.org/search/film/007437048?i=701)
-- 1887 — ГАРТ, ф. 4, оп. 166, д. 89: [#2064500[543—621]](https://www.familysearch.org/search/film/007436843?i=542)
-- 1888 — ГАРТ, ф. 4, оп. 166, д. 94: [#2061054[387—460]](https://www.familysearch.org/search/film/007436572?i=386)
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 97: [#2061056[439—480]](https://www.familysearch.org/search/film/007437028?i=438)
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 109: [#2061064[406—458]](https://www.familysearch.org/search/film/007437030?i=405)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 111: [#2061065[755—798]](https://www.familysearch.org/search/film/007436590?i=754)
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 119: [#2061071[560—602]](https://www.familysearch.org/search/film/007436595?i=559)
-- 1893 — ГАРТ, ф. 4, оп. 166, д. 126: [#2061076[328—367]](https://www.familysearch.org/search/film/007436606?i=327)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 135: [#2083282[193—228]](https://www.familysearch.org/search/film/007436892?i=192)
-- 1895 — ГАРТ, ф. 4, оп. 166, д. 143: [#2083286[153—187]](https://www.familysearch.org/search/film/007436896?i=152)
-- 1896 — ГАРТ, ф. 4, оп. 166, д. 153: [#2083291[341—375]](https://www.familysearch.org/search/film/007436901?i=340)
-- 1897 — ГАРТ, ф. 4, оп. 166, д. 158: [#2085920[204—239]](https://www.familysearch.org/search/film/007436986?i=203)
-- 1898 — ГАРТ, ф. 4, оп. 166, д. 166: [#2085923[937—942]](https://www.familysearch.org/search/film/007436989?i=936), [#2085924[6—37]](https://www.familysearch.org/search/film/007436990?i=5)
-- 1899 — ГАРТ, ф. 4, оп. 166, д. 172: [#2085927[139—166]](https://www.familysearch.org/search/film/007436993?i=138)
-- 1900 — ГАРТ, ф. 4, оп. 166, д. 183: [#2085716[906—955]](https://www.familysearch.org/search/film/007436955?i=905)
-- 1901 — ГАРТ, ф. 4, оп. 166, д. 189: [#2085719[599—637]](https://www.familysearch.org/search/film/007436958?i=598)
-- 1902 — ГАРТ, ф. 4, оп. 166, д. 196: [#2085931[241—276]](https://www.familysearch.org/search/film/007436997?i=240)
+- 1863 — ГАРТ, ф. 4, оп. 153, д. 275: [#007436480[719—811]](https://www.familysearch.org/search/film/007436480?i=718)
+- 1864 — ГАРТ, ф. 4, оп. 153, д. 282: [#007436371[843—914]](https://www.familysearch.org/search/film/007436371?i=842)
+- 1865 — ГАРТ, ф. 4, оп. 153, д. 285: [#007436374[6—77]](https://www.familysearch.org/search/film/007436374?i=5)
+- 1866 — ГАРТ, ф. 4, оп. 153, д. 289: [#007436376[475—538]](https://www.familysearch.org/search/film/007436376?i=474)
+- 1867 — ГАРТ, ф. 4, оп. 153, д. 295: [#007436381[176—254]](https://www.familysearch.org/search/film/007436381?i=175)
+- 1868 — ГАРТ, ф. 4, оп. 153, д. 300: [#007436401[519—597]](https://www.familysearch.org/search/film/007436401?i=518)
+- 1869 — ГАРТ, ф. 4, оп. 153, д. 306: [#007436397[847—910]](https://www.familysearch.org/search/film/007436397?i=846), [#007436396[5—40]](https://www.familysearch.org/search/film/007436396?i=4)
+- 1870 — ГАРТ, ф. 4, оп. 153, д. 319: [#007436393[762—855]](https://www.familysearch.org/search/film/007436393?i=761)
+- 1871 — ГАРТ, ф. 4, оп. 153, д. 334: [#007436390[571—653]](https://www.familysearch.org/search/film/007436390?i=570)
+- 1872 — ГАРТ, ф. 4, оп. 153, д. 336: [#007436388[6—80]](https://www.familysearch.org/search/film/007436388?i=5)
+- 1873 — ГАРТ, ф. 4, оп. 166, д. 4: [#007436686[494—577]](https://www.familysearch.org/search/film/007436686?i=493)
+- 1874 — ГАРТ, ф. 4, оп. 166, д. 9: [#007436687[333—406]](https://www.familysearch.org/search/film/007436687?i=332)
+- 1875 — ГАРТ, ф. 4, оп. 166, д. 16: [#007436670[706—771]](https://www.familysearch.org/search/film/007436670?i=705)
+- 1876 — ГАРТ, ф. 4, оп. 166, д. 20: [#007436766[336—410]](https://www.familysearch.org/search/film/007436766?i=335)
+- 1877 — ГАРТ, ф. 4, оп. 166, д. 25: [#007436770[609—685]](https://www.familysearch.org/search/film/007436770?i=608)
+- 1878 — ГАРТ, ф. 4, оп. 166, д. 27: [#007436771[723—800]](https://www.familysearch.org/search/film/007436771?i=722)
+- 1879 — ГАРТ, ф. 4, оп. 166, д. 36: [#007436777[183—257]](https://www.familysearch.org/search/film/007436777?i=182)
+- 1880 — ГАРТ, ф. 4, оп. 166, д. 41: [#007436781[183—259]](https://www.familysearch.org/search/film/007436781?i=182)
+- 1881 — ГАРТ, ф. 4, оп. 166, д. 47: [#007436785[294—361]](https://www.familysearch.org/search/film/007436785?i=293)
+- 1882 — ГАРТ, ф. 4, оп. 166, д. 53: [#007436846[455—537]](https://www.familysearch.org/search/film/007436846?i=454)
+- 1883 — ГАРТ, ф. 4, оп. 166, д. 59: [#007436850[98—178]](https://www.familysearch.org/search/film/007436850?i=97)
+- 1884 — ГАРТ, ф. 4, оп. 166, д. 66: [#007436854[163—233]](https://www.familysearch.org/search/film/007436854?i=162)
+- 1885 — ГАРТ, ф. 4, оп. 166, д. 71: [#007436857[413—486]](https://www.familysearch.org/search/film/007436857?i=412)
+- 1886 — ГАРТ, ф. 4, оп. 166, д. 81: [#007437048[702—770]](https://www.familysearch.org/search/film/007437048?i=701)
+- 1887 — ГАРТ, ф. 4, оп. 166, д. 89: [#007436843[543—621]](https://www.familysearch.org/search/film/007436843?i=542)
+- 1888 — ГАРТ, ф. 4, оп. 166, д. 94: [#007436572[387—460]](https://www.familysearch.org/search/film/007436572?i=386)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 97: [#007437028[439—480]](https://www.familysearch.org/search/film/007437028?i=438)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 109: [#007437030[406—458]](https://www.familysearch.org/search/film/007437030?i=405)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 111: [#007436590[755—798]](https://www.familysearch.org/search/film/007436590?i=754)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 119: [#007436595[560—602]](https://www.familysearch.org/search/film/007436595?i=559)
+- 1893 — ГАРТ, ф. 4, оп. 166, д. 126: [#007436606[328—367]](https://www.familysearch.org/search/film/007436606?i=327)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 135: [#007436892[193—228]](https://www.familysearch.org/search/film/007436892?i=192)
+- 1895 — ГАРТ, ф. 4, оп. 166, д. 143: [#007436896[153—187]](https://www.familysearch.org/search/film/007436896?i=152)
+- 1896 — ГАРТ, ф. 4, оп. 166, д. 153: [#007436901[341—375]](https://www.familysearch.org/search/film/007436901?i=340)
+- 1897 — ГАРТ, ф. 4, оп. 166, д. 158: [#007436986[204—239]](https://www.familysearch.org/search/film/007436986?i=203)
+- 1898 — ГАРТ, ф. 4, оп. 166, д. 166: [#007436989[937—942]](https://www.familysearch.org/search/film/007436989?i=936), [#007436990[6—37]](https://www.familysearch.org/search/film/007436990?i=5)
+- 1899 — ГАРТ, ф. 4, оп. 166, д. 172: [#007436993[139—166]](https://www.familysearch.org/search/film/007436993?i=138)
+- 1900 — ГАРТ, ф. 4, оп. 166, д. 183: [#007436955[906—955]](https://www.familysearch.org/search/film/007436955?i=905)
+- 1901 — ГАРТ, ф. 4, оп. 166, д. 189: [#007436958[599—637]](https://www.familysearch.org/search/film/007436958?i=598)
+- 1902 — ГАРТ, ф. 4, оп. 166, д. 196: [#007436997[241—276]](https://www.familysearch.org/search/film/007436997?i=240)
 - 1903 — ГАРТ, ф. 4, оп. 166, д. 206: [#007437002[770—811]](https://www.familysearch.org/search/film/007437002?i=769)
-- 1904 — ГАРТ, ф. 4, оп. 166, д. 215: [#2085382[259—298]](https://www.familysearch.org/search/film/007436935?i=258)
-- 1905 — ГАРТ, ф. 4, оп. 166, д. 223: [#2085386[809—841]](https://www.familysearch.org/search/film/007436939?i=808)
-- 1906 — ГАРТ, ф. 4, оп. 166, д. 233: [#2086641[265—306]](https://www.familysearch.org/search/film/007437059?i=264)
-- 1907 — ГАРТ, ф. 4, оп. 166, д. 235: [#2086642[759—793]](https://www.familysearch.org/search/film/007437060?i=758)
-- 1908 — ГАРТ, ф. 4, оп. 176, д. 1400: [#2212361[595—629]](https://www.familysearch.org/search/film/007438138?i=594)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1406: [#2212365[520—559]](https://www.familysearch.org/search/film/007438142?i=519)
-- 1910 — ГАРТ, ф. 4, оп. 176, д. 1545: [#2236765[668—706]](https://www.familysearch.org/search/film/007438488?i=667)
-- 1911 — ГАРТ, ф. 4, оп. 176, д. 1556: [#2233341[418—462]](https://www.familysearch.org/search/film/007438458?i=417)
+- 1904 — ГАРТ, ф. 4, оп. 166, д. 215: [#007436935[259—298]](https://www.familysearch.org/search/film/007436935?i=258)
+- 1905 — ГАРТ, ф. 4, оп. 166, д. 223: [#007436939[809—841]](https://www.familysearch.org/search/film/007436939?i=808)
+- 1906 — ГАРТ, ф. 4, оп. 166, д. 233: [#007437059[265—306]](https://www.familysearch.org/search/film/007437059?i=264)
+- 1907 — ГАРТ, ф. 4, оп. 166, д. 235: [#007437060[759—793]](https://www.familysearch.org/search/film/007437060?i=758)
+- 1908 — ГАРТ, ф. 4, оп. 176, д. 1400: [#007438138[595—629]](https://www.familysearch.org/search/film/007438138?i=594)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1406: [#007438142[520—559]](https://www.familysearch.org/search/film/007438142?i=519)
+- 1910 — ГАРТ, ф. 4, оп. 176, д. 1545: [#007438488[668—706]](https://www.familysearch.org/search/film/007438488?i=667)
+- 1911 — ГАРТ, ф. 4, оп. 176, д. 1556: [#007438458[418—462]](https://www.familysearch.org/search/film/007438458?i=417)
 - 1912 — 
-- 1913 — ГАРТ, ф. 4, оп. 176, д. 1627: [#2272150[613—655]](https://www.familysearch.org/search/film/007439148?i=612)
-- 1914 — ГАРТ, ф. 4, оп. 176, д. 1725: [#2270787[295—330]](https://www.familysearch.org/search/film/007438616?i=294)
-- 1915 — ГАРТ, ф. 4, оп. 176, д. 1789: [#2268095[657—685]](https://www.familysearch.org/search/film/007438548?i=656)
-- 1916 — ГАРТ, ф. 4, оп. 176, д. 1791: [#2268097[409—434]](https://www.familysearch.org/search/film/007438550?i=408)
-- 1917 — ГАРТ, ф. Р-1172, оп. 4, д. 216: [#2386240[910—920]](https://www.familysearch.org/search/film/007440500?i=909), [[945—949]](https://www.familysearch.org/search/film/007440500?i=944), [[952—959]](https://www.familysearch.org/search/film/007440500?i=951)
-- 1918 — ГАРТ, ф. Р-1172, оп. 4, д. 216: [#2386240[920—935]](https://www.familysearch.org/search/film/007440500?i=919), [[960—969]](https://www.familysearch.org/search/film/007440500?i=959)
-- 1919 — ГАРТ, ф. Р-1172, оп. 4, д. 216: [#2386240[936—944]](https://www.familysearch.org/search/film/007440500?i=935), [[950—951]](https://www.familysearch.org/search/film/007440500?i=949), [[970—973]](https://www.familysearch.org/search/film/007440500?i=969), [#2386241[6—11]](https://www.familysearch.org/search/film/007440501?i=5)
-- 1920 — ГАРТ, ф. Р-1172, оп. 4, д. 216: [#2386240[944—946]](https://www.familysearch.org/search/film/007440500?i=943), [#2386241[11—11]](https://www.familysearch.org/search/film/007440501?i=10)
+- 1913 — ГАРТ, ф. 4, оп. 176, д. 1627: [#007439148[613—655]](https://www.familysearch.org/search/film/007439148?i=612)
+- 1914 — ГАРТ, ф. 4, оп. 176, д. 1725: [#007438616[295—330]](https://www.familysearch.org/search/film/007438616?i=294)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1789, лл. 194—228: [#007438548[657—685]](https://www.familysearch.org/search/film/007438548?i=656)
+- 1916 — ГАРТ, ф. 4, оп. 176, д. 1791: [#007438550[409—434]](https://www.familysearch.org/search/film/007438550?i=408)
+- 1917 — ГАРТ, ф. Р-1172, оп. 4, д. 216: [#007440500[910—920]](https://www.familysearch.org/search/film/007440500?i=909), [[945—949]](https://www.familysearch.org/search/film/007440500?i=944), [[952—959]](https://www.familysearch.org/search/film/007440500?i=951)
+- 1918 — ГАРТ, ф. Р-1172, оп. 4, д. 216: [#007440500[920—935]](https://www.familysearch.org/search/film/007440500?i=919), [[960—969]](https://www.familysearch.org/search/film/007440500?i=959)
+- 1919 — ГАРТ, ф. Р-1172, оп. 4, д. 216: [#007440500[936—944]](https://www.familysearch.org/search/film/007440500?i=935), [[950—951]](https://www.familysearch.org/search/film/007440500?i=949), [[970—973]](https://www.familysearch.org/search/film/007440500?i=969), [#007440501[6—11]](https://www.familysearch.org/search/film/007440501?i=5)
+- 1920 — ГАРТ, ф. Р-1172, оп. 4, д. 216: [#007440500[944—946]](https://www.familysearch.org/search/film/007440500?i=943), [#007440501[11—11]](https://www.familysearch.org/search/film/007440501?i=10)
 
 #### Кузайкино
 
 ##### Михаило-Архангельская церковь
 
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#2083283[170—212]](https://www.familysearch.org/search/film/007436893?i=169)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#007436893[170—212]](https://www.familysearch.org/search/film/007436893?i=169)
 
 #### Лебяжье
 
@@ -1050,18 +1054,18 @@
 
 ##### Петро-Павловская церковь
 
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 105: [#2061062[7—74]](https://www.familysearch.org/search/film/007437029?i=6)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#2061067[605—674]](https://www.familysearch.org/search/film/007436592?i=604)
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#2061072[64—122]](https://www.familysearch.org/search/film/007436596?i=63)
-- 1893 — ГАРТ, ф. 4, оп. 166, д. 129: [#2083279[6—35]](https://www.familysearch.org/search/film/007436889?i=5)
-- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#2086641[470—519]](https://www.familysearch.org/search/film/007437059?i=469)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#2212366[459—513]](https://www.familysearch.org/search/film/007438143?i=458)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 105: [#007437029[7—74]](https://www.familysearch.org/search/film/007437029?i=6)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#007436592[605—674]](https://www.familysearch.org/search/film/007436592?i=604)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#007436596[64—122]](https://www.familysearch.org/search/film/007436596?i=63)
+- 1893 — ГАРТ, ф. 4, оп. 166, д. 129: [#007436889[6—35]](https://www.familysearch.org/search/film/007436889?i=5)
+- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#007437059[470—519]](https://www.familysearch.org/search/film/007437059?i=469)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#007438143[459—513]](https://www.familysearch.org/search/film/007438143?i=458)
 
 #### Малыклы
 
 ##### Троицкая церковь
 
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#2083283[293—360]](https://www.familysearch.org/search/film/007436893?i=292)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#007436893[293—360]](https://www.familysearch.org/search/film/007436893?i=292)
 
 #### Матвеевка
 
@@ -1071,7 +1075,8 @@
 
 ##### Богородицкая церковь
 
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 98: [#2061057[377—413]](https://www.familysearch.org/search/film/007436571?i=376)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 98: [#007436571[377—413]](https://www.familysearch.org/search/film/007436571?i=376)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1789, лл. 119—128об: [#007438548[742—753]](https://www.familysearch.org/search/film/007438548?i=741); ГАРТ, ф. 4, оп. 176, д. 1789, лл. 129—144: [#007438548[691—707]](https://www.familysearch.org/search/film/007438548?i=690)
 
 #### Мелекес
 
@@ -1079,35 +1084,35 @@
 
 ##### Вознесенская церковь
 
-- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#2064502[398—418]](https://www.familysearch.org/search/film/007436845?i=397)
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 99: [#2061057[966—1007]](https://www.familysearch.org/search/film/007436571?i=965), [#007436570[6—35]](https://www.familysearch.org/search/film/007436570?i=5)
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 109: [#2061064[331—405]](https://www.familysearch.org/search/film/007437030?i=330)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 111: [#2061065[670—754]](https://www.familysearch.org/search/film/007436590?i=669)
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 119: [#2061071[472—559]](https://www.familysearch.org/search/film/007436595?i=471)
-- 1893 — ГАРТ, ф. 4, оп. 166, д. 126: [#2061076[248—327]](https://www.familysearch.org/search/film/007436606?i=247)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 135: [#2083282[114—192]](https://www.familysearch.org/search/film/007436892?i=113)
-- 1895 — ГАРТ, ф. 4, оп. 166, д. 143: [#2083286[85—152]](https://www.familysearch.org/search/film/007436896?i=84)
-- 1896 — ГАРТ, ф. 4, оп. 166, д. 153: [#2083291[248—340]](https://www.familysearch.org/search/film/007436901?i=247)
-- 1897 — ГАРТ, ф. 4, оп. 166, д. 158: [#2085920[128—203]](https://www.familysearch.org/search/film/007436986?i=127)
+- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#007436845[398—418]](https://www.familysearch.org/search/film/007436845?i=397)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 99: [#007436571[966—1007]](https://www.familysearch.org/search/film/007436571?i=965), [#007436570[6—35]](https://www.familysearch.org/search/film/007436570?i=5)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 109: [#007437030[331—405]](https://www.familysearch.org/search/film/007437030?i=330)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 111: [#007436590[670—754]](https://www.familysearch.org/search/film/007436590?i=669)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 119: [#007436595[472—559]](https://www.familysearch.org/search/film/007436595?i=471)
+- 1893 — ГАРТ, ф. 4, оп. 166, д. 126: [#007436606[248—327]](https://www.familysearch.org/search/film/007436606?i=247)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 135: [#007436892[114—192]](https://www.familysearch.org/search/film/007436892?i=113)
+- 1895 — ГАРТ, ф. 4, оп. 166, д. 143: [#007436896[85—152]](https://www.familysearch.org/search/film/007436896?i=84)
+- 1896 — ГАРТ, ф. 4, оп. 166, д. 153: [#007436901[248—340]](https://www.familysearch.org/search/film/007436901?i=247)
+- 1897 — ГАРТ, ф. 4, оп. 166, д. 158: [#007436986[128—203]](https://www.familysearch.org/search/film/007436986?i=127)
 - 1898 — ГАРТ, ф. 4, оп. 3 доп., д. 51: [#007437390[351—432]](https://www.familysearch.org/search/film/007437390?i=350)
-- 1899 — ГАРТ, ф. 4, оп. 3 доп., д. 51: [#007437390[434—499]](https://www.familysearch.org/search/film/007437390?i=433); ГАРТ, ф. 4, оп. 166, д. 172: [#2085927[74—138]](https://www.familysearch.org/search/film/007436993?i=73)
+- 1899 — ГАРТ, ф. 4, оп. 3 доп., д. 51: [#007437390[434—499]](https://www.familysearch.org/search/film/007437390?i=433); ГАРТ, ф. 4, оп. 166, д. 172: [#007436993[74—138]](https://www.familysearch.org/search/film/007436993?i=73)
 - 1900 — ГАРТ, ф. 4, оп. 3 доп., д. 51: [#007437390[500—576]](https://www.familysearch.org/search/film/007437390?i=499); ГАРТ, ф. 4, оп. 166, д. 186: [#007436957[478—549]](https://www.familysearch.org/search/film/007436957?i=477)
-- 1901 — ГАРТ, ф. 4, оп. 166, д. 189: [#2085719[533—598]](https://www.familysearch.org/search/film/007436958?i=532)
-- 1902 — ГАРТ, ф. 4, оп. 166, д. 196: [#2085931[181—240]](https://www.familysearch.org/search/film/007436997?i=180)
+- 1901 — ГАРТ, ф. 4, оп. 166, д. 189: [#007436958[533—598]](https://www.familysearch.org/search/film/007436958?i=532)
+- 1902 — ГАРТ, ф. 4, оп. 166, д. 196: [#007436997[181—240]](https://www.familysearch.org/search/film/007436997?i=180)
 - 1903 — ГАРТ, ф. 4, оп. 166, д. 206: [#007437002[693—769]](https://www.familysearch.org/search/film/007437002?i=692)
-- 1904 — ГАРТ, ф. 4, оп. 166, д. 216: [#2085382[534—597]](https://www.familysearch.org/search/film/007436935?i=533)
+- 1904 — ГАРТ, ф. 4, оп. 166, д. 216: [#007436935[534—597]](https://www.familysearch.org/search/film/007436935?i=533)
 - 1905 — ГАРТ, ф. 4, оп. 166, д. 223: [#007436940[89—159]](https://www.familysearch.org/search/film/007436940?i=88)
-- 1906 — ГАРТ, ф. 4, оп. 166, д. 233: [#2086640[330—394]](https://www.familysearch.org/search/film/007437058?i=329)
+- 1906 — ГАРТ, ф. 4, оп. 166, д. 233: [#007437058[330—394]](https://www.familysearch.org/search/film/007437058?i=329)
 - 1907 — ГАРТ, ф. 4, оп. 166, д. 235: [#007437061[49—120]](https://www.familysearch.org/search/film/007437061?i=48)
-- 1908 — ГАРТ, ф. 4, оп. 176, д. 1400: [#2212361[854—905]](https://www.familysearch.org/search/film/007438138?i=853), [#007438139[6—35]](https://www.familysearch.org/search/film/007438139?i=5)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1410: [#2212367[874—910]](https://www.familysearch.org/search/film/007438107?i=873), [#007438108[6—48]](https://www.familysearch.org/search/film/007438108?i=5)
-- 1910 — ГАРТ, ф. 4, оп. 176, д. 1548: [#2236767[358—445]](https://www.familysearch.org/search/film/007438486?i=357)
-- 1911 — ГАРТ, ф. 4, оп. 176, д. 1556: [#2233340[830—884]](https://www.familysearch.org/search/film/007438457?i=829), [#2233341[6—28]](https://www.familysearch.org/search/film/007438458?i=5)
-- 1912 — ГАРТ, ф. 4, оп. 176, д. 1620: [#2256877[770—848]](https://www.familysearch.org/search/film/007438524?i=769)
-- 1913 — ГАРТ, ф. 4, оп. 176, д. 1628: [#2272151[405—502]](https://www.familysearch.org/search/film/007439143?i=404)
-- 1914 — ГАРТ, ф. 4, оп. 176, д. 1729: [#2270789[129—204]](https://www.familysearch.org/search/film/007438618?i=128)
-- 1915 — ГАРТ, ф. 4, оп. 176, д. 1786: [#2268094[185—254]](https://www.familysearch.org/search/film/007438547?i=184)
-- 1916 — ГАРТ, ф. Р-1172, оп. 4, д. 186: [#2381789[338—401]](https://www.familysearch.org/search/film/007440484?i=337)
+- 1908 — ГАРТ, ф. 4, оп. 176, д. 1400: [#007438138[854—905]](https://www.familysearch.org/search/film/007438138?i=853), [#007438139[6—35]](https://www.familysearch.org/search/film/007438139?i=5)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1410: [#007438107[874—910]](https://www.familysearch.org/search/film/007438107?i=873), [#007438108[6—48]](https://www.familysearch.org/search/film/007438108?i=5)
+- 1910 — ГАРТ, ф. 4, оп. 176, д. 1548: [#007438486[358—445]](https://www.familysearch.org/search/film/007438486?i=357)
+- 1911 — ГАРТ, ф. 4, оп. 176, д. 1556: [#007438457[830—884]](https://www.familysearch.org/search/film/007438457?i=829), [#007438458[6—28]](https://www.familysearch.org/search/film/007438458?i=5)
+- 1912 — ГАРТ, ф. 4, оп. 176, д. 1620: [#007438524[770—848]](https://www.familysearch.org/search/film/007438524?i=769)
+- 1913 — ГАРТ, ф. 4, оп. 176, д. 1628: [#007439143[405—502]](https://www.familysearch.org/search/film/007439143?i=404)
+- 1914 — ГАРТ, ф. 4, оп. 176, д. 1729: [#007438618[129—204]](https://www.familysearch.org/search/film/007438618?i=128)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1786: [#007438547[185—254]](https://www.familysearch.org/search/film/007438547?i=184)
+- 1916 — ГАРТ, ф. Р-1172, оп. 4, д. 186: [#007440484[338—401]](https://www.familysearch.org/search/film/007440484?i=337)
 - 1917 — ГАРТ, ф. Р-1172, оп. 4, д. 224: [#007440502[58—84]](https://www.familysearch.org/search/film/007440502?i=57), [[120—132]](https://www.familysearch.org/search/film/007440502?i=119), [[151—169]](https://www.familysearch.org/search/film/007440502?i=150)
 - 1918 — ГАРТ, ф. Р-1172, оп. 4, д. 224: [#007440502[85—119]](https://www.familysearch.org/search/film/007440502?i=84), [[133—151]](https://www.familysearch.org/search/film/007440502?i=132), [[170—188]](https://www.familysearch.org/search/film/007440502?i=169)
 - 1919 — ГАРТ, ф. Р-1172, оп. 4, д. 243: [#007440505[558—614]](https://www.familysearch.org/search/film/007440505?i=557)
@@ -1120,29 +1125,29 @@
 
 ##### Николаевский собор
 
-- 1905 — ГАРТ, ф. 4, оп. 176, д. 1620: [#2256877[479—611]](https://www.familysearch.org/search/film/007438524?i=478)
-- 1912 — ГАРТ, ф. 4, оп. 176, д. 1620: [#2256877[346—479]](https://www.familysearch.org/search/film/007438524?i=345)
+- 1905 — ГАРТ, ф. 4, оп. 176, д. 1620: [#007438524[479—611]](https://www.familysearch.org/search/film/007438524?i=478)
+- 1912 — ГАРТ, ф. 4, оп. 176, д. 1620: [#007438524[346—479]](https://www.familysearch.org/search/film/007438524?i=345)
 
 ##### Пророко-Ильинский женский монастырь
 
-- 1895 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#2142695[879—889]](https://www.familysearch.org/search/film/007437389?i=878)
-- 1896 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#2142695[865—879]](https://www.familysearch.org/search/film/007437389?i=864)
+- 1895 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#007437389[879—889]](https://www.familysearch.org/search/film/007437389?i=878)
+- 1896 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#007437389[865—879]](https://www.familysearch.org/search/film/007437389?i=864)
 - 1897 — 
-- 1898 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#2142695[753—771]](https://www.familysearch.org/search/film/007437389?i=752)
-- 1899 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#2142695[771—785]](https://www.familysearch.org/search/film/007437389?i=770)
-- 1900 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#2142695[785—793]](https://www.familysearch.org/search/film/007437389?i=784)
-- 1901 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#2142695[793—809]](https://www.familysearch.org/search/film/007437389?i=792)
-- 1902 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#2142695[809—815]](https://www.familysearch.org/search/film/007437389?i=808)
-- 1903 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#2142695[815—825]](https://www.familysearch.org/search/film/007437389?i=814)
-- 1904 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#2142695[825—831]](https://www.familysearch.org/search/film/007437389?i=824)
-- 1905 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#2142695[831—839]](https://www.familysearch.org/search/film/007437389?i=830); ГАРТ, ф. 4, оп. 176, д. 1620: [#2256877[665—670]](https://www.familysearch.org/search/film/007438524?i=664)
-- 1906 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#2142695[839—850]](https://www.familysearch.org/search/film/007437389?i=838)
-- 1907 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#2142695[850—856]](https://www.familysearch.org/search/film/007437389?i=849)
-- 1908 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#2142695[856—865]](https://www.familysearch.org/search/film/007437389?i=855)
+- 1898 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#007437389[753—771]](https://www.familysearch.org/search/film/007437389?i=752)
+- 1899 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#007437389[771—785]](https://www.familysearch.org/search/film/007437389?i=770)
+- 1900 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#007437389[785—793]](https://www.familysearch.org/search/film/007437389?i=784)
+- 1901 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#007437389[793—809]](https://www.familysearch.org/search/film/007437389?i=792)
+- 1902 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#007437389[809—815]](https://www.familysearch.org/search/film/007437389?i=808)
+- 1903 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#007437389[815—825]](https://www.familysearch.org/search/film/007437389?i=814)
+- 1904 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#007437389[825—831]](https://www.familysearch.org/search/film/007437389?i=824)
+- 1905 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#007437389[831—839]](https://www.familysearch.org/search/film/007437389?i=830); ГАРТ, ф. 4, оп. 176, д. 1620: [#007438524[665—670]](https://www.familysearch.org/search/film/007438524?i=664)
+- 1906 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#007437389[839—850]](https://www.familysearch.org/search/film/007437389?i=838)
+- 1907 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#007437389[850—856]](https://www.familysearch.org/search/film/007437389?i=849)
+- 1908 — ГАРТ, ф. 4, оп. 3 доп., д. 47: [#007437389[856—865]](https://www.familysearch.org/search/film/007437389?i=855)
 
 ##### Троицкая церковь
 
-- 1905 — ГАРТ, ф. 4, оп. 176, д. 1620: [#2256877[612—664]](https://www.familysearch.org/search/film/007438524?i=611)
+- 1905 — ГАРТ, ф. 4, оп. 176, д. 1620: [#007438524[612—664]](https://www.familysearch.org/search/film/007438524?i=611)
 
 #### Можарово
 
@@ -1152,10 +1157,10 @@
 
 ##### Пророко-Ильинская церковь
 
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 105: [#2061062[232—280]](https://www.familysearch.org/search/film/007437029?i=231)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#2061067[827—881]](https://www.familysearch.org/search/film/007436592?i=826)
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#2061072[274—324]](https://www.familysearch.org/search/film/007436596?i=273)
-- 1893 — ГАРТ, ф. 4, оп. 166, д. 129: [#2083279[164—214]](https://www.familysearch.org/search/film/007436889?i=163)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 105: [#007437029[232—280]](https://www.familysearch.org/search/film/007437029?i=231)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#007436592[827—881]](https://www.familysearch.org/search/film/007436592?i=826)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#007436596[274—324]](https://www.familysearch.org/search/film/007436596?i=273)
+- 1893 — ГАРТ, ф. 4, оп. 166, д. 129: [#007436889[164—214]](https://www.familysearch.org/search/film/007436889?i=163)
 
 #### Набережные Челны
 
@@ -1165,66 +1170,67 @@
 
 ##### Покровская церковь
 
-- 1888 — ГАРТ, ф. 4, оп. 166, д. 92: [#2064502[774—841]](https://www.familysearch.org/search/film/007436845?i=773)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 114: [#2061067[941—1009]](https://www.familysearch.org/search/film/007436592?i=940)
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#2061072[547—626]](https://www.familysearch.org/search/film/007436596?i=546)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#2083283[478—550]](https://www.familysearch.org/search/film/007436893?i=477)
-- 1895 — ГАРТ, ф. 4, оп. 166, д. 138: [#2083283[709—770]](https://www.familysearch.org/search/film/007436893?i=708)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#2212366[581—628]](https://www.familysearch.org/search/film/007438143?i=580)
-- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#2256877[36—73]](https://www.familysearch.org/search/film/007438524?i=35)
+- 1888 — ГАРТ, ф. 4, оп. 166, д. 92: [#007436845[774—841]](https://www.familysearch.org/search/film/007436845?i=773)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 114: [#007436592[941—1009]](https://www.familysearch.org/search/film/007436592?i=940)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#007436596[547—626]](https://www.familysearch.org/search/film/007436596?i=546)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#007436893[478—550]](https://www.familysearch.org/search/film/007436893?i=477)
+- 1895 — ГАРТ, ф. 4, оп. 166, д. 138: [#007436893[709—770]](https://www.familysearch.org/search/film/007436893?i=708)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#007438143[581—628]](https://www.familysearch.org/search/film/007438143?i=580)
+- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#007438524[36—73]](https://www.familysearch.org/search/film/007438524?i=35)
 
 #### Николаевка
 
 ##### Богородицкая церковь
 
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 98: [#2061057[130—215]](https://www.familysearch.org/search/film/007436571?i=129)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 131: [#2083279[997—998]](https://www.familysearch.org/search/film/007436889?i=996)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 98: [#007436571[130—215]](https://www.familysearch.org/search/film/007436571?i=129)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 131: [#007436889[997—998]](https://www.familysearch.org/search/film/007436889?i=996)
 
 #### Ново-Михайловское
 
 ##### Иоанно-Предтеченская церковь
 
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 121: [#2061072[878—914]](https://www.familysearch.org/search/film/007436596?i=877)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#2083279[718—750]](https://www.familysearch.org/search/film/007436889?i=717), [[600—612]](https://www.familysearch.org/search/film/007436889?i=599), [[469—486]](https://www.familysearch.org/search/film/007436889?i=468)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 121: [#007436596[878—914]](https://www.familysearch.org/search/film/007436596?i=877)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#007436889[718—750]](https://www.familysearch.org/search/film/007436889?i=717), [[600—612]](https://www.familysearch.org/search/film/007436889?i=599), [[469—486]](https://www.familysearch.org/search/film/007436889?i=468)
 
 #### Новое Мазино
 
 ##### Покровская церковь
 
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 98: [#2061057[8—129]](https://www.familysearch.org/search/film/007436571?i=7)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 131: [#2083279[873—996]](https://www.familysearch.org/search/film/007436889?i=872)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 98: [#007436571[8—129]](https://www.familysearch.org/search/film/007436571?i=7)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 131: [#007436889[873—996]](https://www.familysearch.org/search/film/007436889?i=872)
 
 #### Новоникольское
 
 ##### Николаевская церковь
 
-- 1864 — ГАРТ, ф. 4, оп. 153, д. 279: [#2038504[909—917]](https://www.familysearch.org/search/film/007436483?i=908), [#2038505[6—71]](https://www.familysearch.org/search/film/007436484?i=5)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#2083279[487—556]](https://www.familysearch.org/search/film/007436889?i=486)
-- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#2086641[388—437]](https://www.familysearch.org/search/film/007437059?i=387)
+- 1864 — ГАРТ, ф. 4, оп. 153, д. 279: [#007436483[909—917]](https://www.familysearch.org/search/film/007436483?i=908), [#007436484[6—71]](https://www.familysearch.org/search/film/007436484?i=5)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#007436889[487—556]](https://www.familysearch.org/search/film/007436889?i=486)
+- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#007437059[388—437]](https://www.familysearch.org/search/film/007437059?i=387)
 
 #### Новоспасское
 
 ##### Спасская церковь
 
-- 1864 — ГАРТ, ф. 4, оп. 153, д. 279: [#2038504[809—910]](https://www.familysearch.org/search/film/007436483?i=808)
-- 1888 — ГАРТ, ф. 4, оп. 166, д. 92: [#2064502[618—773]](https://www.familysearch.org/search/film/007436845?i=617)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 114: [#2061067[1008—1015]](https://www.familysearch.org/search/film/007436592?i=1007)
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 121: [#2061072[691—783]](https://www.familysearch.org/search/film/007436596?i=690); ГАРТ, ф. 4, оп. 166, д. 120: [#2061072[627—686]](https://www.familysearch.org/search/film/007436596?i=626)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#2083279[220—312]](https://www.familysearch.org/search/film/007436889?i=219)
-- 1895 — ГАРТ, ф. 4, оп. 166, д. 138: [#2083283[771—877]](https://www.familysearch.org/search/film/007436893?i=770)
+- 1864 — ГАРТ, ф. 4, оп. 153, д. 279: [#007436483[809—910]](https://www.familysearch.org/search/film/007436483?i=808)
+- 1888 — ГАРТ, ф. 4, оп. 166, д. 92: [#007436845[618—773]](https://www.familysearch.org/search/film/007436845?i=617)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 114: [#007436592[1008—1015]](https://www.familysearch.org/search/film/007436592?i=1007)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 121: [#007436596[691—783]](https://www.familysearch.org/search/film/007436596?i=690); ГАРТ, ф. 4, оп. 166, д. 120: [#007436596[627—686]](https://www.familysearch.org/search/film/007436596?i=626)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#007436889[220—312]](https://www.familysearch.org/search/film/007436889?i=219)
+- 1895 — ГАРТ, ф. 4, оп. 166, д. 138: [#007436893[771—877]](https://www.familysearch.org/search/film/007436893?i=770)
 
 #### Новотроицкое
 
 ##### Свято-Троицкая церковь
 
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 107: [#2061062[907—992]](https://www.familysearch.org/search/film/007437029?i=906)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 107: [#007437029[907—992]](https://www.familysearch.org/search/film/007437029?i=906)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1789, лл. 451—451: [#007438548[974—974]](https://www.familysearch.org/search/film/007438548?i=973)
 
 #### Онбия
 
 ##### Николаевская церковь
 
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#2061072[325—386]](https://www.familysearch.org/search/film/007436596?i=324)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#2083283[361—427]](https://www.familysearch.org/search/film/007436893?i=360)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#007436596[325—386]](https://www.familysearch.org/search/film/007436596?i=324)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#007436893[361—427]](https://www.familysearch.org/search/film/007436893?i=360)
 
 #### Пальчиково
 
@@ -1232,13 +1238,13 @@
 
 ##### Николаевская церковь
 
-- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#2038504[211—277]](https://www.familysearch.org/search/film/007436483?i=210)
-- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#2064502[6—47]](https://www.familysearch.org/search/film/007436845?i=5)
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 99: [#2061057[588—653]](https://www.familysearch.org/search/film/007436571?i=587)
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#2061062[530—606]](https://www.familysearch.org/search/film/007437029?i=529)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#2061067[255—309]](https://www.familysearch.org/search/film/007436592?i=254)
-- 1907 — ГАРТ, ф. 4, оп. 166, д. 234: [#2086641[894—931]](https://www.familysearch.org/search/film/007437059?i=893)
-- 1916 — ГАРТ, ф. Р-1172, оп. 4, д. 188: [#2381790[537—563]](https://www.familysearch.org/search/film/007440485?i=536)
+- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#007436483[211—277]](https://www.familysearch.org/search/film/007436483?i=210)
+- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#007436845[6—47]](https://www.familysearch.org/search/film/007436845?i=5)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 99: [#007436571[588—653]](https://www.familysearch.org/search/film/007436571?i=587)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#007437029[530—606]](https://www.familysearch.org/search/film/007437029?i=529)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#007436592[255—309]](https://www.familysearch.org/search/film/007436592?i=254)
+- 1907 — ГАРТ, ф. 4, оп. 166, д. 234: [#007437059[894—931]](https://www.familysearch.org/search/film/007437059?i=893)
+- 1916 — ГАРТ, ф. Р-1172, оп. 4, д. 188: [#007440485[537—563]](https://www.familysearch.org/search/film/007440485?i=536)
 
 #### Петропавловское
 
@@ -1248,18 +1254,18 @@
 
 ##### Богородицкая церковь
 
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#2061072[446—496]](https://www.familysearch.org/search/film/007436596?i=445)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#2083279[395—421]](https://www.familysearch.org/search/film/007436889?i=394), [[390—396]](https://www.familysearch.org/search/film/007436889?i=389), [[421—440]](https://www.familysearch.org/search/film/007436889?i=420)
-- 1895 — ГАРТ, ф. 4, оп. 166, д. 138: [#2083283[620—664]](https://www.familysearch.org/search/film/007436893?i=619)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#2212366[712—776]](https://www.familysearch.org/search/film/007438143?i=711)
-- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#2256877[140—203]](https://www.familysearch.org/search/film/007438524?i=139)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#007436596[446—496]](https://www.familysearch.org/search/film/007436596?i=445)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#007436889[395—421]](https://www.familysearch.org/search/film/007436889?i=394), [[390—396]](https://www.familysearch.org/search/film/007436889?i=389), [[421—440]](https://www.familysearch.org/search/film/007436889?i=420)
+- 1895 — ГАРТ, ф. 4, оп. 166, д. 138: [#007436893[620—664]](https://www.familysearch.org/search/film/007436893?i=619)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#007438143[712—776]](https://www.familysearch.org/search/film/007438143?i=711)
+- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#007438524[140—203]](https://www.familysearch.org/search/film/007438524?i=139)
 
 #### Прости
 
 ##### Пророко-Ильинская церковь
 
-- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#2038504[591—637]](https://www.familysearch.org/search/film/007436483?i=590)
-- 1906 — ГАРТ, ф. 4, оп. 166, д. 233: [#2086641[149—198]](https://www.familysearch.org/search/film/007437059?i=148)
+- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#007436483[591—637]](https://www.familysearch.org/search/film/007436483?i=590)
+- 1906 — ГАРТ, ф. 4, оп. 166, д. 233: [#007437059[149—198]](https://www.familysearch.org/search/film/007437059?i=148)
 
 #### Пуст-Ашит
 
@@ -1271,8 +1277,8 @@
 
 ##### Сергиевская церковь
 
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 98: [#2061057[470—581]](https://www.familysearch.org/search/film/007436571?i=469)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 112: [#2061067[6—48]](https://www.familysearch.org/search/film/007436592?i=5)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 98: [#007436571[470—581]](https://www.familysearch.org/search/film/007436571?i=469)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 112: [#007436592[6—48]](https://www.familysearch.org/search/film/007436592?i=5)
 
 #### Русские Карамалы
 
@@ -1313,7 +1319,7 @@
 - 1891 — [ГАРТ, ф. 4, оп. 166, д. 114](https://www.familysearch.org/ark:/61903/3:1:3QS7-89Z9-MQKB)
 - 1892 — [ГАРТ, ф. 4, оп. 166, д. 121](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-Y5PN)
 - 1893 — [ГАРТ, ф. 4, оп. 166, д. 127](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z9-W9VN)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#2083279[768—867]](https://www.familysearch.org/search/film/007436889?i=767)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 130: [#007436889[768—867]](https://www.familysearch.org/search/film/007436889?i=767)
 - 1895 — [ГАРТ, ф. 4, оп. 166, д. 141](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-5SBT)
 - 1896 — [ГАРТ, ф. 4, оп. 166, д. 148](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-LH2P)
 - 1897 — [ГАРТ, ф. 4, оп. 166, д. 156](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9ZM-Y6CN)
@@ -1344,23 +1350,34 @@
 
 ##### Троицкая церковь
 
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#2083283[70—114]](https://www.familysearch.org/search/film/007436893?i=69)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#2212366[663—711]](https://www.familysearch.org/search/film/007438143?i=662)
-- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#2256877[105—139]](https://www.familysearch.org/search/film/007438524?i=104)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#007436893[70—114]](https://www.familysearch.org/search/film/007436893?i=69)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1408: [#007438143[663—711]](https://www.familysearch.org/search/film/007438143?i=662)
+- 1911 — ГАРТ, ф. 4, оп. 176, д. 1619: [#007438524[105—139]](https://www.familysearch.org/search/film/007438524?i=104)
 
 #### Сиренькино
 
 ##### Михаило-Архангельская церковь
 
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#2083283[217—277]](https://www.familysearch.org/search/film/007436893?i=216)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1407: [#2212366[118—165]](https://www.familysearch.org/search/film/007438143?i=117)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#007436893[217—277]](https://www.familysearch.org/search/film/007436893?i=216)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1407: [#007438143[118—165]](https://www.familysearch.org/search/film/007438143?i=117)
 
 #### Соболеково
 
 ##### Христорождественская церковь
 
-- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#2038504[531—590]](https://www.familysearch.org/search/film/007436483?i=530)
-- 1906 — ГАРТ, ф. 4, оп. 166, д. 233: [#2086641[55—148]](https://www.familysearch.org/search/film/007437059?i=54)
+- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#007436483[531—590]](https://www.familysearch.org/search/film/007436483?i=530)
+- 1906 — ГАРТ, ф. 4, оп. 166, д. 233: [#007437059[55—148]](https://www.familysearch.org/search/film/007437059?i=54)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1789, лл. 259—323: [#007438548[778—844]](https://www.familysearch.org/search/film/007438548?i=777)
+
+#### Старая Ашпала
+
+Также Ашпала.
+
+##### Покровская церковь
+
+- 1908 — [ГАРТ, ф. 4, оп. 176, д. 1401](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9Z9-XSN9)
+- 1912 — ГАРТ, ф. 4, оп. 176, д. 1620: [#007438524[883—926]](https://www.familysearch.org/search/film/007438524?i=882)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1789, лл. 229—233об: [#007438548[686—691]](https://www.familysearch.org/search/film/007438548?i=685); ГАРТ, ф. 4, оп. 176, д. 1789, лл. 234—258: [#007438548[753—777]](https://www.familysearch.org/search/film/007438548?i=752)
 
 #### Старая Елань
 
@@ -1368,8 +1385,8 @@
 
 ##### Космо-Дамиановская церковь
 
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#2083283[115—169]](https://www.familysearch.org/search/film/007436893?i=114)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1407: [#2212366[80—117]](https://www.familysearch.org/search/film/007438143?i=79)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 137: [#007436893[115—169]](https://www.familysearch.org/search/film/007436893?i=114)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1407: [#007438143[80—117]](https://www.familysearch.org/search/film/007438143?i=79)
 
 #### Старая Матвеевка
 
@@ -1377,7 +1394,7 @@
 
 ##### Троицкая церковь
 
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 98: [#2061057[216—325]](https://www.familysearch.org/search/film/007436571?i=215)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 98: [#007436571[216—325]](https://www.familysearch.org/search/film/007436571?i=215)
 
 #### Старое Байсарово
 
@@ -1401,7 +1418,7 @@
 
 ##### церковь
 
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 105: [#2061062[6—6]](https://www.familysearch.org/search/film/007437029?i=5)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 105: [#007437029[6—6]](https://www.familysearch.org/search/film/007437029?i=5)
 
 #### Старый Мелькен
 
@@ -1409,7 +1426,8 @@
 
 ##### Михаило-Архангельская церковь
 
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 98: [#2061057[414—469]](https://www.familysearch.org/search/film/007436571?i=413)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 98: [#007436571[414—469]](https://www.familysearch.org/search/film/007436571?i=413)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1789, лл. 145—177об: [#007438548[708—742]](https://www.familysearch.org/search/film/007438548?i=707); ГАРТ, ф. 4, оп. 176, д. 1789, лл. 179—193: [#007438548[641—656]](https://www.familysearch.org/search/film/007438548?i=640)
 
 #### Старый Пьяный Бор
 
@@ -1421,67 +1439,67 @@
 
 ##### Богородицкая церковь
 
-- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#2038504[357—431]](https://www.familysearch.org/search/film/007436483?i=356)
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#2061062[286—380]](https://www.familysearch.org/search/film/007437029?i=285)
+- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#007436483[357—431]](https://www.familysearch.org/search/film/007436483?i=356)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#007437029[286—380]](https://www.familysearch.org/search/film/007437029?i=285)
 
 #### Токмак
 
 ##### Троицкая церковь
 
-- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#2038504[163—210]](https://www.familysearch.org/search/film/007436483?i=162)
-- 1864 — ГАРТ, ф. 4, оп. 153, д. 281: [#2040368[434—483]](https://www.familysearch.org/search/film/007436371?i=433)
-- 1865 — ГАРТ, ф. 4, оп. 153, д. 284: [#2040370[470—519]](https://www.familysearch.org/search/film/007436373?i=469)
-- 1866 — ГАРТ, ф. 4, оп. 153, д. 291: [#2040375[105—153]](https://www.familysearch.org/search/film/007436378?i=104)
-- 1867 — ГАРТ, ф. 4, оп. 153, д. 296: [#2040378[331—390]](https://www.familysearch.org/search/film/007436381?i=330)
-- 1868 — ГАРТ, ф. 4, оп. 153, д. 299: [#2040380[628—685]](https://www.familysearch.org/search/film/007436403?i=627)
-- 1869 — ГАРТ, ф. 4, оп. 153, д. 303: [#2040383[865—907]](https://www.familysearch.org/search/film/007436400?i=864), [#2040384[6—13]](https://www.familysearch.org/search/film/007436399?i=5)
-- 1870 — ГАРТ, ф. 4, оп. 153, д. 308: [#2040387[639—669]](https://www.familysearch.org/search/film/007436396?i=638)
-- 1871 — ГАРТ, ф. 4, оп. 153, д. 331: [#2040392[712—758]](https://www.familysearch.org/search/film/007436391?i=711)
-- 1872 — ГАРТ, ф. 4, оп. 153, д. 337: [#2040395[671—712]](https://www.familysearch.org/search/film/007436388?i=670)
-- 1873 — ГАРТ, ф. 4, оп. 166, д. 2: [#2061800[216—250]](https://www.familysearch.org/search/film/007436696?i=215)
-- 1874 — ГАРТ, ф. 4, оп. 166, д. 7: [#2061803[72—122]](https://www.familysearch.org/search/film/007436665?i=71)
-- 1875 — ГАРТ, ф. 4, оп. 166, д. 12: [#2061806[340—382]](https://www.familysearch.org/search/film/007436684?i=339)
-- 1876 — ГАРТ, ф. 4, оп. 166, д. 17: [#2063278[365—414]](https://www.familysearch.org/search/film/007436682?i=364)
-- 1877 — ГАРТ, ф. 4, оп. 166, д. 23: [#2063282[830—882]](https://www.familysearch.org/search/film/007436768?i=829)
-- 1878 — ГАРТ, ф. 4, оп. 166, д. 28: [#2063286[405—457]](https://www.familysearch.org/search/film/007436773?i=404)
-- 1879 — ГАРТ, ф. 4, оп. 166, д. 34: [#2063290[6—65]](https://www.familysearch.org/search/film/007436776?i=5)
-- 1880 — ГАРТ, ф. 4, оп. 166, д. 38: [#2063292[857—867]](https://www.familysearch.org/search/film/007436778?i=856), [#2063293[6—51]](https://www.familysearch.org/search/film/007436779?i=5)
-- 1881 — ГАРТ, ф. 4, оп. 166, д. 44: [#2063297[484—536]](https://www.familysearch.org/search/film/007436783?i=483)
+- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#007436483[163—210]](https://www.familysearch.org/search/film/007436483?i=162)
+- 1864 — ГАРТ, ф. 4, оп. 153, д. 281: [#007436371[434—483]](https://www.familysearch.org/search/film/007436371?i=433)
+- 1865 — ГАРТ, ф. 4, оп. 153, д. 284: [#007436373[470—519]](https://www.familysearch.org/search/film/007436373?i=469)
+- 1866 — ГАРТ, ф. 4, оп. 153, д. 291: [#007436378[105—153]](https://www.familysearch.org/search/film/007436378?i=104)
+- 1867 — ГАРТ, ф. 4, оп. 153, д. 296: [#007436381[331—390]](https://www.familysearch.org/search/film/007436381?i=330)
+- 1868 — ГАРТ, ф. 4, оп. 153, д. 299: [#007436403[628—685]](https://www.familysearch.org/search/film/007436403?i=627)
+- 1869 — ГАРТ, ф. 4, оп. 153, д. 303: [#007436400[865—907]](https://www.familysearch.org/search/film/007436400?i=864), [#007436399[6—13]](https://www.familysearch.org/search/film/007436399?i=5)
+- 1870 — ГАРТ, ф. 4, оп. 153, д. 308: [#007436396[639—669]](https://www.familysearch.org/search/film/007436396?i=638)
+- 1871 — ГАРТ, ф. 4, оп. 153, д. 331: [#007436391[712—758]](https://www.familysearch.org/search/film/007436391?i=711)
+- 1872 — ГАРТ, ф. 4, оп. 153, д. 337: [#007436388[671—712]](https://www.familysearch.org/search/film/007436388?i=670)
+- 1873 — ГАРТ, ф. 4, оп. 166, д. 2: [#007436696[216—250]](https://www.familysearch.org/search/film/007436696?i=215)
+- 1874 — ГАРТ, ф. 4, оп. 166, д. 7: [#007436665[72—122]](https://www.familysearch.org/search/film/007436665?i=71)
+- 1875 — ГАРТ, ф. 4, оп. 166, д. 12: [#007436684[340—382]](https://www.familysearch.org/search/film/007436684?i=339)
+- 1876 — ГАРТ, ф. 4, оп. 166, д. 17: [#007436682[365—414]](https://www.familysearch.org/search/film/007436682?i=364)
+- 1877 — ГАРТ, ф. 4, оп. 166, д. 23: [#007436768[830—882]](https://www.familysearch.org/search/film/007436768?i=829)
+- 1878 — ГАРТ, ф. 4, оп. 166, д. 28: [#007436773[405—457]](https://www.familysearch.org/search/film/007436773?i=404)
+- 1879 — ГАРТ, ф. 4, оп. 166, д. 34: [#007436776[6—65]](https://www.familysearch.org/search/film/007436776?i=5)
+- 1880 — ГАРТ, ф. 4, оп. 166, д. 38: [#007436778[857—867]](https://www.familysearch.org/search/film/007436778?i=856), [#007436779[6—51]](https://www.familysearch.org/search/film/007436779?i=5)
+- 1881 — ГАРТ, ф. 4, оп. 166, д. 44: [#007436783[484—536]](https://www.familysearch.org/search/film/007436783?i=483)
 - 1882 — ГАРТ, ф. 4, оп. 166, д. 49: [#007436786[784—845]](https://www.familysearch.org/search/film/007436786?i=783)
-- 1883 — ГАРТ, ф. 4, оп. 166, д. 60: [#2064544[386—450]](https://www.familysearch.org/search/film/007436850?i=385)
-- 1884 — ГАРТ, ф. 4, оп. 166, д. 67: [#2064548[818—876]](https://www.familysearch.org/search/film/007436854?i=817), [#2064549[6—12]](https://www.familysearch.org/search/film/007436855?i=5)
-- 1885 — ГАРТ, ф. 4, оп. 166, д. 75: [#2064554[125—184]](https://www.familysearch.org/search/film/007436860?i=124)
-- 1886 — ГАРТ, ф. 4, оп. 166, д. 83: [#2064496[178—233]](https://www.familysearch.org/search/film/007436839?i=177)
-- 1887 — ГАРТ, ф. 4, оп. 166, д. 86: [#2064498[265—341]](https://www.familysearch.org/search/film/007436841?i=264)
-- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#2064502[48—114]](https://www.familysearch.org/search/film/007436845?i=47)
-- 1889 — ГАРТ, ф. 4, оп. 166, д. 99: [#2061057[654—706]](https://www.familysearch.org/search/film/007436571?i=653)
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#2061062[607—669]](https://www.familysearch.org/search/film/007437029?i=606)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#2061067[308—366]](https://www.familysearch.org/search/film/007436592?i=307)
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 118: [#2061071[98—176]](https://www.familysearch.org/search/film/007436595?i=97)
-- 1893 — ГАРТ, ф. 4, оп. 166, д. 129: [#2061077[676—739]](https://www.familysearch.org/search/film/007436639?i=675)
-- 1894 — ГАРТ, ф. 4, оп. 166, д. 134: [#2083281[363—416]](https://www.familysearch.org/search/film/007436891?i=362)
-- 1895 — ГАРТ, ф. 4, оп. 166, д. 145: [#2083287[411—463]](https://www.familysearch.org/search/film/007436897?i=410)
-- 1896 — ГАРТ, ф. 4, оп. 166, д. 154а: [#2085918[622—677]](https://www.familysearch.org/search/film/007436984?i=621)
-- 1897 — ГАРТ, ф. 4, оп. 166, д. 162: [#2085922[382—434]](https://www.familysearch.org/search/film/007436988?i=381)
-- 1898 — ГАРТ, ф. 4, оп. 166, д. 170: [#2085926[352—373]](https://www.familysearch.org/search/film/007436992?i=351)
-- 1899 — ГАРТ, ф. 4, оп. 166, д. 177: [#2085713[908—954]](https://www.familysearch.org/search/film/007436952?i=907)
-- 1900 — ГАРТ, ф. 4, оп. 166, д. 181: [#2085715[743—794]](https://www.familysearch.org/search/film/007436954?i=742)
-- 1901 — ГАРТ, ф. 4, оп. 166, д. 191: [#2085720[752—809]](https://www.familysearch.org/search/film/007436959?i=751)
-- 1902 — ГАРТ, ф. 4, оп. 166, д. 200: [#2085933[319—381]](https://www.familysearch.org/search/film/007436999?i=318)
-- 1903 — ГАРТ, ф. 4, оп. 166, д. 210: [#2085379[172—225]](https://www.familysearch.org/search/film/007436932?i=171)
-- 1904 — ГАРТ, ф. 4, оп. 166, д. 216: [#2085382[659—715]](https://www.familysearch.org/search/film/007436935?i=658)
-- 1905 — ГАРТ, ф. 4, оп. 166, д. 222: [#2085386[87—140]](https://www.familysearch.org/search/film/007436939?i=86)
-- 1906 — ГАРТ, ф. 4, оп. 166, д. 232: [#2086640[453—509]](https://www.familysearch.org/search/film/007437058?i=452)
-- 1907 — ГАРТ, ф. 4, оп. 166, д. 234: [#2086641[853—893]](https://www.familysearch.org/search/film/007437059?i=852)
-- 1908 — ГАРТ, ф. 4, оп. 176, д. 1403: [#2212363[435—483]](https://www.familysearch.org/search/film/007438140?i=434)
-- 1909 — ГАРТ, ф. 4, оп. 176, д. 1412: [#2212369[75—128]](https://www.familysearch.org/search/film/007438109?i=74)
-- 1910 — ГАРТ, ф. 4, оп. 176, д. 1547: [#2236766[700—760]](https://www.familysearch.org/search/film/007438487?i=699)
-- 1911 — ГАРТ, ф. 4, оп. 176, д. 1553: [#2236770[499—552]](https://www.familysearch.org/search/film/007438483?i=498)
-- 1912 — ГАРТ, ф. 4, оп. 176, д. 1618: [#2256876[217—275]](https://www.familysearch.org/search/film/007438525?i=216)
-- 1913 — ГАРТ, ф. 4, оп. 176, д. 1624: [#2272148[674—733]](https://www.familysearch.org/search/film/007439141?i=673)
-- 1914 — ГАРТ, ф. 4, оп. 176, д. 1726: [#2270787[809—867]](https://www.familysearch.org/search/film/007438616?i=808)
+- 1883 — ГАРТ, ф. 4, оп. 166, д. 60: [#007436850[386—450]](https://www.familysearch.org/search/film/007436850?i=385)
+- 1884 — ГАРТ, ф. 4, оп. 166, д. 67: [#007436854[818—876]](https://www.familysearch.org/search/film/007436854?i=817), [#007436855[6—12]](https://www.familysearch.org/search/film/007436855?i=5)
+- 1885 — ГАРТ, ф. 4, оп. 166, д. 75: [#007436860[125—184]](https://www.familysearch.org/search/film/007436860?i=124)
+- 1886 — ГАРТ, ф. 4, оп. 166, д. 83: [#007436839[178—233]](https://www.familysearch.org/search/film/007436839?i=177)
+- 1887 — ГАРТ, ф. 4, оп. 166, д. 86: [#007436841[265—341]](https://www.familysearch.org/search/film/007436841?i=264)
+- 1888 — ГАРТ, ф. 4, оп. 166, д. 91: [#007436845[48—114]](https://www.familysearch.org/search/film/007436845?i=47)
+- 1889 — ГАРТ, ф. 4, оп. 166, д. 99: [#007436571[654—706]](https://www.familysearch.org/search/film/007436571?i=653)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#007437029[607—669]](https://www.familysearch.org/search/film/007437029?i=606)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#007436592[308—366]](https://www.familysearch.org/search/film/007436592?i=307)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 118: [#007436595[98—176]](https://www.familysearch.org/search/film/007436595?i=97)
+- 1893 — ГАРТ, ф. 4, оп. 166, д. 129: [#007436639[676—739]](https://www.familysearch.org/search/film/007436639?i=675)
+- 1894 — ГАРТ, ф. 4, оп. 166, д. 134: [#007436891[363—416]](https://www.familysearch.org/search/film/007436891?i=362)
+- 1895 — ГАРТ, ф. 4, оп. 166, д. 145: [#007436897[411—463]](https://www.familysearch.org/search/film/007436897?i=410)
+- 1896 — ГАРТ, ф. 4, оп. 166, д. 154а: [#007436984[622—677]](https://www.familysearch.org/search/film/007436984?i=621)
+- 1897 — ГАРТ, ф. 4, оп. 166, д. 162: [#007436988[382—434]](https://www.familysearch.org/search/film/007436988?i=381)
+- 1898 — ГАРТ, ф. 4, оп. 166, д. 170: [#007436992[352—373]](https://www.familysearch.org/search/film/007436992?i=351)
+- 1899 — ГАРТ, ф. 4, оп. 166, д. 177: [#007436952[908—954]](https://www.familysearch.org/search/film/007436952?i=907)
+- 1900 — ГАРТ, ф. 4, оп. 166, д. 181: [#007436954[743—794]](https://www.familysearch.org/search/film/007436954?i=742)
+- 1901 — ГАРТ, ф. 4, оп. 166, д. 191: [#007436959[752—809]](https://www.familysearch.org/search/film/007436959?i=751)
+- 1902 — ГАРТ, ф. 4, оп. 166, д. 200: [#007436999[319—381]](https://www.familysearch.org/search/film/007436999?i=318)
+- 1903 — ГАРТ, ф. 4, оп. 166, д. 210: [#007436932[172—225]](https://www.familysearch.org/search/film/007436932?i=171)
+- 1904 — ГАРТ, ф. 4, оп. 166, д. 216: [#007436935[659—715]](https://www.familysearch.org/search/film/007436935?i=658)
+- 1905 — ГАРТ, ф. 4, оп. 166, д. 222: [#007436939[87—140]](https://www.familysearch.org/search/film/007436939?i=86)
+- 1906 — ГАРТ, ф. 4, оп. 166, д. 232: [#007437058[453—509]](https://www.familysearch.org/search/film/007437058?i=452)
+- 1907 — ГАРТ, ф. 4, оп. 166, д. 234: [#007437059[853—893]](https://www.familysearch.org/search/film/007437059?i=852)
+- 1908 — ГАРТ, ф. 4, оп. 176, д. 1403: [#007438140[435—483]](https://www.familysearch.org/search/film/007438140?i=434)
+- 1909 — ГАРТ, ф. 4, оп. 176, д. 1412: [#007438109[75—128]](https://www.familysearch.org/search/film/007438109?i=74)
+- 1910 — ГАРТ, ф. 4, оп. 176, д. 1547: [#007438487[700—760]](https://www.familysearch.org/search/film/007438487?i=699)
+- 1911 — ГАРТ, ф. 4, оп. 176, д. 1553: [#007438483[499—552]](https://www.familysearch.org/search/film/007438483?i=498)
+- 1912 — ГАРТ, ф. 4, оп. 176, д. 1618: [#007438525[217—275]](https://www.familysearch.org/search/film/007438525?i=216)
+- 1913 — ГАРТ, ф. 4, оп. 176, д. 1624: [#007439141[674—733]](https://www.familysearch.org/search/film/007439141?i=673)
+- 1914 — ГАРТ, ф. 4, оп. 176, д. 1726: [#007438616[809—867]](https://www.familysearch.org/search/film/007438616?i=808)
 - 1915 — 
-- 1916 — ГАРТ, ф. Р-1172, оп. 4, д. 188: [#2381790[505—536]](https://www.familysearch.org/search/film/007440485?i=504)
+- 1916 — ГАРТ, ф. Р-1172, оп. 4, д. 188: [#007440485[505—536]](https://www.familysearch.org/search/film/007440485?i=504)
 
 #### Уратьма
 
@@ -1489,10 +1507,11 @@
 
 ##### Митрофаниевская церковь
 
-- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#2038504[278—357]](https://www.familysearch.org/search/film/007436483?i=277)
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#2061062[427—532]](https://www.familysearch.org/search/film/007437029?i=426)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#2061067[130—256]](https://www.familysearch.org/search/film/007436592?i=129)
-- 1907 — ГАРТ, ф. 4, оп. 166, д. 234: [#2086641[932—949]](https://www.familysearch.org/search/film/007437059?i=931)
+- 1863 — ГАРТ, ф. 4, оп. 153, д. 278: [#007436483[278—357]](https://www.familysearch.org/search/film/007436483?i=277)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 106: [#007437029[427—532]](https://www.familysearch.org/search/film/007437029?i=426)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#007436592[130—256]](https://www.familysearch.org/search/film/007436592?i=129)
+- 1907 — ГАРТ, ф. 4, оп. 166, д. 234: [#007437059[932—949]](https://www.familysearch.org/search/film/007437059?i=931)
+- 1915 — ГАРТ, ф. 4, оп. 176, д. 1789, лл. 383—450: [#007438548[905—973]](https://www.familysearch.org/search/film/007438548?i=904)
 
 #### Федотово
 
@@ -1502,16 +1521,16 @@
 
 ##### Михаило-Архангельская церковь
 
-- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#2086641[722—802]](https://www.familysearch.org/search/film/007437059?i=721)
-- 1912 — ГАРТ, ф. 4, оп. 176, д. 1620: [#2256877[927—993]](https://www.familysearch.org/search/film/007438524?i=926)
+- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#007437059[722—802]](https://www.familysearch.org/search/film/007437059?i=721)
+- 1912 — ГАРТ, ф. 4, оп. 176, д. 1620: [#007438524[927—993]](https://www.familysearch.org/search/film/007438524?i=926)
 
 #### Языково
 
 ##### Михаило-Архангельская церковь
 
-- 1890 — ГАРТ, ф. 4, оп. 166, д. 105: [#2061062[75—130]](https://www.familysearch.org/search/film/007437029?i=74)
-- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#2061067[675—727]](https://www.familysearch.org/search/film/007436592?i=674)
-- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#2061072[123—177]](https://www.familysearch.org/search/film/007436596?i=122)
-- 1893 — ГАРТ, ф. 4, оп. 166, д. 129: [#2083279[36—81]](https://www.familysearch.org/search/film/007436889?i=35)
-- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#2086641[632—690]](https://www.familysearch.org/search/film/007437059?i=631)
+- 1890 — ГАРТ, ф. 4, оп. 166, д. 105: [#007437029[75—130]](https://www.familysearch.org/search/film/007437029?i=74)
+- 1891 — ГАРТ, ф. 4, оп. 166, д. 113: [#007436592[675—727]](https://www.familysearch.org/search/film/007436592?i=674)
+- 1892 — ГАРТ, ф. 4, оп. 166, д. 120: [#007436596[123—177]](https://www.familysearch.org/search/film/007436596?i=122)
+- 1893 — ГАРТ, ф. 4, оп. 166, д. 129: [#007436889[36—81]](https://www.familysearch.org/search/film/007436889?i=35)
+- 1907 — ГАРТ, ф. 4, оп. 166, д. 233: [#007437059[632—690]](https://www.familysearch.org/search/film/007437059?i=631)
 

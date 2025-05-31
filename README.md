@@ -5,7 +5,7 @@
 * [Лаишевский уезд](laishev.md)
 * [Свияжский уезд](sviyazhsk-register.md)
 * [Спасский уезд](spassk-register.md)
-* [Тетюшский уезд](tetyushi.md)
+* [Тетюшский уезд](tetyushi-register.md)
 
 ### Самарская губерния
 
