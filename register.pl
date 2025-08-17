@@ -9,7 +9,7 @@ use YAML ();
 
 
 my ($meta, $data) = YAML::LoadFile($ARGV[0]);
-my $films = YAML::LoadFile('films.yaml');
+my $films = {}; # YAML::LoadFile('films.yaml');
 
 unless ($data) {
     $data = $meta;
