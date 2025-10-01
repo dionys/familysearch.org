@@ -6,6 +6,7 @@
 * [Свияжский уезд](sviyazhsk-register.md)
 * [Спасский уезд](spassk-register.md)
 * [Тетюшский уезд](tetyushi-register.md)
+* [Чистопольский уезд](chistopol-register.md)
 
 ### Самарская губерния
 
