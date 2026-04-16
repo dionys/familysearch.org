@@ -2,7 +2,9 @@
 
 ### Казанская губерния
 
+* [Казанский уезд](kazan-register.md)
 * [Лаишевский уезд](laishev.md)
+* [Мамадышский уезд](mamadysh-register.md)
 * [Свияжский уезд](sviyazhsk-register.md)
 * [Спасский уезд](spassk-register.md)
 * [Тетюшский уезд](tetyushi-register.md)
